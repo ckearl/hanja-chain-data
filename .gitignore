@@ -11,3 +11,9 @@ data/unihan/
 
 __pycache__/
 *.pyc
+
+# output
+raw_responses/
+
+# output logs
+scrape.log

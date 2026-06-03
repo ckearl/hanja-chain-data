@@ -1,4 +1,7 @@
+# Claude Design Prompt
+
 You are designing a mobile-first Korean Hanja learning app called (working title)
+
 **한자 체인** (hanja chain) or similar. The target user is a non-native Korean speaker who is
 proficient in Korean and wants to deepen their understanding of Chinese character
 roots in the language. Think scholarly but approachable — not a kids' flashcard
