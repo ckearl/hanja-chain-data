@@ -1,0 +1,11 @@
+{
+  "_comment": "Hand-maintained backfill for chars referenced by stdict/krdict compounds but absent from both the core list and rycont. Grow this during bucket_and_merge (stage 5) as un-mapped Hanja surface. Each key is an NFC-normalized Hanja; values supply minimal metadata so the char can exist in the characters table.",
+  "variant_to_rycont": {
+    "_comment": "Core-list glyphs (정자) whose radical/strokes live under a different unified codepoint (약자/이체자) in rycont. NFC does NOT unify these (distinct unified ideographs), so we borrow rycont metadata via this explicit map while keeping the core glyph as canonical.",
+    "奬": "獎",
+    "姊": "姉",
+    "產": "産",
+    "絕": "絶"
+  },
+  "chars": {}
+}

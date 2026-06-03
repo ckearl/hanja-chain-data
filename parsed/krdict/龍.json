@@ -1,0 +1,4476 @@
+{
+  "exact": {
+    "total_reported_sum": 395,
+    "unique_count": 100,
+    "matched_count": 8,
+    "matched_entries": [
+      {
+        "target_code": "26627",
+        "word": "용",
+        "origin": "龍",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몸은 거대한 뱀과 비슷하고, 머리에 뿔이 있으며 네 발에 날카로운 발톱이 있는 상상 속의 동물.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "dragon",
+                "trans_dfn": "An imaginary animal that has a body similar to that of a big snake, a horn on its head and sharp claws on its four feet."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69227",
+        "word": "용두사미",
+        "origin": "龍頭蛇尾",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "시작할 때는 거창하고 대단해 보이지만 끝으로 갈수록 점점 기세가 줄어든다는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "anticlimax",
+                "trans_dfn": "An expression that it seems grand and great at the beginning, but as it approaches the end, its momentum gradually diminishes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69249",
+        "word": "용수철",
+        "origin": "龍鬚鐵",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "나사 모양으로 빙빙 돌려 감아 잘 늘어나고 줄어들게 만든 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "spring",
+                "trans_dfn": "A screw-shaped object that is coiled round and round, made to stretch and shrink easily."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69409",
+        "word": "용트림",
+        "origin": "龍트림",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "거드름을 피우며 일부러 크게 트림함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "big burp; belching loudly on purpose",
+                "trans_dfn": "Letting out a big burp in a self-important manner, on purpose."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69219",
+        "word": "용궁",
+        "origin": "龍宮",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "옛날이야기나 전설에서, 바닷속에 있다고 하는 용왕의 궁전.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "underwater palace",
+                "trans_dfn": "A palace from folk tales or legends, said to be inhabited by the sea king."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68733",
+        "word": "용띠",
+        "origin": "龍띠",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용의 해에 태어난 사람의 띠.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "yongtti",
+                "trans_dfn": "The zodiac sign of a person born in the year of the dragon."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68757",
+        "word": "용비어천가",
+        "origin": "龍飛御天歌",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "조선 시대에 세종의 명으로 만든 노래. 훈민정음을 처음으로 사용하여 만든 작품이며, 조선 건국의 시조를 찬양하는 서사시이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "Yongbieocheonga",
+                "trans_dfn": "A song created under the order of King Sejong during the Joseon Dynasty, literally meaning the Songs of the Dragons Flying to Heaven; it is the first piece of work made by using Hunminjeong-eum, the Korean alphabet, and also an epic poem that praises the founding fathers of the dynasty."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69256",
+        "word": "용왕",
+        "origin": "龍王",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "바다에 살며 물과 물속 생물을 다스린다고 하는 왕.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sea king",
+                "trans_dfn": "A king believed to live in the sea and govern water and aquatic organisms."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "all_unique_entries": [
+      {
+        "target_code": "26627",
+        "word": "용",
+        "origin": "龍",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몸은 거대한 뱀과 비슷하고, 머리에 뿔이 있으며 네 발에 날카로운 발톱이 있는 상상 속의 동물.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "dragon",
+                "trans_dfn": "An imaginary animal that has a body similar to that of a big snake, a horn on its head and sharp claws on its four feet."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69212",
+        "word": "용",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "한꺼번에 모아서 내는 센 힘.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "great effort; strain",
+                "trans_dfn": "The great force or effort one musters up all at once."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "88913",
+        "word": "-용",
+        "origin": "用",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "'그것을 위해 쓰이는 물건' 또는 '그 사람을 대상으로 하는 물건'의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-yong",
+                "trans_dfn": "A suffix used to mean an object used for something or an object for that person."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69257",
+        "word": "용용",
+        "origin": "",
+        "pos": "감탄사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "양쪽 엄지손가락 끝을 자기의 양 볼에 대고 나머지 네 손가락을 펴서 흔들며 남을 약 올릴 때 내는 소리.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "",
+                "trans_dfn": "An exclamation that one uses when he/she teases another person by making a gesture (touching the tips of the thumbs to the cheeks and spreading the other fingers)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "26628",
+        "word": "용감하다",
+        "origin": "勇敢하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용기가 있고 씩씩하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "brave; courageous",
+                "trans_dfn": "Daring and bold."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69215",
+        "word": "용건",
+        "origin": "用件",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "해야 할 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "business; things to do",
+                "trans_dfn": "Things to do."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "26629",
+        "word": "용기",
+        "origin": "勇氣",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "겁이 없고 씩씩한 기운.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "courage; guts",
+                "trans_dfn": "A spirit of bravery without fear."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "26635",
+        "word": "용도",
+        "origin": "用途",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "쓰이는 곳이나 목적.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use; purpose",
+                "trans_dfn": "The area or purpose for which something is used."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "67869",
+        "word": "용돈",
+        "origin": "用돈",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "개인이 여러 가지 용도로 자유롭게 쓸 수 있는 돈.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pocket money; allowance",
+                "trans_dfn": "Money that a person can use freely for various purposes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "26636",
+        "word": "용서",
+        "origin": "容恕",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "잘못이나 죄에 대해 꾸중을 하거나 벌을 주지 않고 너그럽게 덮어 줌.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forgiveness; mercy",
+                "trans_dfn": "The act of granting pardon without punishing or scolding someone's mistake or sin."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69244",
+        "word": "용서되다",
+        "origin": "容恕되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "잘못이나 죄로 꾸중을 듣거나 벌을 받지 않고 잘못이나 죄가 덮이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be forgiven",
+                "trans_dfn": "For one's mistake or sin to be excused without being punished or scolded."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "26638",
+        "word": "용서하다",
+        "origin": "容恕하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "잘못이나 죄에 대해 꾸중을 하거나 벌을 주지 않고 너그럽게 덮어 주다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pardon; forgive",
+                "trans_dfn": "To grant pardon generously without punishing or scolding someone's mistake or sin."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "26639",
+        "word": "용어",
+        "origin": "用語",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 분야에서 전문적으로 사용하는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "term; terminology",
+                "trans_dfn": "A word specially used in a certain field."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69410",
+        "word": "용품",
+        "origin": "用品",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일이나 목적에 맞게 쓰이는 물품.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "goods; articles; items",
+                "trans_dfn": "Things used appropriately for a certain task or purpose."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69213",
+        "word": "용감무쌍하다",
+        "origin": "勇敢無雙하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "매우 용기가 있어 씩씩하고 기운차다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "intrepid; heroic",
+                "trans_dfn": "Very courageous, brave, and energetic."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69214",
+        "word": "용감히",
+        "origin": "勇敢히",
+        "pos": "부사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용기가 있고 씩씩하게.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "bravely; courageously",
+                "trans_dfn": "In a daring, bold manner."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69216",
+        "word": "용공",
+        "origin": "容共",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "공산주의의 주장을 받아들여 그 운동이나 정책에 뜻을 같이하는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pro-communist",
+                "trans_dfn": "The act of accepting the ideology of communism and endorsing its movements and policies."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69217",
+        "word": "용광로",
+        "origin": "鎔鑛爐",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "아주 높은 온도로 광석을 녹여서 쇳물을 만드는 장치.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "blast furnace",
+                "trans_dfn": "A device for making molten metal by melting ore at an extremely high temperature."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69218",
+        "word": "용구",
+        "origin": "用具",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 하거나 물건을 만드는 데 쓰는 도구.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "tool; implement",
+                "trans_dfn": "A tool used for doing something or making an item."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "26633",
+        "word": "용기",
+        "origin": "容器",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건을 담는 그릇.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "container",
+                "trans_dfn": "A container for holding things."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69220",
+        "word": "용기백배하다",
+        "origin": "勇氣百倍하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "격려나 응원을 받아 용기가 생겨서 힘을 더 내다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be encouraged",
+                "trans_dfn": "To gain more courage and energy from encouragement or cheers."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69221",
+        "word": "용납",
+        "origin": "容納",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "너그러운 마음으로 다른 사람의 말이나 생각, 행동 또는 물건이나 상황 등을 받아들임.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "toleration; pardon",
+                "trans_dfn": "The act of generously accepting someone's remarks, thoughts, behaviors, items, situations, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69222",
+        "word": "용납되다",
+        "origin": "容納되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "말이나 생각, 행동 또는 물건, 상황 등이 너그러운 마음으로 받아들여지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be tolerated; be pardoned",
+                "trans_dfn": "For someone's remarks, thoughts, behaviors, items, situations, etc., to be generously accepted."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69223",
+        "word": "용납하다",
+        "origin": "容納하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "너그러운 마음으로 다른 사람의 말이나 생각, 행동 또는 물건이나 상황 등을 받아들이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "tolerate; pardon",
+                "trans_dfn": "To generously accept someone's remarks, thoughts, behaviors, items, situations, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69224",
+        "word": "용단",
+        "origin": "勇斷",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용감하게 결단을 내림. 또는 그 결단.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "courage decision; resolute decision",
+                "trans_dfn": "The act of making a brave decision; or the decision."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69225",
+        "word": "용달",
+        "origin": "用達",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "전문적으로 짐이나 물건 등을 배달함. 또는 그런 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "delivery service",
+                "trans_dfn": "The act of delivering freight, items, etc., professionally, or such a task."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69226",
+        "word": "용달차",
+        "origin": "用達車",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "전문적으로 짐이나 물건 등을 배달하는 작은 화물 자동차.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "delivery van",
+                "trans_dfn": "A small truck that specially delivers freight, items, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69227",
+        "word": "용두사미",
+        "origin": "龍頭蛇尾",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "시작할 때는 거창하고 대단해 보이지만 끝으로 갈수록 점점 기세가 줄어든다는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "anticlimax",
+                "trans_dfn": "An expression that it seems grand and great at the beginning, but as it approaches the end, its momentum gradually diminishes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69228",
+        "word": "용량",
+        "origin": "容量",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "일정한 공간에 들어갈 수 있는 분량.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "capacity; volume",
+                "trans_dfn": "The amount that can fit into a certain space."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 물질이 일정한 상태에서 가질 수 있는 에너지나 전기의 양.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "capacity",
+                "trans_dfn": "The amount of energy or electricity that a certain substance can have in a certain state."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "컴퓨터나 휴대폰 등에서 저장할 수 있는 정보의 양.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "capacity",
+                "trans_dfn": "The amount of information that can be stored on a computer or mobile phone."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69229",
+        "word": "용렬하다",
+        "origin": "庸劣하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "생각이 좁고 성품이 너그럽지 못하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "petty; small-minded",
+                "trans_dfn": "Narrow-minded and intolerant."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69230",
+        "word": "용례",
+        "origin": "用例",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "실제로 쓰이는 예.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "example",
+                "trans_dfn": "The example of usage."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69231",
+        "word": "용매",
+        "origin": "溶媒",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 물질을 녹이는 데 쓰는 액체. 또는 액체를 액체에 녹일 때 양이 많은 쪽의 액체.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "solvent; dissolvent",
+                "trans_dfn": "The liquid used for dissolving a substance; or the lquid of a lager quantity when one liquid is melted into another."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69232",
+        "word": "용맹",
+        "origin": "勇猛",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용감하고 날래며 기운이 넘침.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "courage; bravery",
+                "trans_dfn": "The trait of being gallant, quick, and vigorous."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69234",
+        "word": "용맹스럽다",
+        "origin": "勇猛스럽다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용감하고 날래며 기운이 넘치는 데가 있다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "courageous; brave",
+                "trans_dfn": "Having a gallant, quick, and vigorous quality in someone."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69233",
+        "word": "용맹하다",
+        "origin": "勇猛하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용감하고 날래며 기운이 넘치다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "courageous; brave",
+                "trans_dfn": "Gallant, quick, and vigorous."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69236",
+        "word": "용모",
+        "origin": "容貌",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람의 얼굴 모양.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "face; facial look",
+                "trans_dfn": "Facial appearance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91417",
+        "word": "용무",
+        "origin": "用務",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "해야 할 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "business; things to do",
+                "trans_dfn": "Things to do."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69238",
+        "word": "용법",
+        "origin": "用法",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사용하는 방법.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "direction for use; instruction for use; usage",
+                "trans_dfn": "A certain way of using something."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "법을 이용함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use of law",
+                "trans_dfn": "The act of using law."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69239",
+        "word": "용변",
+        "origin": "用便",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "똥이나 오줌을 눔.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "relieving oneself",
+                "trans_dfn": "To defecate or urinate."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69240",
+        "word": "용병",
+        "origin": "傭兵",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "봉급을 주며 병사를 부려 씀. 또는 봉급을 주며 부려 쓰는 병사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "mercenary; hired solider",
+                "trans_dfn": "The act of hiring a solider for a salary; or a solider hired for a salary."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69241",
+        "word": "용빼다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "큰 힘을 쓰거나 대단한 재주를 부리다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "perform a great talent",
+                "trans_dfn": "To exercise one's great power or demonstrate an outstanding skill."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69242",
+        "word": "용사",
+        "origin": "勇士",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용감하고 씩씩한 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "brave person",
+                "trans_dfn": "A brave and energetic person."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "용감한 군사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "warrior; veteran",
+                "trans_dfn": "A brave solider."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69245",
+        "word": "용솟음",
+        "origin": "湧솟음",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물이 매우 세차게 위로 나옴.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "spout; gushing out",
+                "trans_dfn": "The motion of water spurting very strongly."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "힘이나 기세가 매우 세차게 솟아남.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "gush",
+                "trans_dfn": "The strong surge of power or energy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69246",
+        "word": "용솟음치다",
+        "origin": "湧솟음치다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물이 매우 세차게 위로 나오다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "gush out; spout",
+                "trans_dfn": "For water to spurt very strongly."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "힘이나 기세가 매우 세차게 솟아나다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "soar",
+                "trans_dfn": "For power or energy to surge very strongly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69248",
+        "word": "용수",
+        "origin": "容手",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 이루기 위해 수단을 부림. 또는 그 수단.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "playing a trick; trick",
+                "trans_dfn": "The act of playing a trick to achieve something or the trick."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69249",
+        "word": "용수철",
+        "origin": "龍鬚鐵",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "나사 모양으로 빙빙 돌려 감아 잘 늘어나고 줄어들게 만든 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "spring",
+                "trans_dfn": "A screw-shaped object that is coiled round and round, made to stretch and shrink easily."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69250",
+        "word": "용쓰다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "한꺼번에 기운을 몰아서 힘을 쓰다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "strain",
+                "trans_dfn": "To do one's utmost by using all of one's energy at once."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "힘들여서 괴로움을 억지로 참다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "endure; stifle",
+                "trans_dfn": "To suppress pain by exerting oneself."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69251",
+        "word": "용암",
+        "origin": "鎔巖",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "화산이 폭발할 때 솟구쳐 나온 마그마. 또는 그것이 굳어서 된 암석.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "lava",
+                "trans_dfn": "The magma that bursts out when a volcano explodes, or a rock formed by the solidified magma."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69253",
+        "word": "용액",
+        "origin": "溶液",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "두 가지 이상의 물질이 고르게 섞인 액체.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "solution",
+                "trans_dfn": "A liquid made by an even mixture of two or more substances."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69254",
+        "word": "용언",
+        "origin": "用言",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "문법에서, 동사나 형용사와 같이 문장에서 서술어의 기능을 하는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "predicate",
+                "trans_dfn": "In grammar, a word such as a verb or adjective which functions as a predicate in a sentence."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69255",
+        "word": "용역",
+        "origin": "用役",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "생산과 소비에 필요한 노동력을 제공하는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "service",
+                "trans_dfn": "The act of providing labor necessary for production and consumption."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69258",
+        "word": "용의",
+        "origin": "用意",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 하고자 마음을 먹음. 또는 그런 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "willingness; readiness",
+                "trans_dfn": "The act of making up one's mind to do something, or such an attitude."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69259",
+        "word": "용의자",
+        "origin": "容疑者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "범죄를 저지른 범인으로 의심을 받는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "suspect",
+                "trans_dfn": "A person who is suspected of having committed a crime."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69260",
+        "word": "용의주도하다",
+        "origin": "用意周到하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "신경을 써서 매우 꼼꼼하게 준비하여 빈틈이 없다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "cautious; circumspect; careful",
+                "trans_dfn": "Thorough by preparing very carefully."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69373",
+        "word": "용이하다",
+        "origin": "容易하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어렵지 않고 매우 쉽다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "easy",
+                "trans_dfn": "Not difficult."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69375",
+        "word": "용인",
+        "origin": "容認",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "너그러운 마음으로 받아들여 인정함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "admission; approval; acceptance",
+                "trans_dfn": "The act of tolerating something with a generous mind."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69378",
+        "word": "용인되다",
+        "origin": "容認되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "너그러운 마음으로 받아들여져 인정되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be admitted; be accepted",
+                "trans_dfn": "To be tolerated by someone with a generous mind."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69381",
+        "word": "용인하다",
+        "origin": "容認하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "너그러운 마음으로 받아들여 인정하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "admit; accept; tolerate",
+                "trans_dfn": "To tolerate something with a generous mind."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69384",
+        "word": "용적",
+        "origin": "容積",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건을 담을 수 있는 부피. 또는 어떤 공간을 차지하는 분량.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "volume; capacity; bulk",
+                "trans_dfn": "The volume that can accommodate a certain object; or the amount occupying a certain space."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69386",
+        "word": "용적률",
+        "origin": "容積率",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "땅의 면적에 대한 건물 바닥 전체 면적의 비율.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "floor area ratio",
+                "trans_dfn": "The ratio of a building's total floor area to the size of the land."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69389",
+        "word": "용접",
+        "origin": "鎔接",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "두 개의 금속, 유리, 플라스틱 등을 녹여 서로 이어 붙이는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "welding",
+                "trans_dfn": "The process of connecting two pieces of metal, glass, plastic, etc., by heating them."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69392",
+        "word": "용접공",
+        "origin": "鎔接工",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "두 개의 금속, 유리, 플라스틱 등을 녹여 서로 이어 붙이는 일을 직업으로 하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "welder",
+                "trans_dfn": "A person whose job it is to connect two pieces of metal, glass, plastic, etc., by heating them."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69395",
+        "word": "용접하다",
+        "origin": "鎔接하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "두 개의 금속, 유리, 플라스틱 등을 녹여 서로 이어 붙이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "weld",
+                "trans_dfn": "To connect two pieces of metal, glass, plastic, etc., by heating them."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69400",
+        "word": "용지",
+        "origin": "用紙",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일에 쓰는 종이.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "paper",
+                "trans_dfn": "Paper used for something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69404",
+        "word": "용태",
+        "origin": "容態",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "병의 상태.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "symptom; condition",
+                "trans_dfn": "The status of a sick person."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69408",
+        "word": "용퇴",
+        "origin": "勇退",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "조금도 꺼리지 않고 용기 있게 물러남.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "willing withdrawal",
+                "trans_dfn": "The act of withdrawing from something courageously without hesitation."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "후배에게 기회를 주기 위하여 스스로 관직 등에서 물러남.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "voluntary resignation",
+                "trans_dfn": "The act of resigning from a government post voluntarily to make room for junior colleagues."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69409",
+        "word": "용트림",
+        "origin": "龍트림",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "거드름을 피우며 일부러 크게 트림함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "big burp; belching loudly on purpose",
+                "trans_dfn": "Letting out a big burp in a self-important manner, on purpose."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69411",
+        "word": "용하다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "재주가 뛰어나고 특별하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "skilled; excellent; dexterous",
+                "trans_dfn": "One's talent being outstanding and special."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "기특하고 장하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "praiseworthy; commendable; laudable",
+                "trans_dfn": "Admirable and creditable."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "매우 다행스럽다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "lucky",
+                "trans_dfn": "Very fortunate."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69412",
+        "word": "용해",
+        "origin": "溶解",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "녹거나 녹임.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "melting; dissolution",
+                "trans_dfn": "Fusing something or being fused."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69413",
+        "word": "용해되다",
+        "origin": "溶解되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "녹게 되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "melt; dissolve",
+                "trans_dfn": "To become fused."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69219",
+        "word": "용궁",
+        "origin": "龍宮",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "옛날이야기나 전설에서, 바닷속에 있다고 하는 용왕의 궁전.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "underwater palace",
+                "trans_dfn": "A palace from folk tales or legends, said to be inhabited by the sea king."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68733",
+        "word": "용띠",
+        "origin": "龍띠",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용의 해에 태어난 사람의 띠.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "yongtti",
+                "trans_dfn": "The zodiac sign of a person born in the year of the dragon."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68757",
+        "word": "용비어천가",
+        "origin": "龍飛御天歌",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "조선 시대에 세종의 명으로 만든 노래. 훈민정음을 처음으로 사용하여 만든 작품이며, 조선 건국의 시조를 찬양하는 서사시이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "Yongbieocheonga",
+                "trans_dfn": "A song created under the order of King Sejong during the Joseon Dynasty, literally meaning the Songs of the Dragons Flying to Heaven; it is the first piece of work made by using Hunminjeong-eum, the Korean alphabet, and also an epic poem that praises the founding fathers of the dynasty."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69256",
+        "word": "용왕",
+        "origin": "龍王",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "바다에 살며 물과 물속 생물을 다스린다고 하는 왕.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sea king",
+                "trans_dfn": "A king believed to live in the sea and govern water and aquatic organisms."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "72573",
+        "word": "내용",
+        "origin": "內容",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "그릇이나 상자 등의 안에 든 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "content; substance",
+                "trans_dfn": "What is contained in a bowl, box, etc."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "사물이나 일의 속을 이루는 사정이나 형편.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "content; details; circumstances",
+                "trans_dfn": "Details or circumstances that constitute the content of an object or task."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "말, 글, 그림, 영화 등의 줄거리. 또는 그것들로 전하고자 하는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "story; message",
+                "trans_dfn": "The story of speech, writing, picture, movie, etc., or what such things try to convey."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66372",
+        "word": "사용",
+        "origin": "使用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무엇을 필요한 일이나 기능에 맞게 씀.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use; usage",
+                "trans_dfn": "An act of using something for a certain job or function."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "사람을 어떤 일을 하는 데 부려 씀.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "hire",
+                "trans_dfn": "The act of hiring and using someone for doing something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70750",
+        "word": "이용",
+        "origin": "利用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "대상을 필요에 따라 이롭거나 쓸모가 있게 씀.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use; utilization",
+                "trans_dfn": "The act of using something as occasion demands in a way that is helpful or beneficial to one."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "다른 사람이나 대상을 자신의 이익을 채우기 위한 수단으로 씀.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "exploitation; use",
+                "trans_dfn": "The act of using someone or something as a means to satisfy one's own interests."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "601941",
+        "word": "가정용",
+        "origin": "家庭用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "가정에서 쓰임. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "home use",
+                "trans_dfn": "Used at home; or something like that."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "28479",
+        "word": "겨울용",
+        "origin": "겨울用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "특별히 겨울철에 사용하는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "for winter use",
+                "trans_dfn": "Something used particularly in winter."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "19849",
+        "word": "공공용",
+        "origin": "公共用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사회의 여러 사람이 모두 이용할 용도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "public purpose",
+                "trans_dfn": "Useful for/usable by all members of society."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "85023",
+        "word": "공용",
+        "origin": "公用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "국가나 사회 구성원 모두와 관계되는 목적으로 사용함. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "public use; official business",
+                "trans_dfn": "Using something for the good of all the members of a nation or society, or a thing used in this way."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "85024",
+        "word": "공용",
+        "origin": "共用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "다른 사람과 함께 사용함. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "public use",
+                "trans_dfn": "Sharing something with others or something that is shared."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "35120",
+        "word": "교육용",
+        "origin": "敎育用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "교육을 목적으로 쓰임.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being instructional; being educational",
+                "trans_dfn": "Being used for education purposes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "600563",
+        "word": "남성용",
+        "origin": "男性用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남성이 사용함. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "for men",
+                "trans_dfn": "Used by men. Or something like that."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "24240",
+        "word": "녹용",
+        "origin": "鹿茸",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "보약으로 쓰이는 사슴의 뿔.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "deer antlers",
+                "trans_dfn": "The antlers of deer taken as medicine."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "47011",
+        "word": "대용",
+        "origin": "代用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "대신하여 다른 것을 씀. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "replacement; substitution",
+                "trans_dfn": "An act of using one thing in place for another, or such a substitute."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61513",
+        "word": "무용",
+        "origin": "舞踊",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "음악에 맞추어 여러 가지 몸짓을 하며 아름다움을 표현하는 예술.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "dance",
+                "trans_dfn": "An art that expresses beauty through body movements that match music."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "59586",
+        "word": "복용",
+        "origin": "服用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "약을 먹음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "taking; dosing oneself",
+                "trans_dfn": "The act of taking medicine."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "59734",
+        "word": "부작용",
+        "origin": "副作用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일로 인해 일어난, 기대하지 않았던 바람직하지 못한 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "side effect; byproduct",
+                "trans_dfn": "An undesirable event that happens unexpectedly due to a certain thing."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "약을 사용했을 때 나타나는, 원래 효과 이외의 좋지 않은 작용.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "side effect; complication",
+                "trans_dfn": "An unexpected, negative effect that occurs when taking medicine."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "83163",
+        "word": "비용",
+        "origin": "費用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 하는 데 드는 돈.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "cost; expense",
+                "trans_dfn": "A sum of money spent in doing a certain work."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61203",
+        "word": "사무용",
+        "origin": "事務用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직장에서 서류를 처리하는 등의 일을 하는 데에 쓰는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being for office use",
+                "trans_dfn": "A variety of items used for conducting business activities including paperwork at work."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "49244",
+        "word": "소용",
+        "origin": "所用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 이익이나 쓸모.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use; good",
+                "trans_dfn": "A benefit or use."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "64624",
+        "word": "수용",
+        "origin": "受容",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 것을 받아들임.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "acceptance",
+                "trans_dfn": "The act of accepting something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "65344",
+        "word": "신용",
+        "origin": "信用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "약속을 지킬 수 있다는 믿음. 또는 그 믿음의 정도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "confidence; trust",
+                "trans_dfn": "Belief that one can keep one's promise; or the depth of such belief."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "경제에서, 물건이나 돈을 먼저 받고 대가를 나중에 치를 수 있는 능력. 또는 그 능력이 있다고 받아들여지는 상황.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "credit; credibility",
+                "trans_dfn": "In economics, the ability to receive goods or money first and pay for it later, or the situation in which such ability is perceived."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "23074",
+        "word": "아동용",
+        "origin": "兒童用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어린아이들이 사용함. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "something for children",
+                "trans_dfn": "Something being used by children or such goods."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "67352",
+        "word": "업무용",
+        "origin": "業務用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직장 등에서 일을 할 때 씀. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being for business use",
+                "trans_dfn": "A state of being used for the purpose of business in a workplace, etc.; or such an item."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70719",
+        "word": "여행용",
+        "origin": "旅行用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "여행하는 데 쓰임. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being for travel",
+                "trans_dfn": "Something used by travelers or such goods."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "20592",
+        "word": "연구용",
+        "origin": "硏究用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "연구에 쓰이는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being intended for research purposes",
+                "trans_dfn": "Something used for research."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "67571",
+        "word": "연습용",
+        "origin": "練習用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "연습하는 데에 쓰임. 또는 연습하는 데 쓰는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "something for practice",
+                "trans_dfn": "The quality of being used for practice; something that is used for practice."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68418",
+        "word": "영업용",
+        "origin": "營業用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "돈을 버는 사업이나 활동에 쓰임. 또는 그런 대상.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being for business or commercial purposes",
+                "trans_dfn": "The state of something being used for business purposes or commercial activities, or such a thing."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "include": {
+    "total_reported_sum": 395,
+    "unique_count": 100,
+    "matched_count": 8,
+    "matched_entries": [
+      {
+        "target_code": "26627",
+        "word": "용",
+        "origin": "龍",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몸은 거대한 뱀과 비슷하고, 머리에 뿔이 있으며 네 발에 날카로운 발톱이 있는 상상 속의 동물.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "dragon",
+                "trans_dfn": "An imaginary animal that has a body similar to that of a big snake, a horn on its head and sharp claws on its four feet."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69227",
+        "word": "용두사미",
+        "origin": "龍頭蛇尾",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "시작할 때는 거창하고 대단해 보이지만 끝으로 갈수록 점점 기세가 줄어든다는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "anticlimax",
+                "trans_dfn": "An expression that it seems grand and great at the beginning, but as it approaches the end, its momentum gradually diminishes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69249",
+        "word": "용수철",
+        "origin": "龍鬚鐵",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "나사 모양으로 빙빙 돌려 감아 잘 늘어나고 줄어들게 만든 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "spring",
+                "trans_dfn": "A screw-shaped object that is coiled round and round, made to stretch and shrink easily."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69409",
+        "word": "용트림",
+        "origin": "龍트림",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "거드름을 피우며 일부러 크게 트림함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "big burp; belching loudly on purpose",
+                "trans_dfn": "Letting out a big burp in a self-important manner, on purpose."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69219",
+        "word": "용궁",
+        "origin": "龍宮",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "옛날이야기나 전설에서, 바닷속에 있다고 하는 용왕의 궁전.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "underwater palace",
+                "trans_dfn": "A palace from folk tales or legends, said to be inhabited by the sea king."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68733",
+        "word": "용띠",
+        "origin": "龍띠",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용의 해에 태어난 사람의 띠.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "yongtti",
+                "trans_dfn": "The zodiac sign of a person born in the year of the dragon."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68757",
+        "word": "용비어천가",
+        "origin": "龍飛御天歌",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "조선 시대에 세종의 명으로 만든 노래. 훈민정음을 처음으로 사용하여 만든 작품이며, 조선 건국의 시조를 찬양하는 서사시이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "Yongbieocheonga",
+                "trans_dfn": "A song created under the order of King Sejong during the Joseon Dynasty, literally meaning the Songs of the Dragons Flying to Heaven; it is the first piece of work made by using Hunminjeong-eum, the Korean alphabet, and also an epic poem that praises the founding fathers of the dynasty."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69256",
+        "word": "용왕",
+        "origin": "龍王",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "바다에 살며 물과 물속 생물을 다스린다고 하는 왕.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sea king",
+                "trans_dfn": "A king believed to live in the sea and govern water and aquatic organisms."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "all_unique_entries": [
+      {
+        "target_code": "26627",
+        "word": "용",
+        "origin": "龍",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몸은 거대한 뱀과 비슷하고, 머리에 뿔이 있으며 네 발에 날카로운 발톱이 있는 상상 속의 동물.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "dragon",
+                "trans_dfn": "An imaginary animal that has a body similar to that of a big snake, a horn on its head and sharp claws on its four feet."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69212",
+        "word": "용",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "한꺼번에 모아서 내는 센 힘.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "great effort; strain",
+                "trans_dfn": "The great force or effort one musters up all at once."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "88913",
+        "word": "-용",
+        "origin": "用",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "'그것을 위해 쓰이는 물건' 또는 '그 사람을 대상으로 하는 물건'의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-yong",
+                "trans_dfn": "A suffix used to mean an object used for something or an object for that person."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69257",
+        "word": "용용",
+        "origin": "",
+        "pos": "감탄사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "양쪽 엄지손가락 끝을 자기의 양 볼에 대고 나머지 네 손가락을 펴서 흔들며 남을 약 올릴 때 내는 소리.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "",
+                "trans_dfn": "An exclamation that one uses when he/she teases another person by making a gesture (touching the tips of the thumbs to the cheeks and spreading the other fingers)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "26628",
+        "word": "용감하다",
+        "origin": "勇敢하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용기가 있고 씩씩하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "brave; courageous",
+                "trans_dfn": "Daring and bold."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69215",
+        "word": "용건",
+        "origin": "用件",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "해야 할 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "business; things to do",
+                "trans_dfn": "Things to do."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "26629",
+        "word": "용기",
+        "origin": "勇氣",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "겁이 없고 씩씩한 기운.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "courage; guts",
+                "trans_dfn": "A spirit of bravery without fear."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "26635",
+        "word": "용도",
+        "origin": "用途",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "쓰이는 곳이나 목적.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use; purpose",
+                "trans_dfn": "The area or purpose for which something is used."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "67869",
+        "word": "용돈",
+        "origin": "用돈",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "개인이 여러 가지 용도로 자유롭게 쓸 수 있는 돈.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pocket money; allowance",
+                "trans_dfn": "Money that a person can use freely for various purposes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "26636",
+        "word": "용서",
+        "origin": "容恕",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "잘못이나 죄에 대해 꾸중을 하거나 벌을 주지 않고 너그럽게 덮어 줌.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forgiveness; mercy",
+                "trans_dfn": "The act of granting pardon without punishing or scolding someone's mistake or sin."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69244",
+        "word": "용서되다",
+        "origin": "容恕되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "잘못이나 죄로 꾸중을 듣거나 벌을 받지 않고 잘못이나 죄가 덮이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be forgiven",
+                "trans_dfn": "For one's mistake or sin to be excused without being punished or scolded."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "26638",
+        "word": "용서하다",
+        "origin": "容恕하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "잘못이나 죄에 대해 꾸중을 하거나 벌을 주지 않고 너그럽게 덮어 주다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pardon; forgive",
+                "trans_dfn": "To grant pardon generously without punishing or scolding someone's mistake or sin."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "26639",
+        "word": "용어",
+        "origin": "用語",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 분야에서 전문적으로 사용하는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "term; terminology",
+                "trans_dfn": "A word specially used in a certain field."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69410",
+        "word": "용품",
+        "origin": "用品",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일이나 목적에 맞게 쓰이는 물품.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "goods; articles; items",
+                "trans_dfn": "Things used appropriately for a certain task or purpose."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69213",
+        "word": "용감무쌍하다",
+        "origin": "勇敢無雙하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "매우 용기가 있어 씩씩하고 기운차다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "intrepid; heroic",
+                "trans_dfn": "Very courageous, brave, and energetic."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69214",
+        "word": "용감히",
+        "origin": "勇敢히",
+        "pos": "부사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용기가 있고 씩씩하게.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "bravely; courageously",
+                "trans_dfn": "In a daring, bold manner."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69216",
+        "word": "용공",
+        "origin": "容共",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "공산주의의 주장을 받아들여 그 운동이나 정책에 뜻을 같이하는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pro-communist",
+                "trans_dfn": "The act of accepting the ideology of communism and endorsing its movements and policies."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69217",
+        "word": "용광로",
+        "origin": "鎔鑛爐",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "아주 높은 온도로 광석을 녹여서 쇳물을 만드는 장치.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "blast furnace",
+                "trans_dfn": "A device for making molten metal by melting ore at an extremely high temperature."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69218",
+        "word": "용구",
+        "origin": "用具",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 하거나 물건을 만드는 데 쓰는 도구.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "tool; implement",
+                "trans_dfn": "A tool used for doing something or making an item."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "26633",
+        "word": "용기",
+        "origin": "容器",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건을 담는 그릇.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "container",
+                "trans_dfn": "A container for holding things."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69220",
+        "word": "용기백배하다",
+        "origin": "勇氣百倍하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "격려나 응원을 받아 용기가 생겨서 힘을 더 내다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be encouraged",
+                "trans_dfn": "To gain more courage and energy from encouragement or cheers."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69221",
+        "word": "용납",
+        "origin": "容納",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "너그러운 마음으로 다른 사람의 말이나 생각, 행동 또는 물건이나 상황 등을 받아들임.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "toleration; pardon",
+                "trans_dfn": "The act of generously accepting someone's remarks, thoughts, behaviors, items, situations, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69222",
+        "word": "용납되다",
+        "origin": "容納되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "말이나 생각, 행동 또는 물건, 상황 등이 너그러운 마음으로 받아들여지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be tolerated; be pardoned",
+                "trans_dfn": "For someone's remarks, thoughts, behaviors, items, situations, etc., to be generously accepted."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69223",
+        "word": "용납하다",
+        "origin": "容納하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "너그러운 마음으로 다른 사람의 말이나 생각, 행동 또는 물건이나 상황 등을 받아들이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "tolerate; pardon",
+                "trans_dfn": "To generously accept someone's remarks, thoughts, behaviors, items, situations, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69224",
+        "word": "용단",
+        "origin": "勇斷",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용감하게 결단을 내림. 또는 그 결단.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "courage decision; resolute decision",
+                "trans_dfn": "The act of making a brave decision; or the decision."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69225",
+        "word": "용달",
+        "origin": "用達",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "전문적으로 짐이나 물건 등을 배달함. 또는 그런 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "delivery service",
+                "trans_dfn": "The act of delivering freight, items, etc., professionally, or such a task."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69226",
+        "word": "용달차",
+        "origin": "用達車",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "전문적으로 짐이나 물건 등을 배달하는 작은 화물 자동차.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "delivery van",
+                "trans_dfn": "A small truck that specially delivers freight, items, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69227",
+        "word": "용두사미",
+        "origin": "龍頭蛇尾",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "시작할 때는 거창하고 대단해 보이지만 끝으로 갈수록 점점 기세가 줄어든다는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "anticlimax",
+                "trans_dfn": "An expression that it seems grand and great at the beginning, but as it approaches the end, its momentum gradually diminishes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69228",
+        "word": "용량",
+        "origin": "容量",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "일정한 공간에 들어갈 수 있는 분량.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "capacity; volume",
+                "trans_dfn": "The amount that can fit into a certain space."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 물질이 일정한 상태에서 가질 수 있는 에너지나 전기의 양.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "capacity",
+                "trans_dfn": "The amount of energy or electricity that a certain substance can have in a certain state."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "컴퓨터나 휴대폰 등에서 저장할 수 있는 정보의 양.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "capacity",
+                "trans_dfn": "The amount of information that can be stored on a computer or mobile phone."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69229",
+        "word": "용렬하다",
+        "origin": "庸劣하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "생각이 좁고 성품이 너그럽지 못하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "petty; small-minded",
+                "trans_dfn": "Narrow-minded and intolerant."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69230",
+        "word": "용례",
+        "origin": "用例",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "실제로 쓰이는 예.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "example",
+                "trans_dfn": "The example of usage."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69231",
+        "word": "용매",
+        "origin": "溶媒",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 물질을 녹이는 데 쓰는 액체. 또는 액체를 액체에 녹일 때 양이 많은 쪽의 액체.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "solvent; dissolvent",
+                "trans_dfn": "The liquid used for dissolving a substance; or the lquid of a lager quantity when one liquid is melted into another."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69232",
+        "word": "용맹",
+        "origin": "勇猛",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용감하고 날래며 기운이 넘침.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "courage; bravery",
+                "trans_dfn": "The trait of being gallant, quick, and vigorous."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69234",
+        "word": "용맹스럽다",
+        "origin": "勇猛스럽다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용감하고 날래며 기운이 넘치는 데가 있다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "courageous; brave",
+                "trans_dfn": "Having a gallant, quick, and vigorous quality in someone."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69233",
+        "word": "용맹하다",
+        "origin": "勇猛하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용감하고 날래며 기운이 넘치다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "courageous; brave",
+                "trans_dfn": "Gallant, quick, and vigorous."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69236",
+        "word": "용모",
+        "origin": "容貌",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람의 얼굴 모양.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "face; facial look",
+                "trans_dfn": "Facial appearance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91417",
+        "word": "용무",
+        "origin": "用務",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "해야 할 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "business; things to do",
+                "trans_dfn": "Things to do."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69238",
+        "word": "용법",
+        "origin": "用法",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사용하는 방법.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "direction for use; instruction for use; usage",
+                "trans_dfn": "A certain way of using something."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "법을 이용함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use of law",
+                "trans_dfn": "The act of using law."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69239",
+        "word": "용변",
+        "origin": "用便",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "똥이나 오줌을 눔.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "relieving oneself",
+                "trans_dfn": "To defecate or urinate."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69240",
+        "word": "용병",
+        "origin": "傭兵",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "봉급을 주며 병사를 부려 씀. 또는 봉급을 주며 부려 쓰는 병사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "mercenary; hired solider",
+                "trans_dfn": "The act of hiring a solider for a salary; or a solider hired for a salary."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69241",
+        "word": "용빼다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "큰 힘을 쓰거나 대단한 재주를 부리다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "perform a great talent",
+                "trans_dfn": "To exercise one's great power or demonstrate an outstanding skill."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69242",
+        "word": "용사",
+        "origin": "勇士",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용감하고 씩씩한 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "brave person",
+                "trans_dfn": "A brave and energetic person."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "용감한 군사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "warrior; veteran",
+                "trans_dfn": "A brave solider."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69245",
+        "word": "용솟음",
+        "origin": "湧솟음",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물이 매우 세차게 위로 나옴.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "spout; gushing out",
+                "trans_dfn": "The motion of water spurting very strongly."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "힘이나 기세가 매우 세차게 솟아남.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "gush",
+                "trans_dfn": "The strong surge of power or energy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69246",
+        "word": "용솟음치다",
+        "origin": "湧솟음치다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물이 매우 세차게 위로 나오다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "gush out; spout",
+                "trans_dfn": "For water to spurt very strongly."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "힘이나 기세가 매우 세차게 솟아나다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "soar",
+                "trans_dfn": "For power or energy to surge very strongly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69248",
+        "word": "용수",
+        "origin": "容手",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 이루기 위해 수단을 부림. 또는 그 수단.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "playing a trick; trick",
+                "trans_dfn": "The act of playing a trick to achieve something or the trick."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69249",
+        "word": "용수철",
+        "origin": "龍鬚鐵",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "나사 모양으로 빙빙 돌려 감아 잘 늘어나고 줄어들게 만든 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "spring",
+                "trans_dfn": "A screw-shaped object that is coiled round and round, made to stretch and shrink easily."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69250",
+        "word": "용쓰다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "한꺼번에 기운을 몰아서 힘을 쓰다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "strain",
+                "trans_dfn": "To do one's utmost by using all of one's energy at once."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "힘들여서 괴로움을 억지로 참다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "endure; stifle",
+                "trans_dfn": "To suppress pain by exerting oneself."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69251",
+        "word": "용암",
+        "origin": "鎔巖",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "화산이 폭발할 때 솟구쳐 나온 마그마. 또는 그것이 굳어서 된 암석.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "lava",
+                "trans_dfn": "The magma that bursts out when a volcano explodes, or a rock formed by the solidified magma."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69253",
+        "word": "용액",
+        "origin": "溶液",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "두 가지 이상의 물질이 고르게 섞인 액체.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "solution",
+                "trans_dfn": "A liquid made by an even mixture of two or more substances."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69254",
+        "word": "용언",
+        "origin": "用言",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "문법에서, 동사나 형용사와 같이 문장에서 서술어의 기능을 하는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "predicate",
+                "trans_dfn": "In grammar, a word such as a verb or adjective which functions as a predicate in a sentence."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69255",
+        "word": "용역",
+        "origin": "用役",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "생산과 소비에 필요한 노동력을 제공하는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "service",
+                "trans_dfn": "The act of providing labor necessary for production and consumption."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69258",
+        "word": "용의",
+        "origin": "用意",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 하고자 마음을 먹음. 또는 그런 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "willingness; readiness",
+                "trans_dfn": "The act of making up one's mind to do something, or such an attitude."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69259",
+        "word": "용의자",
+        "origin": "容疑者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "범죄를 저지른 범인으로 의심을 받는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "suspect",
+                "trans_dfn": "A person who is suspected of having committed a crime."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69260",
+        "word": "용의주도하다",
+        "origin": "用意周到하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "신경을 써서 매우 꼼꼼하게 준비하여 빈틈이 없다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "cautious; circumspect; careful",
+                "trans_dfn": "Thorough by preparing very carefully."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69373",
+        "word": "용이하다",
+        "origin": "容易하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어렵지 않고 매우 쉽다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "easy",
+                "trans_dfn": "Not difficult."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69375",
+        "word": "용인",
+        "origin": "容認",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "너그러운 마음으로 받아들여 인정함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "admission; approval; acceptance",
+                "trans_dfn": "The act of tolerating something with a generous mind."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69378",
+        "word": "용인되다",
+        "origin": "容認되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "너그러운 마음으로 받아들여져 인정되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be admitted; be accepted",
+                "trans_dfn": "To be tolerated by someone with a generous mind."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69381",
+        "word": "용인하다",
+        "origin": "容認하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "너그러운 마음으로 받아들여 인정하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "admit; accept; tolerate",
+                "trans_dfn": "To tolerate something with a generous mind."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69384",
+        "word": "용적",
+        "origin": "容積",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건을 담을 수 있는 부피. 또는 어떤 공간을 차지하는 분량.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "volume; capacity; bulk",
+                "trans_dfn": "The volume that can accommodate a certain object; or the amount occupying a certain space."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69386",
+        "word": "용적률",
+        "origin": "容積率",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "땅의 면적에 대한 건물 바닥 전체 면적의 비율.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "floor area ratio",
+                "trans_dfn": "The ratio of a building's total floor area to the size of the land."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69389",
+        "word": "용접",
+        "origin": "鎔接",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "두 개의 금속, 유리, 플라스틱 등을 녹여 서로 이어 붙이는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "welding",
+                "trans_dfn": "The process of connecting two pieces of metal, glass, plastic, etc., by heating them."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69392",
+        "word": "용접공",
+        "origin": "鎔接工",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "두 개의 금속, 유리, 플라스틱 등을 녹여 서로 이어 붙이는 일을 직업으로 하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "welder",
+                "trans_dfn": "A person whose job it is to connect two pieces of metal, glass, plastic, etc., by heating them."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69395",
+        "word": "용접하다",
+        "origin": "鎔接하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "두 개의 금속, 유리, 플라스틱 등을 녹여 서로 이어 붙이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "weld",
+                "trans_dfn": "To connect two pieces of metal, glass, plastic, etc., by heating them."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69400",
+        "word": "용지",
+        "origin": "用紙",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일에 쓰는 종이.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "paper",
+                "trans_dfn": "Paper used for something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69404",
+        "word": "용태",
+        "origin": "容態",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "병의 상태.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "symptom; condition",
+                "trans_dfn": "The status of a sick person."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69408",
+        "word": "용퇴",
+        "origin": "勇退",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "조금도 꺼리지 않고 용기 있게 물러남.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "willing withdrawal",
+                "trans_dfn": "The act of withdrawing from something courageously without hesitation."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "후배에게 기회를 주기 위하여 스스로 관직 등에서 물러남.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "voluntary resignation",
+                "trans_dfn": "The act of resigning from a government post voluntarily to make room for junior colleagues."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69409",
+        "word": "용트림",
+        "origin": "龍트림",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "거드름을 피우며 일부러 크게 트림함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "big burp; belching loudly on purpose",
+                "trans_dfn": "Letting out a big burp in a self-important manner, on purpose."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69411",
+        "word": "용하다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "재주가 뛰어나고 특별하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "skilled; excellent; dexterous",
+                "trans_dfn": "One's talent being outstanding and special."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "기특하고 장하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "praiseworthy; commendable; laudable",
+                "trans_dfn": "Admirable and creditable."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "매우 다행스럽다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "lucky",
+                "trans_dfn": "Very fortunate."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69412",
+        "word": "용해",
+        "origin": "溶解",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "녹거나 녹임.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "melting; dissolution",
+                "trans_dfn": "Fusing something or being fused."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69413",
+        "word": "용해되다",
+        "origin": "溶解되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "녹게 되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "melt; dissolve",
+                "trans_dfn": "To become fused."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69219",
+        "word": "용궁",
+        "origin": "龍宮",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "옛날이야기나 전설에서, 바닷속에 있다고 하는 용왕의 궁전.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "underwater palace",
+                "trans_dfn": "A palace from folk tales or legends, said to be inhabited by the sea king."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68733",
+        "word": "용띠",
+        "origin": "龍띠",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "용의 해에 태어난 사람의 띠.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "yongtti",
+                "trans_dfn": "The zodiac sign of a person born in the year of the dragon."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68757",
+        "word": "용비어천가",
+        "origin": "龍飛御天歌",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "조선 시대에 세종의 명으로 만든 노래. 훈민정음을 처음으로 사용하여 만든 작품이며, 조선 건국의 시조를 찬양하는 서사시이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "Yongbieocheonga",
+                "trans_dfn": "A song created under the order of King Sejong during the Joseon Dynasty, literally meaning the Songs of the Dragons Flying to Heaven; it is the first piece of work made by using Hunminjeong-eum, the Korean alphabet, and also an epic poem that praises the founding fathers of the dynasty."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "69256",
+        "word": "용왕",
+        "origin": "龍王",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "바다에 살며 물과 물속 생물을 다스린다고 하는 왕.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sea king",
+                "trans_dfn": "A king believed to live in the sea and govern water and aquatic organisms."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "72573",
+        "word": "내용",
+        "origin": "內容",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "그릇이나 상자 등의 안에 든 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "content; substance",
+                "trans_dfn": "What is contained in a bowl, box, etc."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "사물이나 일의 속을 이루는 사정이나 형편.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "content; details; circumstances",
+                "trans_dfn": "Details or circumstances that constitute the content of an object or task."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "말, 글, 그림, 영화 등의 줄거리. 또는 그것들로 전하고자 하는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "story; message",
+                "trans_dfn": "The story of speech, writing, picture, movie, etc., or what such things try to convey."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66372",
+        "word": "사용",
+        "origin": "使用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무엇을 필요한 일이나 기능에 맞게 씀.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use; usage",
+                "trans_dfn": "An act of using something for a certain job or function."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "사람을 어떤 일을 하는 데 부려 씀.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "hire",
+                "trans_dfn": "The act of hiring and using someone for doing something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70750",
+        "word": "이용",
+        "origin": "利用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "대상을 필요에 따라 이롭거나 쓸모가 있게 씀.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use; utilization",
+                "trans_dfn": "The act of using something as occasion demands in a way that is helpful or beneficial to one."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "다른 사람이나 대상을 자신의 이익을 채우기 위한 수단으로 씀.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "exploitation; use",
+                "trans_dfn": "The act of using someone or something as a means to satisfy one's own interests."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "601941",
+        "word": "가정용",
+        "origin": "家庭用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "가정에서 쓰임. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "home use",
+                "trans_dfn": "Used at home; or something like that."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "28479",
+        "word": "겨울용",
+        "origin": "겨울用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "특별히 겨울철에 사용하는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "for winter use",
+                "trans_dfn": "Something used particularly in winter."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "19849",
+        "word": "공공용",
+        "origin": "公共用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사회의 여러 사람이 모두 이용할 용도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "public purpose",
+                "trans_dfn": "Useful for/usable by all members of society."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "85023",
+        "word": "공용",
+        "origin": "公用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "국가나 사회 구성원 모두와 관계되는 목적으로 사용함. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "public use; official business",
+                "trans_dfn": "Using something for the good of all the members of a nation or society, or a thing used in this way."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "85024",
+        "word": "공용",
+        "origin": "共用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "다른 사람과 함께 사용함. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "public use",
+                "trans_dfn": "Sharing something with others or something that is shared."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "35120",
+        "word": "교육용",
+        "origin": "敎育用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "교육을 목적으로 쓰임.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being instructional; being educational",
+                "trans_dfn": "Being used for education purposes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "600563",
+        "word": "남성용",
+        "origin": "男性用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남성이 사용함. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "for men",
+                "trans_dfn": "Used by men. Or something like that."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "24240",
+        "word": "녹용",
+        "origin": "鹿茸",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "보약으로 쓰이는 사슴의 뿔.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "deer antlers",
+                "trans_dfn": "The antlers of deer taken as medicine."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "47011",
+        "word": "대용",
+        "origin": "代用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "대신하여 다른 것을 씀. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "replacement; substitution",
+                "trans_dfn": "An act of using one thing in place for another, or such a substitute."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61513",
+        "word": "무용",
+        "origin": "舞踊",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "음악에 맞추어 여러 가지 몸짓을 하며 아름다움을 표현하는 예술.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "dance",
+                "trans_dfn": "An art that expresses beauty through body movements that match music."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "59586",
+        "word": "복용",
+        "origin": "服用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "약을 먹음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "taking; dosing oneself",
+                "trans_dfn": "The act of taking medicine."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "59734",
+        "word": "부작용",
+        "origin": "副作用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일로 인해 일어난, 기대하지 않았던 바람직하지 못한 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "side effect; byproduct",
+                "trans_dfn": "An undesirable event that happens unexpectedly due to a certain thing."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "약을 사용했을 때 나타나는, 원래 효과 이외의 좋지 않은 작용.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "side effect; complication",
+                "trans_dfn": "An unexpected, negative effect that occurs when taking medicine."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "83163",
+        "word": "비용",
+        "origin": "費用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 하는 데 드는 돈.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "cost; expense",
+                "trans_dfn": "A sum of money spent in doing a certain work."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61203",
+        "word": "사무용",
+        "origin": "事務用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직장에서 서류를 처리하는 등의 일을 하는 데에 쓰는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being for office use",
+                "trans_dfn": "A variety of items used for conducting business activities including paperwork at work."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "49244",
+        "word": "소용",
+        "origin": "所用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 이익이나 쓸모.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use; good",
+                "trans_dfn": "A benefit or use."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "64624",
+        "word": "수용",
+        "origin": "受容",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 것을 받아들임.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "acceptance",
+                "trans_dfn": "The act of accepting something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "65344",
+        "word": "신용",
+        "origin": "信用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "약속을 지킬 수 있다는 믿음. 또는 그 믿음의 정도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "confidence; trust",
+                "trans_dfn": "Belief that one can keep one's promise; or the depth of such belief."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "경제에서, 물건이나 돈을 먼저 받고 대가를 나중에 치를 수 있는 능력. 또는 그 능력이 있다고 받아들여지는 상황.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "credit; credibility",
+                "trans_dfn": "In economics, the ability to receive goods or money first and pay for it later, or the situation in which such ability is perceived."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "23074",
+        "word": "아동용",
+        "origin": "兒童用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어린아이들이 사용함. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "something for children",
+                "trans_dfn": "Something being used by children or such goods."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "67352",
+        "word": "업무용",
+        "origin": "業務用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직장 등에서 일을 할 때 씀. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being for business use",
+                "trans_dfn": "A state of being used for the purpose of business in a workplace, etc.; or such an item."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70719",
+        "word": "여행용",
+        "origin": "旅行用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "여행하는 데 쓰임. 또는 그런 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being for travel",
+                "trans_dfn": "Something used by travelers or such goods."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "20592",
+        "word": "연구용",
+        "origin": "硏究用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "연구에 쓰이는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being intended for research purposes",
+                "trans_dfn": "Something used for research."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "67571",
+        "word": "연습용",
+        "origin": "練習用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "연습하는 데에 쓰임. 또는 연습하는 데 쓰는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "something for practice",
+                "trans_dfn": "The quality of being used for practice; something that is used for practice."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68418",
+        "word": "영업용",
+        "origin": "營業用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "돈을 버는 사업이나 활동에 쓰임. 또는 그런 대상.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being for business or commercial purposes",
+                "trans_dfn": "The state of something being used for business purposes or commercial activities, or such a thing."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

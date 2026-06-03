@@ -1,0 +1,23 @@
+{
+  "match_count": 1,
+  "first_match": {
+    "main_sound": "사",
+    "level": "6급",
+    "hanja": "死",
+    "meaning": "[[['죽을'], ['사']]]",
+    "radical": "歹",
+    "strokes": "2",
+    "total_strokes": "6"
+  },
+  "all_matches": [
+    {
+      "main_sound": "사",
+      "level": "6급",
+      "hanja": "死",
+      "meaning": "[[['죽을'], ['사']]]",
+      "radical": "歹",
+      "strokes": "2",
+      "total_strokes": "6"
+    }
+  ]
+}

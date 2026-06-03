@@ -1,0 +1,34 @@
+I ran the scraper and here's the output
+
+Exploration complete. Quick summary of the most important findings for your schema decisions:
+
+Coverage & critical answers
+
+* stdict hanja_raw on compound words: 100% populated — character-chain building IS feasible from this source.
+* krdict English translation rate: 100% on every matched entry — but krdict is small (~50 common words per character).
+* 四 / 死 collision: clean separation via the hanja_raw filter — no word_no overlap.
+
+Real data-quality issues (worth designing around)
+
+1. 不 is missing from rycont's CSV entirely — 한국어문회 didn't grade it. Your schema can't rely on rycont as the sole "list of all hanja."
+2. krdict pagination is effectively capped at 100/call. The API reports total=418 but start=101 returns zero items. You can't get more than the first ~100 results per syllable query.
+3. stdict orders results 가나다-alphabetically. A 4-page (200-entry) sample of 학 is entirely 가-prefix words — common words like 학교, 학생, 대학 sort later and aren't in the sample. Toget full coverage you'd need to scrape thousands of pages, OR find a per-Hanja query.
+4. Multi-reading queries are NOT redundant: 不/불 and 不/부 each surfaced ~200 unique results — you must query every reading separately.
+5. stdict noise is high for shared-syllable characters (사 → 100% noise in first 200; 용 → 98%) — Hanja-filtering after scrape is essential.
+
+Schema-shape recommendations from the data
+
+* Two-tier source strategy: krdict for the common-word core (free English), stdict for the long tail (Korean-only — LLM-translate on demand).
+* Normalize stdict word strings (^ → space, - → empty) before any cross-source join.
+* stdict pos is empty on noun-phrase entries (those with ^) — don't treat empty as "missing data."
+* rycont meaning is a stringified Python literal [[[meanings], [readings]]] — multi-reading characters carry multiple pairs.
+
+Files produced
+
+* explore.py — main scraper/parser
+* finalize.py — rebuilds report from cached parsed JSON
+* exploration_report.md — the full markdown report
+* raw_responses/{github,stdict,krdict}/ — 79 raw HTML/XML/CSV files
+* parsed/{github,stdict,krdict}/{char}.json — 24 parsed-data files
+
+Re: the cloned hanja-grade-dataset/ — same data as the raw CSV I fetched, but I confirmed 不 is genuinely absent from both hanja.csv and every by-level/*.csv, so it's a real coverage gap, not a fetch issue.

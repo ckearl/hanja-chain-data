@@ -1,0 +1,4756 @@
+{
+  "exact": {
+    "total_reported_sum": 233,
+    "unique_count": 100,
+    "matched_count": 9,
+    "matched_entries": [
+      {
+        "target_code": "70565",
+        "word": "예술",
+        "origin": "藝術",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "학문과 기술.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art",
+                "trans_dfn": "Arts and sciences."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "특정한 재료, 기교, 양식 등을 사용하여 아름다움을 창작하고 표현하는 활동. 또는 그러한 작품.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art",
+                "trans_dfn": "The activity of creating and expressing beauty by using particular materials, techniques, style, etc.; a piece of work produced in such a way."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "(비유적으로) 매우 아름답고 뛰어난 기술.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art",
+                "trans_dfn": "(figurative) Very beautiful and excellent skills."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22027",
+        "word": "예능인",
+        "origin": "藝能人",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "영화, 음악, 미술 등 예술 분야에서 일하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artist",
+                "trans_dfn": "A person who works in an artistic field such as film, music, the fine arts, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70566",
+        "word": "예술가",
+        "origin": "藝術家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술 작품을 창작하거나 표현하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artist",
+                "trans_dfn": "A person who creates works of art, or expresses his/her ideas through such works."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "90650",
+        "word": "예술 대학",
+        "origin": "藝術大學",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술 과목을 가르치는 단과 대학.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "college of arts",
+                "trans_dfn": "A college where subjects of art are taught."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14150",
+        "word": "예술적",
+        "origin": "藝術的",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술의 특성을 가진 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being artistic",
+                "trans_dfn": "The state of having the characteristics of art."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14149",
+        "word": "예술적",
+        "origin": "藝術的",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술의 특성을 가진.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artistic",
+                "trans_dfn": "Having the characteristics of art."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22040",
+        "word": "예능",
+        "origin": "藝能",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "영화, 음악, 미술 등 예술에 대한 재능.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artistic ability",
+                "trans_dfn": "Talent for art, including movies, music, and fine arts."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "90649",
+        "word": "예대",
+        "origin": "藝大",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘예술 대학’을 줄여 이르는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art college",
+                "trans_dfn": "An abbreviated term for an art college."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22056",
+        "word": "예명",
+        "origin": "藝名",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "연예인이나 예술인이 본명을 두고 따로 쓰는 이름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "stage name",
+                "trans_dfn": "A name which an entertainer or artist uses instead of his/her real name."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "all_unique_entries": [
+      {
+        "target_code": "73966",
+        "word": "예",
+        "origin": "",
+        "pos": "감탄사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "윗사람의 부름에 대답할 때 쓰는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "yes sir; yes ma'am",
+                "trans_dfn": "An exclamation uttered when the speaker answers the call of his/her elder."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "윗사람의 물음이나 명령 등에 긍정하여 대답할 때 쓰는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "yes sir; yes ma'am",
+                "trans_dfn": "An exclamation uttered when the speaker affirmatively answers the call or order of his/her senior or superior."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "윗사람의 말을 다시 물을 때 쓰는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "yes sir; yes ma'am",
+                "trans_dfn": "An exclamation uttered when the speaker asks again what his/her elder said."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "윗사람에게 무엇을 조를 때 쓰는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "please",
+                "trans_dfn": "An exclamation uttered when the speaker pesters his/her elder to do something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14128",
+        "word": "예",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "오래 전.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "old times",
+                "trans_dfn": "Long ago."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "46546",
+        "word": "예",
+        "origin": "例",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 것을 설명하거나 주장하기 위한 실제 본보기가 되는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "example",
+                "trans_dfn": "An instance of something used to illustrate or argue for something else."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68558",
+        "word": "예",
+        "origin": "禮",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람이 당연히 지켜야 할 바른 마음가짐과 태도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "politeness; courtesy",
+                "trans_dfn": "Good mental attitude and manners that a person should keep."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "예의와 규범에 따라 행하는 의식.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ceremony",
+                "trans_dfn": "A ritual performed according to certain manners and rules."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "예의로써 지켜야 할 규칙.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "etiquette; decorum",
+                "trans_dfn": "Rules that should be followed as manners."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "89185",
+        "word": "예",
+        "origin": "",
+        "pos": "대명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "말하는 사람에게 가까운 곳을 가리키는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "here; this",
+                "trans_dfn": "A pronoun used to indicate a place close to the speaker."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68783",
+        "word": "예",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "한글 자모 ‘ㅖ’의 이름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ye",
+                "trans_dfn": "The name of the vowel 'ㅖ' in the Korean alphabet."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22045",
+        "word": "예매",
+        "origin": "豫買",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "차표나 입장권 등을 정해진 때가 되기 전에 미리 사 둠.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "advance purchase",
+                "trans_dfn": "The act of buying a passenger ticket, admission ticket, etc., in advance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91706",
+        "word": "예매되다",
+        "origin": "豫買되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "차표나 입장권 등이 정해진 때가 되기 전에 미리 구매되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be bought in advance",
+                "trans_dfn": "For a passenger ticket, admission ticket, etc., to be bought in advance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14135",
+        "word": "예매하다",
+        "origin": "豫買하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "차표나 입장권 등을 정해진 때가 되기 전에 미리 사 두다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "purchase in advance",
+                "trans_dfn": "To buy a passenger ticket, admission ticket, etc., in advance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "89697",
+        "word": "예쁘다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "생긴 모양이 눈으로 보기에 좋을 만큼 아름답다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pretty; beautiful; comely",
+                "trans_dfn": "The appearance of someone or something looking good and beautiful."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "행동이나 동작, 말투 등이 보기에 사랑스럽고 귀엽다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "adorable",
+                "trans_dfn": "One's behavior, movements, way of speaking, etc., being lovely and cute."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "아이가 행동이 바르고 말을 잘 들어서 흐뭇하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "nice; good",
+                "trans_dfn": "A child making one feel satisfied because he/she behaves correctly and does what he/she is told."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "87910",
+        "word": "예순",
+        "origin": "",
+        "pos": "수사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "열의 여섯 배가 되는 수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sixty",
+                "trans_dfn": "The number that is the product of six times ten."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58134",
+        "word": "예순",
+        "origin": "",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "열의 여섯 배가 되는 수의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sixty",
+                "trans_dfn": "The number that is the product of six times ten."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70565",
+        "word": "예술",
+        "origin": "藝術",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "학문과 기술.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art",
+                "trans_dfn": "Arts and sciences."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "특정한 재료, 기교, 양식 등을 사용하여 아름다움을 창작하고 표현하는 활동. 또는 그러한 작품.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art",
+                "trans_dfn": "The activity of creating and expressing beauty by using particular materials, techniques, style, etc.; a piece of work produced in such a way."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "(비유적으로) 매우 아름답고 뛰어난 기술.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art",
+                "trans_dfn": "(figurative) Very beautiful and excellent skills."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14151",
+        "word": "예습",
+        "origin": "豫習",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 배울 것을 미리 공부함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "studying in advance",
+                "trans_dfn": "The act of studying in advance for the next class."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14152",
+        "word": "예습하다",
+        "origin": "豫習하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 배울 것을 미리 공부하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "study in advance",
+                "trans_dfn": "To study in advance for the next class."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70599",
+        "word": "예약",
+        "origin": "豫約",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자리나 방, 물건 등을 사용하기 위해 미리 약속함. 또는 그런 약속.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "reservation; booking",
+                "trans_dfn": "The act of arranging a place, room, object, etc., in advance for future use, or such an arrangement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70603",
+        "word": "예약되다",
+        "origin": "豫約되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자리나 방, 물건 등이 사용될 수 있도록 미리 약속되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be booked; be reserved in advance",
+                "trans_dfn": "For a place, room, object, etc., to be arranged in advance for future use."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14154",
+        "word": "예약하다",
+        "origin": "豫約하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자리나 방, 물건 등을 사용하기 위해 미리 약속하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "make a reservation; book",
+                "trans_dfn": "To arrange a place, room, object, etc., in advance for future use."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14130",
+        "word": "예감",
+        "origin": "豫感",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무슨 일이 생길 것 같은 느낌.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "premonition; presage; hunch",
+                "trans_dfn": "A feeling that something is about to happen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68564",
+        "word": "예감하다",
+        "origin": "豫感하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무슨 일이 생길 것 같은 느낌을 느끼다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "have a premonition; have a hunch",
+                "trans_dfn": "To feel that something is about to happen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68569",
+        "word": "예고",
+        "origin": "豫告",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일이 일어나기 전에 미리 알림.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "previous notice",
+                "trans_dfn": "The act of notifying someone of something before it happens."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68570",
+        "word": "예고되다",
+        "origin": "豫告되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일이 일어나기 전에 미리 알려지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be notified previously",
+                "trans_dfn": "For something to be notified before it happens."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14133",
+        "word": "예고하다",
+        "origin": "豫告하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일이 일어나기 전에 미리 알리다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "notify previously",
+                "trans_dfn": "To notify someone of something before it happens."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71102",
+        "word": "예금",
+        "origin": "預金",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "은행 등의 금융 기관에 돈을 맡김. 또는 그 돈.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "deposit; making a deposit",
+                "trans_dfn": "The act of entrusting money to a financial institution such as a bank, or the money."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91705",
+        "word": "예금되다",
+        "origin": "預金되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "은행 등의 금융 기관에 돈이 맡겨지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be deposited; be put into a bank account",
+                "trans_dfn": "For money to be entrusted in a financial institution such as a bank, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22031",
+        "word": "예금액",
+        "origin": "預金額",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "은행 등의 금융 기관에 저금해 둔 돈의 액수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "deposited amount",
+                "trans_dfn": "The amount of money kept in a financial institution such as a bank."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68571",
+        "word": "예금주",
+        "origin": "預金主",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "은행에 통장을 만들어 돈을 저축한 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "depositor",
+                "trans_dfn": "A person who has opened a bank account and has deposited money in it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68589",
+        "word": "예금 통장",
+        "origin": "預金通帳",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "은행 등에서 돈을 저축한 사람에게 주는, 돈이 들어오고 나간 것을 적는 장부.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "bank book; deposit passbook",
+                "trans_dfn": "A book that is given to a person who deposits money in a bank, that keeps the deposits and withdrawals of money."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68572",
+        "word": "예금하다",
+        "origin": "預金하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "은행 등의 금융 기관에 돈을 맡기다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "deposit; make a deposit",
+                "trans_dfn": "To entrust money in a financial institution such as a bank, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22027",
+        "word": "예능인",
+        "origin": "藝能人",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "영화, 음악, 미술 등 예술 분야에서 일하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artist",
+                "trans_dfn": "A person who works in an artistic field such as film, music, the fine arts, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68577",
+        "word": "예닐곱",
+        "origin": "",
+        "pos": "수사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "여섯이나 일곱쯤 되는 수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "about six or seven",
+                "trans_dfn": "A number that is about six or seven."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68575",
+        "word": "예닐곱",
+        "origin": "",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "여섯이나 일곱쯤의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "about six or seven",
+                "trans_dfn": "A number that is about six or seven."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "601081",
+        "word": "예매권",
+        "origin": "豫賣券",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "정해진 때가 되기 전에 미리 파는 표. 입장권, 차표 등이 있다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "advance ticket",
+                "trans_dfn": "Tickets sold in advance before the scheduled time. There are entrance tickets, train tickets, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14137",
+        "word": "예방",
+        "origin": "豫防",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "병이나 사고 등이 생기지 않도록 미리 막음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "prevention",
+                "trans_dfn": "The act of taking precautionary measures to prevent a disease, accident, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91707",
+        "word": "예방되다",
+        "origin": "豫防되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "병이나 사고 등이 생기지 않도록 미리 막아지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be prevented",
+                "trans_dfn": "For precautionary measures to be taken to prevent a disease, accident, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22061",
+        "word": "예방법",
+        "origin": "豫防法",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "병이나 사고 등이 생기지 않도록 미리 막는 방법.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "preventive measure",
+                "trans_dfn": "A method to prevent a disease, accident, etc., in advance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68451",
+        "word": "예방 주사",
+        "origin": "豫防注射",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "전염병을 미리 막기 위해 백신을 넣은 주사를 맞는 일. 또는 그런 주사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "vaccination; inoculation",
+                "trans_dfn": "The act of getting an injection of a vaccine in order to protect against a particular disease, or such an injection."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14139",
+        "word": "예방하다",
+        "origin": "豫防하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "병이나 사고 등이 생기지 않도록 미리 막다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "prevent",
+                "trans_dfn": "To take precautionary measures to prevent a disease, accident, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14141",
+        "word": "예보",
+        "origin": "豫報",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 일어날 일을 미리 알림. 또는 그런 보도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forecast",
+                "trans_dfn": "The act of predicting and letting people know about what is likely to happen, or such a prediction."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91708",
+        "word": "예보되다",
+        "origin": "豫報되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 일어날 일이 미리 알려지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be forecast",
+                "trans_dfn": "For a future event to be predicted and announced to people."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68455",
+        "word": "예보하다",
+        "origin": "豫報하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 일어날 일을 미리 알리다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forecast",
+                "trans_dfn": "To predict a future event and announce it to people."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14143",
+        "word": "예비",
+        "origin": "豫備",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "필요할 때 쓰기 위하여 미리 마련하거나 갖추어 놓음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "reserve; stock",
+                "trans_dfn": "The act of arranging or preparing something in advance in order to use it when in need."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 정식으로 하기 전에 그것을 위해 미리 준비함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "preparation",
+                "trans_dfn": "The act of preparing something before actually carrying out it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68458",
+        "word": "예비하다",
+        "origin": "豫備하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "필요할 때 쓰기 위하여 미리 마련하거나 갖추어 놓다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "reserve; stock",
+                "trans_dfn": "To arrange or prepare something in advance in order to use it when in need."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 정식으로 하기 전에 그것을 위해 미리 준비하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "prepare; ready",
+                "trans_dfn": "To prepare for something before actually carrying out it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14145",
+        "word": "예산",
+        "origin": "豫算",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "필요한 비용을 미리 계산해서 정함. 또는 그런 비용.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "budget",
+                "trans_dfn": "The act of estimating and setting aside necessary expenses in advance; or such expenses."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "국가나 단체, 회사 등에서 수입과 지출을 미리 계산해 돈을 어떻게 사용할 것인지 계획을 세움. 또는 그 계획.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "budget",
+                "trans_dfn": "The act of developing a plan for where money will be spent by estimating income and expenses in a government, organization, company, etc.; or such a plan."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70522",
+        "word": "예상",
+        "origin": "豫想",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 있을 일이나 상황을 짐작함. 또는 그런 내용.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forecast; expectation",
+                "trans_dfn": "The act of guessing what will happen in the future, or something guessed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14146",
+        "word": "예상되다",
+        "origin": "豫想되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 있을 어떤 일이나 상황이 짐작되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be forecasted; be expected",
+                "trans_dfn": "For what will happen in the future to be guessed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14147",
+        "word": "예상하다",
+        "origin": "豫想하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 있을 일이나 상황을 짐작하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forecast; expect",
+                "trans_dfn": "To guess what will happen in the future."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14148",
+        "word": "예선",
+        "origin": "豫選",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 대회에서 본선에 나갈 자격을 얻기 위해 미리 하는 시합.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "preliminary contest",
+                "trans_dfn": "A contest which is held to choose people qualified to take part in the finals."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70566",
+        "word": "예술가",
+        "origin": "藝術家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술 작품을 창작하거나 표현하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artist",
+                "trans_dfn": "A person who creates works of art, or expresses his/her ideas through such works."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "90650",
+        "word": "예술 대학",
+        "origin": "藝術大學",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술 과목을 가르치는 단과 대학.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "college of arts",
+                "trans_dfn": "A college where subjects of art are taught."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14150",
+        "word": "예술적",
+        "origin": "藝術的",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술의 특성을 가진 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being artistic",
+                "trans_dfn": "The state of having the characteristics of art."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14149",
+        "word": "예술적",
+        "origin": "藝術的",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술의 특성을 가진.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artistic",
+                "trans_dfn": "Having the characteristics of art."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14153",
+        "word": "예식장",
+        "origin": "禮式場",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "약혼식, 결혼식 등의 예식을 올리는 장소.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ceremony hall",
+                "trans_dfn": "A place for holding a ceremony such as an engagement ceremony or wedding."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70601",
+        "word": "예약금",
+        "origin": "豫約金",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예약할 때 내는 돈.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "deposit",
+                "trans_dfn": "A partial payment which one makes to secure a reservation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70606",
+        "word": "예약석",
+        "origin": "豫約席",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예약해 놓은 자리.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "reserved seat",
+                "trans_dfn": "A seat which is reserved."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "601084",
+        "word": "예약자",
+        "origin": "豫約者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예약을 한 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "person who made a reservation",
+                "trans_dfn": "The person who made the reservation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70607",
+        "word": "예약제",
+        "origin": "豫約制",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예약을 통해 주문이나 판매 등이 이루어지는 제도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "subscription basis",
+                "trans_dfn": "A system in which orders, sales, etc., are made by subscription."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14155",
+        "word": "예외",
+        "origin": "例外",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "일반적인 규칙이나 예에서 벗어나는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "exception",
+                "trans_dfn": "Something which does not follow a general rule or statement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14184",
+        "word": "예의",
+        "origin": "禮儀",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "공손한 말투나 바른 행동과 같이 사람이 사회생활을 하면서 마땅히 지켜야 할 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "courtesy; manners",
+                "trans_dfn": "A polite way of talking or behaving which one should respect while living as a member of society."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70091",
+        "word": "예절",
+        "origin": "禮節",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람이 사회생활에서 지켜야 하는 바르고 공손한 태도나 행동.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "courtesy; manners",
+                "trans_dfn": "A polite way of talking or behaving which one should respect while living as a member of society."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66576",
+        "word": "예정",
+        "origin": "豫定",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 할 일을 미리 정하거나 예상함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "plan; expectation",
+                "trans_dfn": "The act of deciding or expecting what to do in the future."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14186",
+        "word": "예정되다",
+        "origin": "豫定되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 할 일이 미리 정해지거나 예상되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be planned; be expected",
+                "trans_dfn": "For what to do in the future to be decided or expected."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70094",
+        "word": "예정하다",
+        "origin": "豫定하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 할 일을 미리 정하거나 예상하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "plan; expect",
+                "trans_dfn": "To decide or expect what to do in the future."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70100",
+        "word": "예측",
+        "origin": "豫測",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로의 일을 미리 추측함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "prediction",
+                "trans_dfn": "The act of guessing what will happen in the future."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70101",
+        "word": "예측되다",
+        "origin": "豫測되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로의 일이 미리 추측되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be predicted",
+                "trans_dfn": "For what will happen in the future to be guessed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14187",
+        "word": "예측하다",
+        "origin": "豫測하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로의 일을 미리 추측하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "predict",
+                "trans_dfn": "To guess what will happen in the future."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14144",
+        "word": "예컨대",
+        "origin": "例컨대",
+        "pos": "부사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예를 들자면.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "for instance; such as",
+                "trans_dfn": "For example."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68561",
+        "word": "예각",
+        "origin": "銳角",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "90도보다 작은 각.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "acute angle",
+                "trans_dfn": "An angle which is less than 90 degrees."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22020",
+        "word": "예견",
+        "origin": "豫見",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 일어날 일을 미리 알거나 짐작함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "foresight; prescience",
+                "trans_dfn": "The state or act of knowing in advance or guessing what is going to happen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68566",
+        "word": "예견되다",
+        "origin": "豫見되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 일어날 일이 미리 짐작되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be foreseen",
+                "trans_dfn": "For a future event to be known or guessed in advance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68567",
+        "word": "예견하다",
+        "origin": "豫見하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 일어날 일을 미리 알거나 짐작하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "foresee",
+                "trans_dfn": "To know or guess a future event in advance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68582",
+        "word": "예고편",
+        "origin": "豫告篇",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "영화나 텔레비전 프로그램 등의 내용을 미리 알리기 위해 그 내용의 일부를 뽑아 모은 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "trailer; preview",
+                "trans_dfn": "A video clip consisting of excerpts from a film or TV program, designed to publicize it in advance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68573",
+        "word": "예기하다",
+        "origin": "豫期하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 일어날 일에 대해 미리 생각하고 기다리다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "foresee; forecast",
+                "trans_dfn": "To think and expect in advance what is going to happen in the future."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68574",
+        "word": "예년",
+        "origin": "例年",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "보통의 해.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "normal year; ordinary year",
+                "trans_dfn": "An ordinary year."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "일기 예보에서, 지난 삼십 년간 날씨의 평균적인 상태.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "average",
+                "trans_dfn": "In a weather forecast, the average state of daily weather for the last three decades."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22040",
+        "word": "예능",
+        "origin": "藝能",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "영화, 음악, 미술 등 예술에 대한 재능.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artistic ability",
+                "trans_dfn": "Talent for art, including movies, music, and fine arts."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68443",
+        "word": "예단",
+        "origin": "豫斷",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "미리 판단함. 또는 그 판단.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "prejudgment; making rash judgments; jumping to conclusions",
+                "trans_dfn": "The act of judging beforehand, or such judgment."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22051",
+        "word": "예단",
+        "origin": "禮緞",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "결혼할 때 신부가 시댁 어른들에게 드리는 돈이나 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "dowry",
+                "trans_dfn": "Money or objects which a bride gives to her groom's family members before a wedding."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "90649",
+        "word": "예대",
+        "origin": "藝大",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘예술 대학’을 줄여 이르는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art college",
+                "trans_dfn": "An abbreviated term for an art college."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68444",
+        "word": "예리하다",
+        "origin": "銳利하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "끝이 가늘고 뾰족하거나 날카롭다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sharp; keen; acute",
+                "trans_dfn": "The point of something being thin, pointed, or razor-sharp."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "관찰이나 판단이 정확하고 날카롭다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sharp; keen",
+                "trans_dfn": "One's observation or judgment being exact and acute."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "눈매나 시선 등이 쏘아보는 듯 날카롭다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "piercing; penetrating",
+                "trans_dfn": "One's eyes, etc., being sharp like fiercely staring eyes."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "소리가 신경을 거스를 만큼 높고 가늘다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sharp; shrill; high-pitched",
+                "trans_dfn": "A sound being high and thin enough to irritate one's nerves."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "기술이나 재주 등이 빈틈이 없고 정확하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sharp",
+                "trans_dfn": "One's skill, talent, etc., being perfect and exact."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22056",
+        "word": "예명",
+        "origin": "藝名",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "연예인이나 예술인이 본명을 두고 따로 쓰는 이름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "stage name",
+                "trans_dfn": "A name which an entertainer or artist uses instead of his/her real name."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22077",
+        "word": "예문",
+        "origin": "例文",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "단어나 내용을 설명하기 위해 예를 들어 보여 주는 문장.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "example sentence",
+                "trans_dfn": "A sentence which is shown as an example for explaining a word or something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68448",
+        "word": "예물",
+        "origin": "禮物",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "고마움을 나타내거나 예의를 갖추기 위해서 보내는 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "present; gift",
+                "trans_dfn": "Things sent to someone for expressing one's gratitude or being polite."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "결혼할 때 신랑과 신부가 주고받는 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "wedding present; wedding gift",
+                "trans_dfn": "A thing exchanged between a bride and bridegroom when they get married."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68449",
+        "word": "예민하다",
+        "origin": "銳敏하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무엇인가를 느끼거나 분석하고 판단하는 능력이 매우 빠르고 뛰어나다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "keen; acute; sensitive",
+                "trans_dfn": "Very quick and outstanding in feeling, analyzing, or judging something."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "자극에 대한 반응이나 감각이 지나치게 날카롭다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "oversensitive",
+                "trans_dfn": "One's response to stimulus or senses being overly sensitive."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 일의 성격이 많은 사람들의 관심을 끌 만큼 중요하고 그 처리에 많은 갈등이 있는 상태이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sensitive",
+                "trans_dfn": "An issue being so important as to attract the attention of many people, and likely to cause conflict when it is dealt with."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68450",
+        "word": "예방 접종",
+        "origin": "豫防接種",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "전염병을 미리 막기 위해 백신을 넣은 주사를 맞아 면역성이 생기게 하는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "vaccination; inoculation",
+                "trans_dfn": "The act of developing immunity to a particular disease by getting an injection of a vaccine in order to protect against it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70734",
+        "word": "예방책",
+        "origin": "豫防策",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "병이나 사고 등이 생기지 않도록 미리 준비한 계획이나 방법.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "preventive measure",
+                "trans_dfn": "A plan or method developed to prevent a disease, accident, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68452",
+        "word": "예배",
+        "origin": "禮拜",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "신이나 부처 등에게 기도하고 공경하는 의식. 또는 그런 의식을 행함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "service; worship",
+                "trans_dfn": "The rite of praying and venerating God, Buddha, etc.; the act of performing such a rite."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91407",
+        "word": "예배당",
+        "origin": "禮拜堂",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "기독교에서, ‘교회’의 전 용어.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "chapel; church",
+                "trans_dfn": "In Christianity, the former term for ‘church.’"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68453",
+        "word": "예배하다",
+        "origin": "禮拜하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "신이나 부처 등에게 기도하고 공경하는 의식을 행하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "worship; attend religious services",
+                "trans_dfn": "To perform the rite of praying and venerating God, Buddha, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68454",
+        "word": "예법",
+        "origin": "禮法",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예의로써 지켜야 할 규칙.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "manners",
+                "trans_dfn": "Rules which should be followed as a matter of courtesy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71148",
+        "word": "예복",
+        "origin": "禮服",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "결혼식이나 장례식 등에 가거나 예절을 갖춰야 할 때 입는 옷.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "formal dress",
+                "trans_dfn": "Clothes worn when one should observe decorum or goes to a wedding, funeral, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71149",
+        "word": "예불",
+        "origin": "禮佛",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "불교에서, 부처 앞에서 부처를 숭배하는 의식. 또는 그러한 의식을 함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "Buddhist service",
+                "trans_dfn": "A rite of worshiping Buddha in front of his image; the act of performing such a rite."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68457",
+        "word": "예비역",
+        "origin": "豫備役",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "군대에서 복무를 마친 사람이 일정한 기간 동안 군인의 의무를 지는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "service in the reserves",
+                "trans_dfn": "The state of having an obligation as a soldier for a certain period of time after being discharged from military service."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68459",
+        "word": "예쁘장하다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "꽤 예쁘다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "quite pretty; lovely",
+                "trans_dfn": "Fairly pretty."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68460",
+        "word": "예사",
+        "origin": "例事",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "보통 흔하게 있는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ordinary affair",
+                "trans_dfn": "A common occurrence."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68461",
+        "word": "예사 낮춤",
+        "origin": "例事낮춤",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람을 가리키는 대명사에서, 약간 낮추어 이르는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "formal, moderately addressee-lowering",
+                "trans_dfn": "A personal pronoun with a sense of lowering the addressee slightly."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "문장의 끝을 맺는 서술어에서, 듣는 사람을 약간 낮추는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "formal, moderately addressee-lowering",
+                "trans_dfn": "A sentence ending with a sense of lowering the addressee slightly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68462",
+        "word": "예사 높임",
+        "origin": "例事높임",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람을 가리키는 대명사에서, 약간 높여 이르는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "formal, moderately addressee-raising",
+                "trans_dfn": "A personal pronoun with a sense of raising the addressee slightly."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "문장의 끝을 맺는 서술어에서, 듣는 사람을 약간 높이는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "formal, moderately addressee-raising",
+                "trans_dfn": "A sentence ending with a sense of raising the addressee slightly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71150",
+        "word": "예사로",
+        "origin": "例事로",
+        "pos": "부사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "보통 일처럼 아무렇지도 않게.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "usually; easily",
+                "trans_dfn": "In the manner of making nothing of doing something as if it was nothing special."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "그저 그만하게.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "as an ordinary thing",
+                "trans_dfn": "As a common thing."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71151",
+        "word": "예사롭다",
+        "origin": "例事롭다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "흔히 있거나 일어날 만하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "common; commonplace",
+                "trans_dfn": "Happening or likely to happen usually."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "평소와 다른 것이 없다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ordinary",
+                "trans_dfn": "Not different from usual."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70838",
+        "word": "예사말",
+        "origin": "例事말",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "평소에 가볍게 하는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "habitual remark",
+                "trans_dfn": "A habitual remark not to be taken too seriously."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "높이거나 낮추지 않은 보통 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ordinary way of speaking",
+                "trans_dfn": "The neutral way of speaking without using either polite or impolite form."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "90968",
+        "word": "예사소리",
+        "origin": "例事소리",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘ㄱ’, ‘ㄷ’, ‘ㅂ’, ‘ㅅ’, ‘ㅈ’과 같이 발음 기관의 긴장도가 낮아 약하게 파열되는 소리.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "basic sound",
+                "trans_dfn": "A sound which explodes weakly as speech organs are under little tension when it is pronounced, such as 'ㄱ', 'ㄷ', 'ㅂ' 'ㅅ' and 'ㅈ'."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "include": {
+    "total_reported_sum": 233,
+    "unique_count": 100,
+    "matched_count": 9,
+    "matched_entries": [
+      {
+        "target_code": "70565",
+        "word": "예술",
+        "origin": "藝術",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "학문과 기술.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art",
+                "trans_dfn": "Arts and sciences."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "특정한 재료, 기교, 양식 등을 사용하여 아름다움을 창작하고 표현하는 활동. 또는 그러한 작품.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art",
+                "trans_dfn": "The activity of creating and expressing beauty by using particular materials, techniques, style, etc.; a piece of work produced in such a way."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "(비유적으로) 매우 아름답고 뛰어난 기술.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art",
+                "trans_dfn": "(figurative) Very beautiful and excellent skills."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22027",
+        "word": "예능인",
+        "origin": "藝能人",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "영화, 음악, 미술 등 예술 분야에서 일하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artist",
+                "trans_dfn": "A person who works in an artistic field such as film, music, the fine arts, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70566",
+        "word": "예술가",
+        "origin": "藝術家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술 작품을 창작하거나 표현하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artist",
+                "trans_dfn": "A person who creates works of art, or expresses his/her ideas through such works."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "90650",
+        "word": "예술 대학",
+        "origin": "藝術大學",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술 과목을 가르치는 단과 대학.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "college of arts",
+                "trans_dfn": "A college where subjects of art are taught."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14150",
+        "word": "예술적",
+        "origin": "藝術的",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술의 특성을 가진 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being artistic",
+                "trans_dfn": "The state of having the characteristics of art."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14149",
+        "word": "예술적",
+        "origin": "藝術的",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술의 특성을 가진.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artistic",
+                "trans_dfn": "Having the characteristics of art."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22040",
+        "word": "예능",
+        "origin": "藝能",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "영화, 음악, 미술 등 예술에 대한 재능.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artistic ability",
+                "trans_dfn": "Talent for art, including movies, music, and fine arts."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "90649",
+        "word": "예대",
+        "origin": "藝大",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘예술 대학’을 줄여 이르는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art college",
+                "trans_dfn": "An abbreviated term for an art college."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22056",
+        "word": "예명",
+        "origin": "藝名",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "연예인이나 예술인이 본명을 두고 따로 쓰는 이름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "stage name",
+                "trans_dfn": "A name which an entertainer or artist uses instead of his/her real name."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "all_unique_entries": [
+      {
+        "target_code": "73966",
+        "word": "예",
+        "origin": "",
+        "pos": "감탄사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "윗사람의 부름에 대답할 때 쓰는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "yes sir; yes ma'am",
+                "trans_dfn": "An exclamation uttered when the speaker answers the call of his/her elder."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "윗사람의 물음이나 명령 등에 긍정하여 대답할 때 쓰는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "yes sir; yes ma'am",
+                "trans_dfn": "An exclamation uttered when the speaker affirmatively answers the call or order of his/her senior or superior."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "윗사람의 말을 다시 물을 때 쓰는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "yes sir; yes ma'am",
+                "trans_dfn": "An exclamation uttered when the speaker asks again what his/her elder said."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "윗사람에게 무엇을 조를 때 쓰는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "please",
+                "trans_dfn": "An exclamation uttered when the speaker pesters his/her elder to do something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14128",
+        "word": "예",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "오래 전.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "old times",
+                "trans_dfn": "Long ago."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "46546",
+        "word": "예",
+        "origin": "例",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 것을 설명하거나 주장하기 위한 실제 본보기가 되는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "example",
+                "trans_dfn": "An instance of something used to illustrate or argue for something else."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68558",
+        "word": "예",
+        "origin": "禮",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람이 당연히 지켜야 할 바른 마음가짐과 태도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "politeness; courtesy",
+                "trans_dfn": "Good mental attitude and manners that a person should keep."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "예의와 규범에 따라 행하는 의식.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ceremony",
+                "trans_dfn": "A ritual performed according to certain manners and rules."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "예의로써 지켜야 할 규칙.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "etiquette; decorum",
+                "trans_dfn": "Rules that should be followed as manners."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "89185",
+        "word": "예",
+        "origin": "",
+        "pos": "대명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "말하는 사람에게 가까운 곳을 가리키는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "here; this",
+                "trans_dfn": "A pronoun used to indicate a place close to the speaker."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68783",
+        "word": "예",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "한글 자모 ‘ㅖ’의 이름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ye",
+                "trans_dfn": "The name of the vowel 'ㅖ' in the Korean alphabet."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22045",
+        "word": "예매",
+        "origin": "豫買",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "차표나 입장권 등을 정해진 때가 되기 전에 미리 사 둠.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "advance purchase",
+                "trans_dfn": "The act of buying a passenger ticket, admission ticket, etc., in advance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91706",
+        "word": "예매되다",
+        "origin": "豫買되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "차표나 입장권 등이 정해진 때가 되기 전에 미리 구매되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be bought in advance",
+                "trans_dfn": "For a passenger ticket, admission ticket, etc., to be bought in advance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14135",
+        "word": "예매하다",
+        "origin": "豫買하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "차표나 입장권 등을 정해진 때가 되기 전에 미리 사 두다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "purchase in advance",
+                "trans_dfn": "To buy a passenger ticket, admission ticket, etc., in advance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "89697",
+        "word": "예쁘다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "생긴 모양이 눈으로 보기에 좋을 만큼 아름답다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pretty; beautiful; comely",
+                "trans_dfn": "The appearance of someone or something looking good and beautiful."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "행동이나 동작, 말투 등이 보기에 사랑스럽고 귀엽다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "adorable",
+                "trans_dfn": "One's behavior, movements, way of speaking, etc., being lovely and cute."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "아이가 행동이 바르고 말을 잘 들어서 흐뭇하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "nice; good",
+                "trans_dfn": "A child making one feel satisfied because he/she behaves correctly and does what he/she is told."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "87910",
+        "word": "예순",
+        "origin": "",
+        "pos": "수사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "열의 여섯 배가 되는 수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sixty",
+                "trans_dfn": "The number that is the product of six times ten."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58134",
+        "word": "예순",
+        "origin": "",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "열의 여섯 배가 되는 수의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sixty",
+                "trans_dfn": "The number that is the product of six times ten."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70565",
+        "word": "예술",
+        "origin": "藝術",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "학문과 기술.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art",
+                "trans_dfn": "Arts and sciences."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "특정한 재료, 기교, 양식 등을 사용하여 아름다움을 창작하고 표현하는 활동. 또는 그러한 작품.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art",
+                "trans_dfn": "The activity of creating and expressing beauty by using particular materials, techniques, style, etc.; a piece of work produced in such a way."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "(비유적으로) 매우 아름답고 뛰어난 기술.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art",
+                "trans_dfn": "(figurative) Very beautiful and excellent skills."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14151",
+        "word": "예습",
+        "origin": "豫習",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 배울 것을 미리 공부함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "studying in advance",
+                "trans_dfn": "The act of studying in advance for the next class."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14152",
+        "word": "예습하다",
+        "origin": "豫習하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 배울 것을 미리 공부하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "study in advance",
+                "trans_dfn": "To study in advance for the next class."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70599",
+        "word": "예약",
+        "origin": "豫約",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자리나 방, 물건 등을 사용하기 위해 미리 약속함. 또는 그런 약속.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "reservation; booking",
+                "trans_dfn": "The act of arranging a place, room, object, etc., in advance for future use, or such an arrangement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70603",
+        "word": "예약되다",
+        "origin": "豫約되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자리나 방, 물건 등이 사용될 수 있도록 미리 약속되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be booked; be reserved in advance",
+                "trans_dfn": "For a place, room, object, etc., to be arranged in advance for future use."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14154",
+        "word": "예약하다",
+        "origin": "豫約하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자리나 방, 물건 등을 사용하기 위해 미리 약속하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "make a reservation; book",
+                "trans_dfn": "To arrange a place, room, object, etc., in advance for future use."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14130",
+        "word": "예감",
+        "origin": "豫感",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무슨 일이 생길 것 같은 느낌.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "premonition; presage; hunch",
+                "trans_dfn": "A feeling that something is about to happen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68564",
+        "word": "예감하다",
+        "origin": "豫感하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무슨 일이 생길 것 같은 느낌을 느끼다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "have a premonition; have a hunch",
+                "trans_dfn": "To feel that something is about to happen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68569",
+        "word": "예고",
+        "origin": "豫告",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일이 일어나기 전에 미리 알림.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "previous notice",
+                "trans_dfn": "The act of notifying someone of something before it happens."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68570",
+        "word": "예고되다",
+        "origin": "豫告되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일이 일어나기 전에 미리 알려지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be notified previously",
+                "trans_dfn": "For something to be notified before it happens."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14133",
+        "word": "예고하다",
+        "origin": "豫告하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일이 일어나기 전에 미리 알리다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "notify previously",
+                "trans_dfn": "To notify someone of something before it happens."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71102",
+        "word": "예금",
+        "origin": "預金",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "은행 등의 금융 기관에 돈을 맡김. 또는 그 돈.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "deposit; making a deposit",
+                "trans_dfn": "The act of entrusting money to a financial institution such as a bank, or the money."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91705",
+        "word": "예금되다",
+        "origin": "預金되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "은행 등의 금융 기관에 돈이 맡겨지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be deposited; be put into a bank account",
+                "trans_dfn": "For money to be entrusted in a financial institution such as a bank, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22031",
+        "word": "예금액",
+        "origin": "預金額",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "은행 등의 금융 기관에 저금해 둔 돈의 액수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "deposited amount",
+                "trans_dfn": "The amount of money kept in a financial institution such as a bank."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68571",
+        "word": "예금주",
+        "origin": "預金主",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "은행에 통장을 만들어 돈을 저축한 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "depositor",
+                "trans_dfn": "A person who has opened a bank account and has deposited money in it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68589",
+        "word": "예금 통장",
+        "origin": "預金通帳",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "은행 등에서 돈을 저축한 사람에게 주는, 돈이 들어오고 나간 것을 적는 장부.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "bank book; deposit passbook",
+                "trans_dfn": "A book that is given to a person who deposits money in a bank, that keeps the deposits and withdrawals of money."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68572",
+        "word": "예금하다",
+        "origin": "預金하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "은행 등의 금융 기관에 돈을 맡기다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "deposit; make a deposit",
+                "trans_dfn": "To entrust money in a financial institution such as a bank, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22027",
+        "word": "예능인",
+        "origin": "藝能人",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "영화, 음악, 미술 등 예술 분야에서 일하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artist",
+                "trans_dfn": "A person who works in an artistic field such as film, music, the fine arts, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68577",
+        "word": "예닐곱",
+        "origin": "",
+        "pos": "수사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "여섯이나 일곱쯤 되는 수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "about six or seven",
+                "trans_dfn": "A number that is about six or seven."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68575",
+        "word": "예닐곱",
+        "origin": "",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "여섯이나 일곱쯤의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "about six or seven",
+                "trans_dfn": "A number that is about six or seven."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "601081",
+        "word": "예매권",
+        "origin": "豫賣券",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "정해진 때가 되기 전에 미리 파는 표. 입장권, 차표 등이 있다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "advance ticket",
+                "trans_dfn": "Tickets sold in advance before the scheduled time. There are entrance tickets, train tickets, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14137",
+        "word": "예방",
+        "origin": "豫防",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "병이나 사고 등이 생기지 않도록 미리 막음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "prevention",
+                "trans_dfn": "The act of taking precautionary measures to prevent a disease, accident, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91707",
+        "word": "예방되다",
+        "origin": "豫防되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "병이나 사고 등이 생기지 않도록 미리 막아지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be prevented",
+                "trans_dfn": "For precautionary measures to be taken to prevent a disease, accident, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22061",
+        "word": "예방법",
+        "origin": "豫防法",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "병이나 사고 등이 생기지 않도록 미리 막는 방법.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "preventive measure",
+                "trans_dfn": "A method to prevent a disease, accident, etc., in advance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68451",
+        "word": "예방 주사",
+        "origin": "豫防注射",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "전염병을 미리 막기 위해 백신을 넣은 주사를 맞는 일. 또는 그런 주사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "vaccination; inoculation",
+                "trans_dfn": "The act of getting an injection of a vaccine in order to protect against a particular disease, or such an injection."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14139",
+        "word": "예방하다",
+        "origin": "豫防하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "병이나 사고 등이 생기지 않도록 미리 막다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "prevent",
+                "trans_dfn": "To take precautionary measures to prevent a disease, accident, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14141",
+        "word": "예보",
+        "origin": "豫報",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 일어날 일을 미리 알림. 또는 그런 보도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forecast",
+                "trans_dfn": "The act of predicting and letting people know about what is likely to happen, or such a prediction."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91708",
+        "word": "예보되다",
+        "origin": "豫報되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 일어날 일이 미리 알려지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be forecast",
+                "trans_dfn": "For a future event to be predicted and announced to people."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68455",
+        "word": "예보하다",
+        "origin": "豫報하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 일어날 일을 미리 알리다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forecast",
+                "trans_dfn": "To predict a future event and announce it to people."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14143",
+        "word": "예비",
+        "origin": "豫備",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "필요할 때 쓰기 위하여 미리 마련하거나 갖추어 놓음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "reserve; stock",
+                "trans_dfn": "The act of arranging or preparing something in advance in order to use it when in need."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 정식으로 하기 전에 그것을 위해 미리 준비함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "preparation",
+                "trans_dfn": "The act of preparing something before actually carrying out it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68458",
+        "word": "예비하다",
+        "origin": "豫備하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "필요할 때 쓰기 위하여 미리 마련하거나 갖추어 놓다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "reserve; stock",
+                "trans_dfn": "To arrange or prepare something in advance in order to use it when in need."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 정식으로 하기 전에 그것을 위해 미리 준비하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "prepare; ready",
+                "trans_dfn": "To prepare for something before actually carrying out it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14145",
+        "word": "예산",
+        "origin": "豫算",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "필요한 비용을 미리 계산해서 정함. 또는 그런 비용.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "budget",
+                "trans_dfn": "The act of estimating and setting aside necessary expenses in advance; or such expenses."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "국가나 단체, 회사 등에서 수입과 지출을 미리 계산해 돈을 어떻게 사용할 것인지 계획을 세움. 또는 그 계획.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "budget",
+                "trans_dfn": "The act of developing a plan for where money will be spent by estimating income and expenses in a government, organization, company, etc.; or such a plan."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70522",
+        "word": "예상",
+        "origin": "豫想",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 있을 일이나 상황을 짐작함. 또는 그런 내용.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forecast; expectation",
+                "trans_dfn": "The act of guessing what will happen in the future, or something guessed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14146",
+        "word": "예상되다",
+        "origin": "豫想되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 있을 어떤 일이나 상황이 짐작되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be forecasted; be expected",
+                "trans_dfn": "For what will happen in the future to be guessed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14147",
+        "word": "예상하다",
+        "origin": "豫想하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 있을 일이나 상황을 짐작하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forecast; expect",
+                "trans_dfn": "To guess what will happen in the future."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14148",
+        "word": "예선",
+        "origin": "豫選",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 대회에서 본선에 나갈 자격을 얻기 위해 미리 하는 시합.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "preliminary contest",
+                "trans_dfn": "A contest which is held to choose people qualified to take part in the finals."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70566",
+        "word": "예술가",
+        "origin": "藝術家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술 작품을 창작하거나 표현하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artist",
+                "trans_dfn": "A person who creates works of art, or expresses his/her ideas through such works."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "90650",
+        "word": "예술 대학",
+        "origin": "藝術大學",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술 과목을 가르치는 단과 대학.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "college of arts",
+                "trans_dfn": "A college where subjects of art are taught."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14150",
+        "word": "예술적",
+        "origin": "藝術的",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술의 특성을 가진 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being artistic",
+                "trans_dfn": "The state of having the characteristics of art."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14149",
+        "word": "예술적",
+        "origin": "藝術的",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예술의 특성을 가진.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artistic",
+                "trans_dfn": "Having the characteristics of art."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14153",
+        "word": "예식장",
+        "origin": "禮式場",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "약혼식, 결혼식 등의 예식을 올리는 장소.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ceremony hall",
+                "trans_dfn": "A place for holding a ceremony such as an engagement ceremony or wedding."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70601",
+        "word": "예약금",
+        "origin": "豫約金",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예약할 때 내는 돈.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "deposit",
+                "trans_dfn": "A partial payment which one makes to secure a reservation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70606",
+        "word": "예약석",
+        "origin": "豫約席",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예약해 놓은 자리.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "reserved seat",
+                "trans_dfn": "A seat which is reserved."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "601084",
+        "word": "예약자",
+        "origin": "豫約者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예약을 한 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "person who made a reservation",
+                "trans_dfn": "The person who made the reservation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70607",
+        "word": "예약제",
+        "origin": "豫約制",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예약을 통해 주문이나 판매 등이 이루어지는 제도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "subscription basis",
+                "trans_dfn": "A system in which orders, sales, etc., are made by subscription."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14155",
+        "word": "예외",
+        "origin": "例外",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "일반적인 규칙이나 예에서 벗어나는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "exception",
+                "trans_dfn": "Something which does not follow a general rule or statement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14184",
+        "word": "예의",
+        "origin": "禮儀",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "공손한 말투나 바른 행동과 같이 사람이 사회생활을 하면서 마땅히 지켜야 할 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "courtesy; manners",
+                "trans_dfn": "A polite way of talking or behaving which one should respect while living as a member of society."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70091",
+        "word": "예절",
+        "origin": "禮節",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람이 사회생활에서 지켜야 하는 바르고 공손한 태도나 행동.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "courtesy; manners",
+                "trans_dfn": "A polite way of talking or behaving which one should respect while living as a member of society."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66576",
+        "word": "예정",
+        "origin": "豫定",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 할 일을 미리 정하거나 예상함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "plan; expectation",
+                "trans_dfn": "The act of deciding or expecting what to do in the future."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14186",
+        "word": "예정되다",
+        "origin": "豫定되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 할 일이 미리 정해지거나 예상되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be planned; be expected",
+                "trans_dfn": "For what to do in the future to be decided or expected."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70094",
+        "word": "예정하다",
+        "origin": "豫定하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 할 일을 미리 정하거나 예상하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "plan; expect",
+                "trans_dfn": "To decide or expect what to do in the future."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70100",
+        "word": "예측",
+        "origin": "豫測",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로의 일을 미리 추측함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "prediction",
+                "trans_dfn": "The act of guessing what will happen in the future."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70101",
+        "word": "예측되다",
+        "origin": "豫測되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로의 일이 미리 추측되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be predicted",
+                "trans_dfn": "For what will happen in the future to be guessed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14187",
+        "word": "예측하다",
+        "origin": "豫測하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로의 일을 미리 추측하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "predict",
+                "trans_dfn": "To guess what will happen in the future."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14144",
+        "word": "예컨대",
+        "origin": "例컨대",
+        "pos": "부사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예를 들자면.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "for instance; such as",
+                "trans_dfn": "For example."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68561",
+        "word": "예각",
+        "origin": "銳角",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "90도보다 작은 각.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "acute angle",
+                "trans_dfn": "An angle which is less than 90 degrees."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22020",
+        "word": "예견",
+        "origin": "豫見",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 일어날 일을 미리 알거나 짐작함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "foresight; prescience",
+                "trans_dfn": "The state or act of knowing in advance or guessing what is going to happen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68566",
+        "word": "예견되다",
+        "origin": "豫見되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 일어날 일이 미리 짐작되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be foreseen",
+                "trans_dfn": "For a future event to be known or guessed in advance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68567",
+        "word": "예견하다",
+        "origin": "豫見하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 일어날 일을 미리 알거나 짐작하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "foresee",
+                "trans_dfn": "To know or guess a future event in advance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68582",
+        "word": "예고편",
+        "origin": "豫告篇",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "영화나 텔레비전 프로그램 등의 내용을 미리 알리기 위해 그 내용의 일부를 뽑아 모은 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "trailer; preview",
+                "trans_dfn": "A video clip consisting of excerpts from a film or TV program, designed to publicize it in advance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68573",
+        "word": "예기하다",
+        "origin": "豫期하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "앞으로 일어날 일에 대해 미리 생각하고 기다리다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "foresee; forecast",
+                "trans_dfn": "To think and expect in advance what is going to happen in the future."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68574",
+        "word": "예년",
+        "origin": "例年",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "보통의 해.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "normal year; ordinary year",
+                "trans_dfn": "An ordinary year."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "일기 예보에서, 지난 삼십 년간 날씨의 평균적인 상태.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "average",
+                "trans_dfn": "In a weather forecast, the average state of daily weather for the last three decades."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22040",
+        "word": "예능",
+        "origin": "藝能",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "영화, 음악, 미술 등 예술에 대한 재능.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "artistic ability",
+                "trans_dfn": "Talent for art, including movies, music, and fine arts."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68443",
+        "word": "예단",
+        "origin": "豫斷",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "미리 판단함. 또는 그 판단.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "prejudgment; making rash judgments; jumping to conclusions",
+                "trans_dfn": "The act of judging beforehand, or such judgment."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22051",
+        "word": "예단",
+        "origin": "禮緞",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "결혼할 때 신부가 시댁 어른들에게 드리는 돈이나 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "dowry",
+                "trans_dfn": "Money or objects which a bride gives to her groom's family members before a wedding."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "90649",
+        "word": "예대",
+        "origin": "藝大",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘예술 대학’을 줄여 이르는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "art college",
+                "trans_dfn": "An abbreviated term for an art college."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68444",
+        "word": "예리하다",
+        "origin": "銳利하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "끝이 가늘고 뾰족하거나 날카롭다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sharp; keen; acute",
+                "trans_dfn": "The point of something being thin, pointed, or razor-sharp."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "관찰이나 판단이 정확하고 날카롭다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sharp; keen",
+                "trans_dfn": "One's observation or judgment being exact and acute."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "눈매나 시선 등이 쏘아보는 듯 날카롭다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "piercing; penetrating",
+                "trans_dfn": "One's eyes, etc., being sharp like fiercely staring eyes."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "소리가 신경을 거스를 만큼 높고 가늘다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sharp; shrill; high-pitched",
+                "trans_dfn": "A sound being high and thin enough to irritate one's nerves."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "기술이나 재주 등이 빈틈이 없고 정확하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sharp",
+                "trans_dfn": "One's skill, talent, etc., being perfect and exact."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22056",
+        "word": "예명",
+        "origin": "藝名",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "연예인이나 예술인이 본명을 두고 따로 쓰는 이름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "stage name",
+                "trans_dfn": "A name which an entertainer or artist uses instead of his/her real name."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "22077",
+        "word": "예문",
+        "origin": "例文",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "단어나 내용을 설명하기 위해 예를 들어 보여 주는 문장.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "example sentence",
+                "trans_dfn": "A sentence which is shown as an example for explaining a word or something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68448",
+        "word": "예물",
+        "origin": "禮物",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "고마움을 나타내거나 예의를 갖추기 위해서 보내는 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "present; gift",
+                "trans_dfn": "Things sent to someone for expressing one's gratitude or being polite."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "결혼할 때 신랑과 신부가 주고받는 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "wedding present; wedding gift",
+                "trans_dfn": "A thing exchanged between a bride and bridegroom when they get married."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68449",
+        "word": "예민하다",
+        "origin": "銳敏하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무엇인가를 느끼거나 분석하고 판단하는 능력이 매우 빠르고 뛰어나다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "keen; acute; sensitive",
+                "trans_dfn": "Very quick and outstanding in feeling, analyzing, or judging something."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "자극에 대한 반응이나 감각이 지나치게 날카롭다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "oversensitive",
+                "trans_dfn": "One's response to stimulus or senses being overly sensitive."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 일의 성격이 많은 사람들의 관심을 끌 만큼 중요하고 그 처리에 많은 갈등이 있는 상태이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sensitive",
+                "trans_dfn": "An issue being so important as to attract the attention of many people, and likely to cause conflict when it is dealt with."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68450",
+        "word": "예방 접종",
+        "origin": "豫防接種",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "전염병을 미리 막기 위해 백신을 넣은 주사를 맞아 면역성이 생기게 하는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "vaccination; inoculation",
+                "trans_dfn": "The act of developing immunity to a particular disease by getting an injection of a vaccine in order to protect against it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70734",
+        "word": "예방책",
+        "origin": "豫防策",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "병이나 사고 등이 생기지 않도록 미리 준비한 계획이나 방법.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "preventive measure",
+                "trans_dfn": "A plan or method developed to prevent a disease, accident, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68452",
+        "word": "예배",
+        "origin": "禮拜",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "신이나 부처 등에게 기도하고 공경하는 의식. 또는 그런 의식을 행함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "service; worship",
+                "trans_dfn": "The rite of praying and venerating God, Buddha, etc.; the act of performing such a rite."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91407",
+        "word": "예배당",
+        "origin": "禮拜堂",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "기독교에서, ‘교회’의 전 용어.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "chapel; church",
+                "trans_dfn": "In Christianity, the former term for ‘church.’"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68453",
+        "word": "예배하다",
+        "origin": "禮拜하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "신이나 부처 등에게 기도하고 공경하는 의식을 행하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "worship; attend religious services",
+                "trans_dfn": "To perform the rite of praying and venerating God, Buddha, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68454",
+        "word": "예법",
+        "origin": "禮法",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예의로써 지켜야 할 규칙.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "manners",
+                "trans_dfn": "Rules which should be followed as a matter of courtesy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71148",
+        "word": "예복",
+        "origin": "禮服",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "결혼식이나 장례식 등에 가거나 예절을 갖춰야 할 때 입는 옷.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "formal dress",
+                "trans_dfn": "Clothes worn when one should observe decorum or goes to a wedding, funeral, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71149",
+        "word": "예불",
+        "origin": "禮佛",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "불교에서, 부처 앞에서 부처를 숭배하는 의식. 또는 그러한 의식을 함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "Buddhist service",
+                "trans_dfn": "A rite of worshiping Buddha in front of his image; the act of performing such a rite."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68457",
+        "word": "예비역",
+        "origin": "豫備役",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "군대에서 복무를 마친 사람이 일정한 기간 동안 군인의 의무를 지는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "service in the reserves",
+                "trans_dfn": "The state of having an obligation as a soldier for a certain period of time after being discharged from military service."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68459",
+        "word": "예쁘장하다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "꽤 예쁘다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "quite pretty; lovely",
+                "trans_dfn": "Fairly pretty."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68460",
+        "word": "예사",
+        "origin": "例事",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "보통 흔하게 있는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ordinary affair",
+                "trans_dfn": "A common occurrence."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68461",
+        "word": "예사 낮춤",
+        "origin": "例事낮춤",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람을 가리키는 대명사에서, 약간 낮추어 이르는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "formal, moderately addressee-lowering",
+                "trans_dfn": "A personal pronoun with a sense of lowering the addressee slightly."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "문장의 끝을 맺는 서술어에서, 듣는 사람을 약간 낮추는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "formal, moderately addressee-lowering",
+                "trans_dfn": "A sentence ending with a sense of lowering the addressee slightly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68462",
+        "word": "예사 높임",
+        "origin": "例事높임",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람을 가리키는 대명사에서, 약간 높여 이르는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "formal, moderately addressee-raising",
+                "trans_dfn": "A personal pronoun with a sense of raising the addressee slightly."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "문장의 끝을 맺는 서술어에서, 듣는 사람을 약간 높이는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "formal, moderately addressee-raising",
+                "trans_dfn": "A sentence ending with a sense of raising the addressee slightly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71150",
+        "word": "예사로",
+        "origin": "例事로",
+        "pos": "부사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "보통 일처럼 아무렇지도 않게.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "usually; easily",
+                "trans_dfn": "In the manner of making nothing of doing something as if it was nothing special."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "그저 그만하게.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "as an ordinary thing",
+                "trans_dfn": "As a common thing."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71151",
+        "word": "예사롭다",
+        "origin": "例事롭다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "흔히 있거나 일어날 만하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "common; commonplace",
+                "trans_dfn": "Happening or likely to happen usually."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "평소와 다른 것이 없다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ordinary",
+                "trans_dfn": "Not different from usual."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70838",
+        "word": "예사말",
+        "origin": "例事말",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "평소에 가볍게 하는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "habitual remark",
+                "trans_dfn": "A habitual remark not to be taken too seriously."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "높이거나 낮추지 않은 보통 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ordinary way of speaking",
+                "trans_dfn": "The neutral way of speaking without using either polite or impolite form."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "90968",
+        "word": "예사소리",
+        "origin": "例事소리",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘ㄱ’, ‘ㄷ’, ‘ㅂ’, ‘ㅅ’, ‘ㅈ’과 같이 발음 기관의 긴장도가 낮아 약하게 파열되는 소리.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "basic sound",
+                "trans_dfn": "A sound which explodes weakly as speech organs are under little tension when it is pronounced, such as 'ㄱ', 'ㄷ', 'ㅂ' 'ㅅ' and 'ㅈ'."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

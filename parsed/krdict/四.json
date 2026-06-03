@@ -1,0 +1,5046 @@
+{
+  "exact": {
+    "total_reported_sum": 1518,
+    "unique_count": 100,
+    "matched_count": 8,
+    "matched_entries": [
+      {
+        "target_code": "58114",
+        "word": "사",
+        "origin": "四",
+        "pos": "수사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "삼에 일을 더한 수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four",
+                "trans_dfn": "The number that is the sum of three and one."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58116",
+        "word": "사",
+        "origin": "四",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "넷의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four",
+                "trans_dfn": "Being number four."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "네 번째의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "fourth",
+                "trans_dfn": "Constituting number four in a series."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "88600",
+        "word": "사거리",
+        "origin": "四거리",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "길이 한 곳에서 네 방향으로 갈라진 곳.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "crossroads; intersection; street corner",
+                "trans_dfn": "A place where four roads meet."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "92647",
+        "word": "사계절",
+        "origin": "四季節",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "봄, 여름, 가을, 겨울의 네 계절.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four seasons",
+                "trans_dfn": "Four seasons that are spring, summer, fall, and winter."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58123",
+        "word": "사십",
+        "origin": "四十",
+        "pos": "수사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "십의 네 배가 되는 수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forty",
+                "trans_dfn": "The number that is the product of four times ten."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58128",
+        "word": "사십",
+        "origin": "四十",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "마흔의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forty",
+                "trans_dfn": "Being number forty."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "마흔 번째의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "fortieth",
+                "trans_dfn": "Constituting number forty in a series."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "20228",
+        "word": "사월",
+        "origin": "四月",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "일 년 열두 달 가운데 넷째 달.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "April",
+                "trans_dfn": "The fourth month of a year, out of twelve months."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15661",
+        "word": "사방",
+        "origin": "四方",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "동, 서, 남, 북의 네 가지 방향.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four directions",
+                "trans_dfn": "The four directions such as north, south, east, and west."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "둘레의 모든 곳.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "all sides",
+                "trans_dfn": "All the places around."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "all_unique_entries": [
+      {
+        "target_code": "58114",
+        "word": "사",
+        "origin": "四",
+        "pos": "수사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "삼에 일을 더한 수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four",
+                "trans_dfn": "The number that is the sum of three and one."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58116",
+        "word": "사",
+        "origin": "四",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "넷의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four",
+                "trans_dfn": "Being number four."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "네 번째의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "fourth",
+                "trans_dfn": "Constituting number four in a series."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61116",
+        "word": "사",
+        "origin": "死",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "죽는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "death",
+                "trans_dfn": "The act of dying."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61118",
+        "word": "사",
+        "origin": "私",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "개인적인 일이나 감정 등에 관련된 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being private; private matter",
+                "trans_dfn": "Something related to personal affairs or feelings."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "78625",
+        "word": "사-",
+        "origin": "",
+        "pos": "품사 없음",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(사고, 사는데, 사, 사서, 사니, 사면, 산, 사는, 살, 삽니다, 샀다, 사라)→ 사다",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "78626",
+        "word": "사-",
+        "origin": "",
+        "pos": "품사 없음",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(사는데, 사니, 산, 사는, 살, 삽니다)→ 살다",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "70681",
+        "word": "-사",
+        "origin": "士",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘직업’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean an occupation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70683",
+        "word": "-사",
+        "origin": "寺",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘절’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean a temple."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70684",
+        "word": "-사",
+        "origin": "事",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘일’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean a matter."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70685",
+        "word": "-사",
+        "origin": "社",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘회사’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean a company."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70686",
+        "word": "-사",
+        "origin": "師",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "'그것을 직업으로 하는 사람'의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean a person who does something as a job."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70682",
+        "word": "-사",
+        "origin": "史",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘역사’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean history."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70687",
+        "word": "-사",
+        "origin": "詞",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘품사’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean a part of speech."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70688",
+        "word": "-사",
+        "origin": "辭",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘말’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean a speech."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61295",
+        "word": "사진사",
+        "origin": "寫眞師",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사진을 찍는 일을 직업으로 하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "photographer",
+                "trans_dfn": "A person who takes photos as a job."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61586",
+        "word": "사회봉사",
+        "origin": "社會奉仕",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사회의 이익이나 복지를 위해 노동력을 제공하거나 돈과 물건 등을 내놓는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "community service",
+                "trans_dfn": "An act of providing labor, money, goods, etc. for the interests or welfare of the society."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "600635",
+        "word": "사육사",
+        "origin": "飼育士",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "동물원에서 동물을 돌보는 일을 직업으로 하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "zookeeper",
+                "trans_dfn": "A person whose job is to take care of animals at a zoo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "600128",
+        "word": "사전 답사",
+        "origin": "事前踏査",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "실제 현장에 가서 직접 보고 조사하는 일을 하기 전에, 미리 상황을 자세히 따져 보기 위해 그 현장에 다녀오는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "",
+                "trans_dfn": "Going to a site to examine the situation in detail before going to the actual site to see and investigate in person."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "49419",
+        "word": "사다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "돈을 주고 어떤 물건이나 권리 등을 자기 것으로 만들다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "buy; purchase; get",
+                "trans_dfn": "To get ownership of an item, right, etc., by paying for it."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "다른 사람이나 어떤 일의 가치를 인정하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "appreciate; admire; value",
+                "trans_dfn": "To recognize the value of a person or work."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "돈을 주고 다른 사람의 힘을 빌리다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "hire; retain",
+                "trans_dfn": "To pay someone to get help from him/her."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "다른 사람에게 어떤 감정을 가지게 하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "cause; stir",
+                "trans_dfn": "To cause someone to develop certain feelings."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "다른 사람과 함께 먹은 음식의 값을 치르다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "buy; treat",
+                "trans_dfn": "To pay for someone's food after you both ate together."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "88600",
+        "word": "사거리",
+        "origin": "四거리",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "길이 한 곳에서 네 방향으로 갈라진 곳.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "crossroads; intersection; street corner",
+                "trans_dfn": "A place where four roads meet."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "92647",
+        "word": "사계절",
+        "origin": "四季節",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "봄, 여름, 가을, 겨울의 네 계절.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four seasons",
+                "trans_dfn": "Four seasons that are spring, summer, fall, and winter."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66370",
+        "word": "사고",
+        "origin": "事故",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예상하지 못하게 일어난 좋지 않은 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "accident",
+                "trans_dfn": "An unfortunate affair that happens unexpectedly."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "다른 사람에게 피해를 주거나 문제를 일으키는 나쁜 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "trouble",
+                "trans_dfn": "A bad thing that does harm to others or causes a problem"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66371",
+        "word": "사과",
+        "origin": "沙果/砂果",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "모양이 둥글고 붉으며 새콤하고 단맛이 나는 과일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "apple",
+                "trans_dfn": "A round-shaped sweet and sour fruit with red skin."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15656",
+        "word": "사귀다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "서로 알게 되어 친하게 지내다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "get along with; go around with; go out with",
+                "trans_dfn": "To come to know and keep each other's company."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58161",
+        "word": "사람",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "생각할 수 있으며 언어와 도구를 만들어 사용하고 사회를 이루어 사는 존재.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "human; man",
+                "trans_dfn": "A being that is capable of thinking, makes and uses languages and tools and lives by forming a society with others."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 지역이나 집안, 조직에 속한 자.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "person; native",
+                "trans_dfn": "A person who belongs to a region, family, organization, etc."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "일정한 자격이나 인격을 갖춘 존재.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "talent; reponsible member",
+                "trans_dfn": "A being that has certain qualifications or character."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "성질이나 인격.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "personality",
+                "trans_dfn": "The personality or character of a person."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "친근한 상대편을 가리키거나 부를 때 사용하는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "dude",
+                "trans_dfn": "The word that is used to refer to or call a person that one feels close to."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "특별히 정해지지 않은 자기 외의 남을 가리키는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "other; other person",
+                "trans_dfn": "The word that refers to an unspecified person other than oneself."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "뛰어난 인물.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "prominent figure",
+                "trans_dfn": "An extraordinary person."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "일을 할 일꾼이나 그 수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "people",
+                "trans_dfn": "A worker or a person hired to work on a project or assignment."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "사람의 수를 세는 단위.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "person",
+                "trans_dfn": "The unit of counting the number of people."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66649",
+        "word": "사랑",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "상대에게 성적으로 매력을 느껴 열렬히 좋아하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love",
+                "trans_dfn": "The state of being sexually attracted to and having strong affection for a person."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "아끼고 소중히 여겨 정성을 다해 위하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love",
+                "trans_dfn": "The attitude of sincerely caring about someone out of affection."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "남을 돕고 이해하려는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "care",
+                "trans_dfn": "The attitude of trying to help and understand others."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "무엇을 매우 좋아하거나 즐기는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love",
+                "trans_dfn": "The attitude of liking or enjoying something very much."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "많이 좋아하고 아끼는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love",
+                "trans_dfn": "A person that one loves and cares about dearly.."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62743",
+        "word": "사랑하다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "상대에게 성적으로 매력을 느껴 열렬히 좋아하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love",
+                "trans_dfn": "To be sexually attracted to someone and like him/her very much."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "아끼고 소중히 여겨 정성을 다해 위하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; care",
+                "trans_dfn": "To cherish, value, and care for someone with all one's heart."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "남을 돕고 이해하려고 하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "care; help",
+                "trans_dfn": "To try to help and understand another person."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "무엇을 매우 좋아하거나 즐기다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "like; enjoy",
+                "trans_dfn": "To like or enjoy something very much."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61202",
+        "word": "사무실",
+        "origin": "事務室",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직장에서 주로 서류 등을 처리하며 자신이 맡은 일을 하는 방.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office; place of business; workplace",
+                "trans_dfn": "A room at work for working on a given task, usually doing paperwork, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71275",
+        "word": "사실",
+        "origin": "事實",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "실제로 있었던 일이나 현재 일어나고 있는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "fact",
+                "trans_dfn": "An incident that actually happened or is in progress."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "겉으로 드러나지 않은 일을 솔직하게 말할 때 쓰는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "truth is",
+                "trans_dfn": "An expression used to frankly tell someone something that is not seen nor known."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "자신의 말이 옳다고 강조할 때 쓰는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "actually",
+                "trans_dfn": "An expression used to stress that what one is saying is right."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71276",
+        "word": "사실",
+        "origin": "事實",
+        "pos": "부사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "실제에 있어서.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "actually; as a matter of fact; de facto",
+                "trans_dfn": "In reality."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58123",
+        "word": "사십",
+        "origin": "四十",
+        "pos": "수사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "십의 네 배가 되는 수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forty",
+                "trans_dfn": "The number that is the product of four times ten."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58128",
+        "word": "사십",
+        "origin": "四十",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "마흔의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forty",
+                "trans_dfn": "Being number forty."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "마흔 번째의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "fortieth",
+                "trans_dfn": "Constituting number forty in a series."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62048",
+        "word": "사업",
+        "origin": "事業",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "경제적 이익을 얻기 위해 어떤 조직을 경영하는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "business",
+                "trans_dfn": "The act of managing an organization for economic gain."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "돈이 아닌 다른 목적을 가지고 조직적으로 하는 사회 활동.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "project; activity",
+                "trans_dfn": "An organized social activity done with a purpose other than money."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61507",
+        "word": "사업하다",
+        "origin": "事業하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "경제적 이익을 얻기 위하여 어떤 조직을 경영하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "do business; operate",
+                "trans_dfn": "To manage a certain organization to gain an economic profit."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66372",
+        "word": "사용",
+        "origin": "使用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무엇을 필요한 일이나 기능에 맞게 씀.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use; usage",
+                "trans_dfn": "An act of using something for a certain job or function."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "사람을 어떤 일을 하는 데 부려 씀.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "hire",
+                "trans_dfn": "The act of hiring and using someone for doing something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66652",
+        "word": "사용되다",
+        "origin": "使用되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무엇이 필요한 일이나 기능에 맞게 쓰이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be used",
+                "trans_dfn": "For something to be used for a certain job or function."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "사람이 어떤 일을 하는 데 부려 쓰이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be hired; be employed",
+                "trans_dfn": "For someone to be hired and used to do a certain work."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61643",
+        "word": "사용하다",
+        "origin": "使用하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무엇을 필요한 일이나 기능에 맞게 쓰다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use",
+                "trans_dfn": "To use something for a certain job or function."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "사람을 어떤 일을 하는 데 부려 쓰다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "hire; employ",
+                "trans_dfn": "To use someone for doing something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "20228",
+        "word": "사월",
+        "origin": "四月",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "일 년 열두 달 가운데 넷째 달.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "April",
+                "trans_dfn": "The fourth month of a year, out of twelve months."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61187",
+        "word": "사이",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "한 물체에서 다른 물체까지 또는 한곳에서 다른 곳까지의 거리나 공간.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "space; distance; gap",
+                "trans_dfn": "The distance or space between one object and another, or between one place and another."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 때부터 다른 때까지의 동안.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "span; time",
+                "trans_dfn": "The period between one point in time and another."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 할 시간적인 틈이나 여유.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "time",
+                "trans_dfn": "Time or leisure to do something."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "서로 맺은 관계나 사귀어서 정이 든 정도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "relationship",
+                "trans_dfn": "A mutual relationship or the degree of emotional bond in a relationship."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61222",
+        "word": "사이다",
+        "origin": "cider",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "설탕물에 탄산을 섞어 만든 투명한 탄산음료.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "soda pop",
+                "trans_dfn": "A soft drink made by mixing soda with sweetened water."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61226",
+        "word": "사이즈",
+        "origin": "size",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "옷이나 신발 등의 크기나 치수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "size; measurement",
+                "trans_dfn": "A size or measurement of clothing, shoes, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61274",
+        "word": "사장",
+        "origin": "社長",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "회사를 대표하고 회사의 일을 책임지는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "president; chief executive",
+                "trans_dfn": "A person who represents a company and is responsible for corporate affairs."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "600517",
+        "word": "사장님",
+        "origin": "社長님",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(높이는 말로) 가게나 회사의 사장.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "president",
+                "trans_dfn": "(polite form) The president of a store or company."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61329",
+        "word": "사전",
+        "origin": "辭典",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "낱말을 모아 일정한 차례에 따라 싣고, 그 발음, 뜻, 어원, 용법 등을 설명한 책.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "dictionary",
+                "trans_dfn": "A book that lists a number of words in a certain order, and explains their pronunciation, meaning, origin, usage, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "28030",
+        "word": "사진",
+        "origin": "寫眞",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사물의 모습을 오래 보존할 수 있도록 사진기로 찍어 종이나 컴퓨터 등에 나타낸 영상.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "picture; photo",
+                "trans_dfn": "An image of a certain object recorded by a camera, and then produced in a print format, in a file on the computer, etc. to preserve it for a long period of time."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66655",
+        "word": "사진기",
+        "origin": "寫眞機",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사진을 찍는 기계.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "camera",
+                "trans_dfn": "A machine for taking photographs."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61297",
+        "word": "사진 기자",
+        "origin": "寫眞記者",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "신문사나 잡지사 등에서 보도 사진을 전문적으로 찍는 기자.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "photo journalist",
+                "trans_dfn": "A reporter working for a newspaper company or magazine company, who takes photos for the media."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "78109",
+        "word": "사진반",
+        "origin": "寫眞班",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "학교 등에서 사진 촬영을 취미로 하는 동아리나 단체.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "photography club",
+                "trans_dfn": "A club or group that takes photographs as a hobby or an extracurricular activity in a school, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61298",
+        "word": "사진작가",
+        "origin": "寫眞作家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사진 찍는 일을 전문적으로 하는 예술가.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "photographer",
+                "trans_dfn": "An artist who takes a photograph professionally."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "57306",
+        "word": "사탕",
+        "origin": "沙糖▽/砂糖▽",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "엿이나 설탕을 졸여서 입에 넣기 좋은 크기로 만든 딱딱하고 단 과자.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "candy",
+                "trans_dfn": "A bite-sized, hard and sweet confection made by boiling Korean liquid sweetener, yeot or sugar."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62144",
+        "word": "사흘",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "세 날.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "three days",
+                "trans_dfn": "Three days."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "매달 셋째 날.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "the third day",
+                "trans_dfn": "The third day of each month."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15654",
+        "word": "사건",
+        "origin": "事件",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "관심이나 주목을 끌 만한 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "incident; event; affair; accident; case",
+                "trans_dfn": "A matter that is worthy of interest or attention."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62015",
+        "word": "사고방식",
+        "origin": "思考方式",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 문제에 대하여 생각하는 방법이나 태도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "way of thinking; mindset",
+                "trans_dfn": "A way or an attitude, how one thinks about a certain matter."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62165",
+        "word": "사고팔다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건 등을 사기도 하고 팔기도 하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "buy and sell",
+                "trans_dfn": "To buy and sell products, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15830",
+        "word": "사과",
+        "origin": "謝過",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 잘못을 인정하며 용서해 달라고 빎.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "apology",
+                "trans_dfn": "An act of admitting one's own mistakes and begging for forgiveness."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62023",
+        "word": "사과나무",
+        "origin": "沙果나무",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사과가 열리는 나무.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "apple tree",
+                "trans_dfn": "A tree bearing apples."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62167",
+        "word": "사과드리다",
+        "origin": "謝過드리다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(높이는 말로) 사과하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "offer an apology",
+                "trans_dfn": "(polite form) To apologize."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62377",
+        "word": "사과하다",
+        "origin": "謝過하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 잘못을 인정하며 용서해 달라고 빌다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "apologize",
+                "trans_dfn": "To admit one's own mistakes and beg for forgiveness."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62038",
+        "word": "사교적",
+        "origin": "社交的",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "여러 사람과 잘 사귀고 쉽게 어울리는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being sociable; being outgoing",
+                "trans_dfn": "A knack for easily associating with and mixing with many people."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62037",
+        "word": "사교적",
+        "origin": "社交的",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "여러 사람과 잘 사귀고 쉽게 어울리는.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sociable; outgoing",
+                "trans_dfn": "Easily associating with and mixing with many people."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62046",
+        "word": "사기",
+        "origin": "詐欺",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 이익을 위해 남을 속임.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "swindling; fraud; deception; cheating",
+                "trans_dfn": "An act of deceiving others in the pursuit of one's own interest."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15834",
+        "word": "사나이",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "혈기 왕성한 모습을 가진 남자.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "man",
+                "trans_dfn": "A man with a vigorous appearance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62156",
+        "word": "사내",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "혈기 왕성한 모습을 가진 남자.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "man",
+                "trans_dfn": "A man with a vigorous appearance."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "남자나 남편.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "man",
+                "trans_dfn": "A man or one's husband."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62157",
+        "word": "사내",
+        "origin": "社內",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "회사의 안.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office; being at an office; being corporate; being in-house; being at work",
+                "trans_dfn": "A state of being within a company."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "600520",
+        "word": "사내 연애",
+        "origin": "社內戀愛",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "같은 회사의 직원들끼리 하는 연애.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office romance",
+                "trans_dfn": "Romance between employees of the same company."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "600521",
+        "word": "사내 커플",
+        "origin": "社內couple",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "회사에서 만나 연인 관계가 된 두 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "in-house couple",
+                "trans_dfn": "Two people who met at work and became lovers."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15658",
+        "word": "사냥",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람이 산이나 들에 나가 총이나 활 등으로 짐승을 잡는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "hunting",
+                "trans_dfn": "The act of a person going to a mountain or field and catching an animal using a gun, arrow, etc."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "힘이 센 짐승이 약한 짐승을 먹잇감으로 잡는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "preying on",
+                "trans_dfn": "The act of a strong animal catching a weaker animal to eat."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62172",
+        "word": "사냥하다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람이 산이나 들에 나가 총이나 활 등으로 짐승을 잡다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "hunt",
+                "trans_dfn": "For a person to go to a mountain or field and catch an animal using a gun, arrow, etc."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "힘이 센 짐승이 약한 짐승을 먹잇감으로 잡다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "prey on",
+                "trans_dfn": "For a strong animal to catch a weaker animal to eat."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62145",
+        "word": "사다리",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "높은 곳이나 낮은 곳에 오르내릴 때 발을 디딜 수 있도록 만든 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ladder",
+                "trans_dfn": "An apparatus designed to place one's foot on when one climbs up and down."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61555",
+        "word": "사다리차",
+        "origin": "사다리車",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사다리를 갖추고 있는 차.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ladder truck; hook-and-ladder truck",
+                "trans_dfn": "A vehicle complete with a ladder."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61664",
+        "word": "사동",
+        "origin": "使動",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "문장의 주체가 남에게 어떤 일이나 행동을 하도록 시키는 동사의 성질.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "causation",
+                "trans_dfn": "An attribute of a verb in which its agent causes another entity to perform a certain action."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61663",
+        "word": "사동법",
+        "origin": "使動法",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남에게 어떤 일이나 행동을 하도록 시키는 문장을 만드는 표현 방법.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "causative",
+                "trans_dfn": "A way of making a sentence in which its subject causes another entity to perform a certain action."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15840",
+        "word": "사들이다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건 등을 많이 사서 자기 것으로 만들다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "buy up; lay in",
+                "trans_dfn": "To buy something in a large number and make it one's own."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66643",
+        "word": "사라지다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 현상이나 물체의 자취 등이 없어지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "disappear; vanish; go out of sight",
+                "trans_dfn": "For a certain phenomenon, the trace of something, etc., to be gone."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "생각이나 감정 등이 없어지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "disappear; evaporate",
+                "trans_dfn": "For a thought, feeling ,etc., to go away."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "생명이 끊어지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "die",
+                "trans_dfn": "For the life of someone to cease."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61686",
+        "word": "사랑니",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어금니가 다 난 뒤에 어른이 되어 맨 안쪽 끝에 새로 나는 어금니.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "wisdom tooth",
+                "trans_dfn": "A molar newly appearing at the far end of the mouth later in life."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15851",
+        "word": "사랑스럽다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사랑을 느낄 만큼 귀엽다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "lovely; adorable",
+                "trans_dfn": "So cute as to evoke a feeling of affection."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15860",
+        "word": "사례",
+        "origin": "事例",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "이전에 실제로 일어난 예.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "example; case; precedent",
+                "trans_dfn": "An instance of previous occurrence."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61902",
+        "word": "사로잡다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람이나 짐승 등을 산 채로 잡다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "capture; catch alive",
+                "trans_dfn": "To catch a person or animal, etc., alive."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "생각이나 마음을 온통 한곳으로 쏠리게 하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "captivate; enthrall; obsess",
+                "trans_dfn": "To make one's mind or thought occupied by one thing."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61915",
+        "word": "사리",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "국수나 새끼, 실 등을 동그랗게 포개어 감은 뭉치.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "roll; ball; bundle",
+                "trans_dfn": "A bundle of noodle, straw, or thread, etc., whose strands are overlapped and coiled up."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "국수나 새끼, 실 등의 뭉치를 세는 단위.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "roll; ball; bundle",
+                "trans_dfn": "The unit for counting the number of bundles of noodles, straw, thread, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15659",
+        "word": "사립",
+        "origin": "私立",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "개인이 자신의 자금으로 공공의 이익을 위한 사업 기관을 설립하여 유지함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being private",
+                "trans_dfn": "A state in which an individual establishes and manages an institution for the public benefit with his/her private fund."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61922",
+        "word": "사립 대학",
+        "origin": "私立大學",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "개인이나 민간 단체가 세우고 운영하는 대학.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "private college",
+                "trans_dfn": "A college established and operated by an individual or private organization."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61938",
+        "word": "사막",
+        "origin": "沙漠/砂漠",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "비가 아주 적게 내려서 동식물이 거의 살지 않고 모래로 뒤덮인 땅.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "desert",
+                "trans_dfn": "A land covered with sand, where animals and plants can rarely live due to an extremely small amount of rainfall."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15863",
+        "word": "사망",
+        "origin": "死亡",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람이 죽음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "death; passing away; being killed",
+                "trans_dfn": "A state in which a person dies."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "600523",
+        "word": "사망률",
+        "origin": "死亡率",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "전체 인구에 대한 일정 기간 동안의 죽은 사람의 비율.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "death rate",
+                "trans_dfn": "The ratio of dead people over a period of time to the total population."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61940",
+        "word": "사망자",
+        "origin": "死亡者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "죽은 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "the dead; casualty; victim",
+                "trans_dfn": "A person who is dead or was killed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15867",
+        "word": "사망하다",
+        "origin": "死亡하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람이 죽다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pass away; be killed",
+                "trans_dfn": "For a person to die."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61196",
+        "word": "사무",
+        "origin": "事務",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직장에서 주로 책상에 앉아 서류 등을 처리하는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office work; clerical work; desk job",
+                "trans_dfn": "A job that consists of primarily doing paperwork, etc., usually sitting at a desk."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61197",
+        "word": "사무기기",
+        "origin": "事務機器",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "컴퓨터, 복사기, 팩스 등과 같이 일을 더욱 편리하고 빠르게 하기 위해 사무실에서 사용하는 기계.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office machine; office equipment",
+                "trans_dfn": "A variety of machines, such as a computer, copier, fax, etc, used at office for a more convenient and prompt processing of work."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15872",
+        "word": "사무소",
+        "origin": "事務所",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "공공 단체, 회사, 개인 등이 일이나 업무를 보는 곳.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office",
+                "trans_dfn": "A place where public organizations, companies, individuals, etc. do their business."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61203",
+        "word": "사무용",
+        "origin": "事務用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직장에서 서류를 처리하는 등의 일을 하는 데에 쓰는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being for office use",
+                "trans_dfn": "A variety of items used for conducting business activities including paperwork at work."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61204",
+        "word": "사무원",
+        "origin": "事務員",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직장 안에서 서류를 처리하는 일을 주로 맡아보는 직원.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office worker; office clerk",
+                "trans_dfn": "An employee who is mainly responsible for doing paperwork at work."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15660",
+        "word": "사무직",
+        "origin": "事務職",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "주로 책상에서 문서 등을 다루는 일을 하는 직무. 또는 그 일을 하는 직원.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office job; being white-collar",
+                "trans_dfn": "A job that mainly involves handling documents, etc. at a desk; or an employee who does that job."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61227",
+        "word": "사무직원",
+        "origin": "事務職員",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직장 안에서 서류를 처리하는 일을 주로 맡아보는 직원.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "clerk; clerical worker",
+                "trans_dfn": "An employee who is mainly responsible for doing paperwork within the workplace."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71092",
+        "word": "사물",
+        "origin": "事物",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직접 보거나 만질 수 있게 일정한 모양과 성질을 갖추고 있는, 세상의 온갖 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "object; thing",
+                "trans_dfn": "All kinds of things with a certain shape and property so as to allow one to see or touch."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15661",
+        "word": "사방",
+        "origin": "四方",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "동, 서, 남, 북의 네 가지 방향.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four directions",
+                "trans_dfn": "The four directions such as north, south, east, and west."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "둘레의 모든 곳.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "all sides",
+                "trans_dfn": "All the places around."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15662",
+        "word": "사상",
+        "origin": "史上",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "역사가 기록되어 온 이래.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being in history",
+                "trans_dfn": "A period since history began being recorded."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15875",
+        "word": "사생활",
+        "origin": "私生活",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "개인의 사적인 일상생활.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "privacy; private life",
+                "trans_dfn": "A person's personal, everyday life."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15663",
+        "word": "사설",
+        "origin": "社說",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "신문이나 잡지에서 글쓴이의 주장 또는 의견을 써 놓은 글.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "editorial; column",
+                "trans_dfn": "A piece of writing that contains the author's argument or opinion, published in a newspaper or magazine,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15881",
+        "word": "사소하다",
+        "origin": "些少하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "중요하지 않은 정도로 아주 작거나 적다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "trifling; trivial",
+                "trans_dfn": "Too small or little to be considered significant."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61382",
+        "word": "사실적",
+        "origin": "寫實的",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "실제 있는 그대로를 보여 주는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being realistic; being true to life",
+                "trans_dfn": "An act of showing something exactly as it is."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "include": {
+    "total_reported_sum": 1518,
+    "unique_count": 100,
+    "matched_count": 8,
+    "matched_entries": [
+      {
+        "target_code": "58114",
+        "word": "사",
+        "origin": "四",
+        "pos": "수사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "삼에 일을 더한 수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four",
+                "trans_dfn": "The number that is the sum of three and one."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58116",
+        "word": "사",
+        "origin": "四",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "넷의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four",
+                "trans_dfn": "Being number four."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "네 번째의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "fourth",
+                "trans_dfn": "Constituting number four in a series."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "88600",
+        "word": "사거리",
+        "origin": "四거리",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "길이 한 곳에서 네 방향으로 갈라진 곳.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "crossroads; intersection; street corner",
+                "trans_dfn": "A place where four roads meet."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "92647",
+        "word": "사계절",
+        "origin": "四季節",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "봄, 여름, 가을, 겨울의 네 계절.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four seasons",
+                "trans_dfn": "Four seasons that are spring, summer, fall, and winter."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58123",
+        "word": "사십",
+        "origin": "四十",
+        "pos": "수사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "십의 네 배가 되는 수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forty",
+                "trans_dfn": "The number that is the product of four times ten."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58128",
+        "word": "사십",
+        "origin": "四十",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "마흔의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forty",
+                "trans_dfn": "Being number forty."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "마흔 번째의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "fortieth",
+                "trans_dfn": "Constituting number forty in a series."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "20228",
+        "word": "사월",
+        "origin": "四月",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "일 년 열두 달 가운데 넷째 달.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "April",
+                "trans_dfn": "The fourth month of a year, out of twelve months."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15661",
+        "word": "사방",
+        "origin": "四方",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "동, 서, 남, 북의 네 가지 방향.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four directions",
+                "trans_dfn": "The four directions such as north, south, east, and west."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "둘레의 모든 곳.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "all sides",
+                "trans_dfn": "All the places around."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "all_unique_entries": [
+      {
+        "target_code": "58114",
+        "word": "사",
+        "origin": "四",
+        "pos": "수사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "삼에 일을 더한 수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four",
+                "trans_dfn": "The number that is the sum of three and one."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58116",
+        "word": "사",
+        "origin": "四",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "넷의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four",
+                "trans_dfn": "Being number four."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "네 번째의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "fourth",
+                "trans_dfn": "Constituting number four in a series."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61116",
+        "word": "사",
+        "origin": "死",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "죽는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "death",
+                "trans_dfn": "The act of dying."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61118",
+        "word": "사",
+        "origin": "私",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "개인적인 일이나 감정 등에 관련된 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being private; private matter",
+                "trans_dfn": "Something related to personal affairs or feelings."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "78625",
+        "word": "사-",
+        "origin": "",
+        "pos": "품사 없음",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(사고, 사는데, 사, 사서, 사니, 사면, 산, 사는, 살, 삽니다, 샀다, 사라)→ 사다",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "78626",
+        "word": "사-",
+        "origin": "",
+        "pos": "품사 없음",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(사는데, 사니, 산, 사는, 살, 삽니다)→ 살다",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "70681",
+        "word": "-사",
+        "origin": "士",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘직업’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean an occupation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70683",
+        "word": "-사",
+        "origin": "寺",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘절’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean a temple."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70684",
+        "word": "-사",
+        "origin": "事",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘일’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean a matter."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70685",
+        "word": "-사",
+        "origin": "社",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘회사’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean a company."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70686",
+        "word": "-사",
+        "origin": "師",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "'그것을 직업으로 하는 사람'의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean a person who does something as a job."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70682",
+        "word": "-사",
+        "origin": "史",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘역사’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean history."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70687",
+        "word": "-사",
+        "origin": "詞",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘품사’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean a part of speech."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "70688",
+        "word": "-사",
+        "origin": "辭",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘말’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-sa",
+                "trans_dfn": "A suffix used to mean a speech."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61295",
+        "word": "사진사",
+        "origin": "寫眞師",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사진을 찍는 일을 직업으로 하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "photographer",
+                "trans_dfn": "A person who takes photos as a job."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61586",
+        "word": "사회봉사",
+        "origin": "社會奉仕",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사회의 이익이나 복지를 위해 노동력을 제공하거나 돈과 물건 등을 내놓는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "community service",
+                "trans_dfn": "An act of providing labor, money, goods, etc. for the interests or welfare of the society."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "600635",
+        "word": "사육사",
+        "origin": "飼育士",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "동물원에서 동물을 돌보는 일을 직업으로 하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "zookeeper",
+                "trans_dfn": "A person whose job is to take care of animals at a zoo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "600128",
+        "word": "사전 답사",
+        "origin": "事前踏査",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "실제 현장에 가서 직접 보고 조사하는 일을 하기 전에, 미리 상황을 자세히 따져 보기 위해 그 현장에 다녀오는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "",
+                "trans_dfn": "Going to a site to examine the situation in detail before going to the actual site to see and investigate in person."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "49419",
+        "word": "사다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "돈을 주고 어떤 물건이나 권리 등을 자기 것으로 만들다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "buy; purchase; get",
+                "trans_dfn": "To get ownership of an item, right, etc., by paying for it."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "다른 사람이나 어떤 일의 가치를 인정하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "appreciate; admire; value",
+                "trans_dfn": "To recognize the value of a person or work."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "돈을 주고 다른 사람의 힘을 빌리다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "hire; retain",
+                "trans_dfn": "To pay someone to get help from him/her."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "다른 사람에게 어떤 감정을 가지게 하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "cause; stir",
+                "trans_dfn": "To cause someone to develop certain feelings."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "다른 사람과 함께 먹은 음식의 값을 치르다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "buy; treat",
+                "trans_dfn": "To pay for someone's food after you both ate together."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "88600",
+        "word": "사거리",
+        "origin": "四거리",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "길이 한 곳에서 네 방향으로 갈라진 곳.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "crossroads; intersection; street corner",
+                "trans_dfn": "A place where four roads meet."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "92647",
+        "word": "사계절",
+        "origin": "四季節",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "봄, 여름, 가을, 겨울의 네 계절.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four seasons",
+                "trans_dfn": "Four seasons that are spring, summer, fall, and winter."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66370",
+        "word": "사고",
+        "origin": "事故",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "예상하지 못하게 일어난 좋지 않은 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "accident",
+                "trans_dfn": "An unfortunate affair that happens unexpectedly."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "다른 사람에게 피해를 주거나 문제를 일으키는 나쁜 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "trouble",
+                "trans_dfn": "A bad thing that does harm to others or causes a problem"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66371",
+        "word": "사과",
+        "origin": "沙果/砂果",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "모양이 둥글고 붉으며 새콤하고 단맛이 나는 과일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "apple",
+                "trans_dfn": "A round-shaped sweet and sour fruit with red skin."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15656",
+        "word": "사귀다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "서로 알게 되어 친하게 지내다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "get along with; go around with; go out with",
+                "trans_dfn": "To come to know and keep each other's company."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58161",
+        "word": "사람",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "생각할 수 있으며 언어와 도구를 만들어 사용하고 사회를 이루어 사는 존재.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "human; man",
+                "trans_dfn": "A being that is capable of thinking, makes and uses languages and tools and lives by forming a society with others."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 지역이나 집안, 조직에 속한 자.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "person; native",
+                "trans_dfn": "A person who belongs to a region, family, organization, etc."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "일정한 자격이나 인격을 갖춘 존재.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "talent; reponsible member",
+                "trans_dfn": "A being that has certain qualifications or character."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "성질이나 인격.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "personality",
+                "trans_dfn": "The personality or character of a person."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "친근한 상대편을 가리키거나 부를 때 사용하는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "dude",
+                "trans_dfn": "The word that is used to refer to or call a person that one feels close to."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "특별히 정해지지 않은 자기 외의 남을 가리키는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "other; other person",
+                "trans_dfn": "The word that refers to an unspecified person other than oneself."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "뛰어난 인물.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "prominent figure",
+                "trans_dfn": "An extraordinary person."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "일을 할 일꾼이나 그 수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "people",
+                "trans_dfn": "A worker or a person hired to work on a project or assignment."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "사람의 수를 세는 단위.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "person",
+                "trans_dfn": "The unit of counting the number of people."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66649",
+        "word": "사랑",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "상대에게 성적으로 매력을 느껴 열렬히 좋아하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love",
+                "trans_dfn": "The state of being sexually attracted to and having strong affection for a person."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "아끼고 소중히 여겨 정성을 다해 위하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love",
+                "trans_dfn": "The attitude of sincerely caring about someone out of affection."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "남을 돕고 이해하려는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "care",
+                "trans_dfn": "The attitude of trying to help and understand others."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "무엇을 매우 좋아하거나 즐기는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love",
+                "trans_dfn": "The attitude of liking or enjoying something very much."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "많이 좋아하고 아끼는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love",
+                "trans_dfn": "A person that one loves and cares about dearly.."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62743",
+        "word": "사랑하다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "상대에게 성적으로 매력을 느껴 열렬히 좋아하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love",
+                "trans_dfn": "To be sexually attracted to someone and like him/her very much."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "아끼고 소중히 여겨 정성을 다해 위하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; care",
+                "trans_dfn": "To cherish, value, and care for someone with all one's heart."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "남을 돕고 이해하려고 하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "care; help",
+                "trans_dfn": "To try to help and understand another person."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "무엇을 매우 좋아하거나 즐기다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "like; enjoy",
+                "trans_dfn": "To like or enjoy something very much."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61202",
+        "word": "사무실",
+        "origin": "事務室",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직장에서 주로 서류 등을 처리하며 자신이 맡은 일을 하는 방.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office; place of business; workplace",
+                "trans_dfn": "A room at work for working on a given task, usually doing paperwork, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71275",
+        "word": "사실",
+        "origin": "事實",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "실제로 있었던 일이나 현재 일어나고 있는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "fact",
+                "trans_dfn": "An incident that actually happened or is in progress."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "겉으로 드러나지 않은 일을 솔직하게 말할 때 쓰는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "truth is",
+                "trans_dfn": "An expression used to frankly tell someone something that is not seen nor known."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "자신의 말이 옳다고 강조할 때 쓰는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "actually",
+                "trans_dfn": "An expression used to stress that what one is saying is right."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71276",
+        "word": "사실",
+        "origin": "事實",
+        "pos": "부사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "실제에 있어서.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "actually; as a matter of fact; de facto",
+                "trans_dfn": "In reality."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58123",
+        "word": "사십",
+        "origin": "四十",
+        "pos": "수사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "십의 네 배가 되는 수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forty",
+                "trans_dfn": "The number that is the product of four times ten."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "58128",
+        "word": "사십",
+        "origin": "四十",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "마흔의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "forty",
+                "trans_dfn": "Being number forty."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "마흔 번째의.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "fortieth",
+                "trans_dfn": "Constituting number forty in a series."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62048",
+        "word": "사업",
+        "origin": "事業",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "경제적 이익을 얻기 위해 어떤 조직을 경영하는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "business",
+                "trans_dfn": "The act of managing an organization for economic gain."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "돈이 아닌 다른 목적을 가지고 조직적으로 하는 사회 활동.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "project; activity",
+                "trans_dfn": "An organized social activity done with a purpose other than money."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61507",
+        "word": "사업하다",
+        "origin": "事業하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "경제적 이익을 얻기 위하여 어떤 조직을 경영하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "do business; operate",
+                "trans_dfn": "To manage a certain organization to gain an economic profit."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66372",
+        "word": "사용",
+        "origin": "使用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무엇을 필요한 일이나 기능에 맞게 씀.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use; usage",
+                "trans_dfn": "An act of using something for a certain job or function."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "사람을 어떤 일을 하는 데 부려 씀.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "hire",
+                "trans_dfn": "The act of hiring and using someone for doing something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66652",
+        "word": "사용되다",
+        "origin": "使用되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무엇이 필요한 일이나 기능에 맞게 쓰이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be used",
+                "trans_dfn": "For something to be used for a certain job or function."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "사람이 어떤 일을 하는 데 부려 쓰이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be hired; be employed",
+                "trans_dfn": "For someone to be hired and used to do a certain work."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61643",
+        "word": "사용하다",
+        "origin": "使用하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무엇을 필요한 일이나 기능에 맞게 쓰다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use",
+                "trans_dfn": "To use something for a certain job or function."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "사람을 어떤 일을 하는 데 부려 쓰다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "hire; employ",
+                "trans_dfn": "To use someone for doing something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "20228",
+        "word": "사월",
+        "origin": "四月",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "일 년 열두 달 가운데 넷째 달.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "April",
+                "trans_dfn": "The fourth month of a year, out of twelve months."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61187",
+        "word": "사이",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "한 물체에서 다른 물체까지 또는 한곳에서 다른 곳까지의 거리나 공간.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "space; distance; gap",
+                "trans_dfn": "The distance or space between one object and another, or between one place and another."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 때부터 다른 때까지의 동안.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "span; time",
+                "trans_dfn": "The period between one point in time and another."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 할 시간적인 틈이나 여유.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "time",
+                "trans_dfn": "Time or leisure to do something."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "서로 맺은 관계나 사귀어서 정이 든 정도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "relationship",
+                "trans_dfn": "A mutual relationship or the degree of emotional bond in a relationship."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61222",
+        "word": "사이다",
+        "origin": "cider",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "설탕물에 탄산을 섞어 만든 투명한 탄산음료.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "soda pop",
+                "trans_dfn": "A soft drink made by mixing soda with sweetened water."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61226",
+        "word": "사이즈",
+        "origin": "size",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "옷이나 신발 등의 크기나 치수.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "size; measurement",
+                "trans_dfn": "A size or measurement of clothing, shoes, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61274",
+        "word": "사장",
+        "origin": "社長",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "회사를 대표하고 회사의 일을 책임지는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "president; chief executive",
+                "trans_dfn": "A person who represents a company and is responsible for corporate affairs."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "600517",
+        "word": "사장님",
+        "origin": "社長님",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(높이는 말로) 가게나 회사의 사장.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "president",
+                "trans_dfn": "(polite form) The president of a store or company."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61329",
+        "word": "사전",
+        "origin": "辭典",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "낱말을 모아 일정한 차례에 따라 싣고, 그 발음, 뜻, 어원, 용법 등을 설명한 책.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "dictionary",
+                "trans_dfn": "A book that lists a number of words in a certain order, and explains their pronunciation, meaning, origin, usage, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "28030",
+        "word": "사진",
+        "origin": "寫眞",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사물의 모습을 오래 보존할 수 있도록 사진기로 찍어 종이나 컴퓨터 등에 나타낸 영상.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "picture; photo",
+                "trans_dfn": "An image of a certain object recorded by a camera, and then produced in a print format, in a file on the computer, etc. to preserve it for a long period of time."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66655",
+        "word": "사진기",
+        "origin": "寫眞機",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사진을 찍는 기계.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "camera",
+                "trans_dfn": "A machine for taking photographs."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61297",
+        "word": "사진 기자",
+        "origin": "寫眞記者",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "신문사나 잡지사 등에서 보도 사진을 전문적으로 찍는 기자.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "photo journalist",
+                "trans_dfn": "A reporter working for a newspaper company or magazine company, who takes photos for the media."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "78109",
+        "word": "사진반",
+        "origin": "寫眞班",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "학교 등에서 사진 촬영을 취미로 하는 동아리나 단체.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "photography club",
+                "trans_dfn": "A club or group that takes photographs as a hobby or an extracurricular activity in a school, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61298",
+        "word": "사진작가",
+        "origin": "寫眞作家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사진 찍는 일을 전문적으로 하는 예술가.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "photographer",
+                "trans_dfn": "An artist who takes a photograph professionally."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "57306",
+        "word": "사탕",
+        "origin": "沙糖▽/砂糖▽",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "엿이나 설탕을 졸여서 입에 넣기 좋은 크기로 만든 딱딱하고 단 과자.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "candy",
+                "trans_dfn": "A bite-sized, hard and sweet confection made by boiling Korean liquid sweetener, yeot or sugar."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62144",
+        "word": "사흘",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "세 날.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "three days",
+                "trans_dfn": "Three days."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "매달 셋째 날.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "the third day",
+                "trans_dfn": "The third day of each month."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15654",
+        "word": "사건",
+        "origin": "事件",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "관심이나 주목을 끌 만한 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "incident; event; affair; accident; case",
+                "trans_dfn": "A matter that is worthy of interest or attention."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62015",
+        "word": "사고방식",
+        "origin": "思考方式",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 문제에 대하여 생각하는 방법이나 태도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "way of thinking; mindset",
+                "trans_dfn": "A way or an attitude, how one thinks about a certain matter."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62165",
+        "word": "사고팔다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건 등을 사기도 하고 팔기도 하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "buy and sell",
+                "trans_dfn": "To buy and sell products, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15830",
+        "word": "사과",
+        "origin": "謝過",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 잘못을 인정하며 용서해 달라고 빎.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "apology",
+                "trans_dfn": "An act of admitting one's own mistakes and begging for forgiveness."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62023",
+        "word": "사과나무",
+        "origin": "沙果나무",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사과가 열리는 나무.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "apple tree",
+                "trans_dfn": "A tree bearing apples."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62167",
+        "word": "사과드리다",
+        "origin": "謝過드리다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(높이는 말로) 사과하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "offer an apology",
+                "trans_dfn": "(polite form) To apologize."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62377",
+        "word": "사과하다",
+        "origin": "謝過하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 잘못을 인정하며 용서해 달라고 빌다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "apologize",
+                "trans_dfn": "To admit one's own mistakes and beg for forgiveness."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62038",
+        "word": "사교적",
+        "origin": "社交的",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "여러 사람과 잘 사귀고 쉽게 어울리는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being sociable; being outgoing",
+                "trans_dfn": "A knack for easily associating with and mixing with many people."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62037",
+        "word": "사교적",
+        "origin": "社交的",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "여러 사람과 잘 사귀고 쉽게 어울리는.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sociable; outgoing",
+                "trans_dfn": "Easily associating with and mixing with many people."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62046",
+        "word": "사기",
+        "origin": "詐欺",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 이익을 위해 남을 속임.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "swindling; fraud; deception; cheating",
+                "trans_dfn": "An act of deceiving others in the pursuit of one's own interest."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15834",
+        "word": "사나이",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "혈기 왕성한 모습을 가진 남자.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "man",
+                "trans_dfn": "A man with a vigorous appearance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62156",
+        "word": "사내",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "혈기 왕성한 모습을 가진 남자.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "man",
+                "trans_dfn": "A man with a vigorous appearance."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "남자나 남편.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "man",
+                "trans_dfn": "A man or one's husband."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62157",
+        "word": "사내",
+        "origin": "社內",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "회사의 안.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office; being at an office; being corporate; being in-house; being at work",
+                "trans_dfn": "A state of being within a company."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "600520",
+        "word": "사내 연애",
+        "origin": "社內戀愛",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "같은 회사의 직원들끼리 하는 연애.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office romance",
+                "trans_dfn": "Romance between employees of the same company."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "600521",
+        "word": "사내 커플",
+        "origin": "社內couple",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "회사에서 만나 연인 관계가 된 두 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "in-house couple",
+                "trans_dfn": "Two people who met at work and became lovers."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15658",
+        "word": "사냥",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람이 산이나 들에 나가 총이나 활 등으로 짐승을 잡는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "hunting",
+                "trans_dfn": "The act of a person going to a mountain or field and catching an animal using a gun, arrow, etc."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "힘이 센 짐승이 약한 짐승을 먹잇감으로 잡는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "preying on",
+                "trans_dfn": "The act of a strong animal catching a weaker animal to eat."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62172",
+        "word": "사냥하다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람이 산이나 들에 나가 총이나 활 등으로 짐승을 잡다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "hunt",
+                "trans_dfn": "For a person to go to a mountain or field and catch an animal using a gun, arrow, etc."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "힘이 센 짐승이 약한 짐승을 먹잇감으로 잡다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "prey on",
+                "trans_dfn": "For a strong animal to catch a weaker animal to eat."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "62145",
+        "word": "사다리",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "높은 곳이나 낮은 곳에 오르내릴 때 발을 디딜 수 있도록 만든 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ladder",
+                "trans_dfn": "An apparatus designed to place one's foot on when one climbs up and down."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61555",
+        "word": "사다리차",
+        "origin": "사다리車",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사다리를 갖추고 있는 차.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ladder truck; hook-and-ladder truck",
+                "trans_dfn": "A vehicle complete with a ladder."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61664",
+        "word": "사동",
+        "origin": "使動",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "문장의 주체가 남에게 어떤 일이나 행동을 하도록 시키는 동사의 성질.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "causation",
+                "trans_dfn": "An attribute of a verb in which its agent causes another entity to perform a certain action."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61663",
+        "word": "사동법",
+        "origin": "使動法",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남에게 어떤 일이나 행동을 하도록 시키는 문장을 만드는 표현 방법.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "causative",
+                "trans_dfn": "A way of making a sentence in which its subject causes another entity to perform a certain action."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15840",
+        "word": "사들이다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건 등을 많이 사서 자기 것으로 만들다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "buy up; lay in",
+                "trans_dfn": "To buy something in a large number and make it one's own."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66643",
+        "word": "사라지다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 현상이나 물체의 자취 등이 없어지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "disappear; vanish; go out of sight",
+                "trans_dfn": "For a certain phenomenon, the trace of something, etc., to be gone."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "생각이나 감정 등이 없어지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "disappear; evaporate",
+                "trans_dfn": "For a thought, feeling ,etc., to go away."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "생명이 끊어지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "die",
+                "trans_dfn": "For the life of someone to cease."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61686",
+        "word": "사랑니",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어금니가 다 난 뒤에 어른이 되어 맨 안쪽 끝에 새로 나는 어금니.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "wisdom tooth",
+                "trans_dfn": "A molar newly appearing at the far end of the mouth later in life."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15851",
+        "word": "사랑스럽다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사랑을 느낄 만큼 귀엽다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "lovely; adorable",
+                "trans_dfn": "So cute as to evoke a feeling of affection."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15860",
+        "word": "사례",
+        "origin": "事例",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "이전에 실제로 일어난 예.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "example; case; precedent",
+                "trans_dfn": "An instance of previous occurrence."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61902",
+        "word": "사로잡다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람이나 짐승 등을 산 채로 잡다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "capture; catch alive",
+                "trans_dfn": "To catch a person or animal, etc., alive."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "생각이나 마음을 온통 한곳으로 쏠리게 하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "captivate; enthrall; obsess",
+                "trans_dfn": "To make one's mind or thought occupied by one thing."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61915",
+        "word": "사리",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "국수나 새끼, 실 등을 동그랗게 포개어 감은 뭉치.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "roll; ball; bundle",
+                "trans_dfn": "A bundle of noodle, straw, or thread, etc., whose strands are overlapped and coiled up."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "국수나 새끼, 실 등의 뭉치를 세는 단위.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "roll; ball; bundle",
+                "trans_dfn": "The unit for counting the number of bundles of noodles, straw, thread, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15659",
+        "word": "사립",
+        "origin": "私立",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "개인이 자신의 자금으로 공공의 이익을 위한 사업 기관을 설립하여 유지함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being private",
+                "trans_dfn": "A state in which an individual establishes and manages an institution for the public benefit with his/her private fund."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61922",
+        "word": "사립 대학",
+        "origin": "私立大學",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "개인이나 민간 단체가 세우고 운영하는 대학.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "private college",
+                "trans_dfn": "A college established and operated by an individual or private organization."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61938",
+        "word": "사막",
+        "origin": "沙漠/砂漠",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "비가 아주 적게 내려서 동식물이 거의 살지 않고 모래로 뒤덮인 땅.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "desert",
+                "trans_dfn": "A land covered with sand, where animals and plants can rarely live due to an extremely small amount of rainfall."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15863",
+        "word": "사망",
+        "origin": "死亡",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람이 죽음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "death; passing away; being killed",
+                "trans_dfn": "A state in which a person dies."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "600523",
+        "word": "사망률",
+        "origin": "死亡率",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "전체 인구에 대한 일정 기간 동안의 죽은 사람의 비율.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "death rate",
+                "trans_dfn": "The ratio of dead people over a period of time to the total population."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61940",
+        "word": "사망자",
+        "origin": "死亡者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "죽은 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "the dead; casualty; victim",
+                "trans_dfn": "A person who is dead or was killed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15867",
+        "word": "사망하다",
+        "origin": "死亡하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람이 죽다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pass away; be killed",
+                "trans_dfn": "For a person to die."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61196",
+        "word": "사무",
+        "origin": "事務",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직장에서 주로 책상에 앉아 서류 등을 처리하는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office work; clerical work; desk job",
+                "trans_dfn": "A job that consists of primarily doing paperwork, etc., usually sitting at a desk."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61197",
+        "word": "사무기기",
+        "origin": "事務機器",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "컴퓨터, 복사기, 팩스 등과 같이 일을 더욱 편리하고 빠르게 하기 위해 사무실에서 사용하는 기계.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office machine; office equipment",
+                "trans_dfn": "A variety of machines, such as a computer, copier, fax, etc, used at office for a more convenient and prompt processing of work."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15872",
+        "word": "사무소",
+        "origin": "事務所",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "공공 단체, 회사, 개인 등이 일이나 업무를 보는 곳.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office",
+                "trans_dfn": "A place where public organizations, companies, individuals, etc. do their business."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61203",
+        "word": "사무용",
+        "origin": "事務用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직장에서 서류를 처리하는 등의 일을 하는 데에 쓰는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being for office use",
+                "trans_dfn": "A variety of items used for conducting business activities including paperwork at work."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61204",
+        "word": "사무원",
+        "origin": "事務員",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직장 안에서 서류를 처리하는 일을 주로 맡아보는 직원.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office worker; office clerk",
+                "trans_dfn": "An employee who is mainly responsible for doing paperwork at work."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15660",
+        "word": "사무직",
+        "origin": "事務職",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "주로 책상에서 문서 등을 다루는 일을 하는 직무. 또는 그 일을 하는 직원.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "office job; being white-collar",
+                "trans_dfn": "A job that mainly involves handling documents, etc. at a desk; or an employee who does that job."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61227",
+        "word": "사무직원",
+        "origin": "事務職員",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직장 안에서 서류를 처리하는 일을 주로 맡아보는 직원.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "clerk; clerical worker",
+                "trans_dfn": "An employee who is mainly responsible for doing paperwork within the workplace."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "71092",
+        "word": "사물",
+        "origin": "事物",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "직접 보거나 만질 수 있게 일정한 모양과 성질을 갖추고 있는, 세상의 온갖 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "object; thing",
+                "trans_dfn": "All kinds of things with a certain shape and property so as to allow one to see or touch."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15661",
+        "word": "사방",
+        "origin": "四方",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "동, 서, 남, 북의 네 가지 방향.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "four directions",
+                "trans_dfn": "The four directions such as north, south, east, and west."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "둘레의 모든 곳.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "all sides",
+                "trans_dfn": "All the places around."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15662",
+        "word": "사상",
+        "origin": "史上",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "역사가 기록되어 온 이래.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being in history",
+                "trans_dfn": "A period since history began being recorded."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15875",
+        "word": "사생활",
+        "origin": "私生活",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "개인의 사적인 일상생활.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "privacy; private life",
+                "trans_dfn": "A person's personal, everyday life."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15663",
+        "word": "사설",
+        "origin": "社說",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "신문이나 잡지에서 글쓴이의 주장 또는 의견을 써 놓은 글.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "editorial; column",
+                "trans_dfn": "A piece of writing that contains the author's argument or opinion, published in a newspaper or magazine,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "15881",
+        "word": "사소하다",
+        "origin": "些少하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "중요하지 않은 정도로 아주 작거나 적다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "trifling; trivial",
+                "trans_dfn": "Too small or little to be considered significant."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "61382",
+        "word": "사실적",
+        "origin": "寫實的",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "실제 있는 그대로를 보여 주는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being realistic; being true to life",
+                "trans_dfn": "An act of showing something exactly as it is."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

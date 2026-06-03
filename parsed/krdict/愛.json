@@ -1,0 +1,5700 @@
+{
+  "exact": {
+    "total_reported_sum": 183,
+    "unique_count": 100,
+    "matched_count": 45,
+    "matched_entries": [
+      {
+        "target_code": "72065",
+        "word": "-애",
+        "origin": "愛",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘사랑’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-ae",
+                "trans_dfn": "A suffix used to mean love."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "73134",
+        "word": "애인",
+        "origin": "愛人",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남녀 간의 사랑하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "lover; one's beloved",
+                "trans_dfn": "People in a loving relationship with each other."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25090",
+        "word": "애견",
+        "origin": "愛犬",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "개를 귀여워 함. 또는 그 개.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet; pet dog",
+                "trans_dfn": "An act of loving a dog or the dog cherished."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66701",
+        "word": "애완동물",
+        "origin": "愛玩動物",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "좋아해서 가까이에 두고 귀여워하며 기르는 동물.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet animal",
+                "trans_dfn": "An animal that you like, keep close to you, and raise with affection."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14269",
+        "word": "애정",
+        "origin": "愛情",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "누군가 혹은 무언가를 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; affection",
+                "trans_dfn": "A loving heart that one feels for someone or something."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "남녀 간에 서로 그리워하고 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; affection",
+                "trans_dfn": "Mutual longing and loving feelings between a man and a woman."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66380",
+        "word": "애교",
+        "origin": "愛嬌",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남에게 귀엽게 보이려는 태도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "charms; winningness; coquetry",
+                "trans_dfn": "The behavior of trying to look cute or attractive to others."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66383",
+        "word": "애교스럽다",
+        "origin": "愛嬌스럽다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남에게 귀엽게 보이려는 태도가 있다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "winning; attractive",
+                "trans_dfn": "Trying to look adorable."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25182",
+        "word": "애교심",
+        "origin": "愛校心",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자기가 다니거나 졸업한 학교를 아끼고 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love for one's school",
+                "trans_dfn": "An affectionate and cherishing love for the school that one goes to or graduated from."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66389",
+        "word": "애국",
+        "origin": "愛國",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotism",
+                "trans_dfn": "An act of loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66466",
+        "word": "애국심",
+        "origin": "愛國心",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotism",
+                "trans_dfn": "A love for one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66467",
+        "word": "애국자",
+        "origin": "愛國者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriot",
+                "trans_dfn": "A person who loves one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66492",
+        "word": "애국적",
+        "origin": "愛國的",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being patriotic",
+                "trans_dfn": "A state of loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66491",
+        "word": "애국적",
+        "origin": "愛國的",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotic",
+                "trans_dfn": "Loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25192",
+        "word": "애국정신",
+        "origin": "愛國精神",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자기 나라를 아끼고 사랑하는 정신.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotic spirit",
+                "trans_dfn": "A spirit of cherishing and loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66499",
+        "word": "애국주의",
+        "origin": "愛國主義",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하고 나라를 위해 몸과 마음을 바쳐 있는 힘을 다해야 한다는 사상. 또는 그런 태도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotism",
+                "trans_dfn": "An idea that a person is supposed to love his/her own country and devote himself/herself to the country; or such a mindset."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66539",
+        "word": "애국하다",
+        "origin": "愛國하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "do acts of patriotism; be patriotic",
+                "trans_dfn": "To love one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66612",
+        "word": "애독",
+        "origin": "愛讀",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 책이나 잡지 등을 좋아하여 즐겨 읽음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "enjoying reading; being widely read",
+                "trans_dfn": "A state of being fond of a certain book or magazine, and enjoying reading it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66614",
+        "word": "애독자",
+        "origin": "愛讀者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 책이나 잡지 등을 좋아하여 즐겨 읽는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "reader; readership; devoted reader",
+                "trans_dfn": "A person who is fond of a certain book, magazine, etc., and enjoying reading it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66616",
+        "word": "애마",
+        "origin": "愛馬",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자기가 아끼고 사랑하는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "favorite horse; pet horse",
+                "trans_dfn": "A horse that one cherishes and loves."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25168",
+        "word": "애무",
+        "origin": "愛撫",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "이성을 사랑하여 어루만짐.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "caress; affectionate stroking",
+                "trans_dfn": "A state in which a man gently strokes a woman he loves, or vice versa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66693",
+        "word": "애무하다",
+        "origin": "愛撫하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "이성을 사랑하여 어루만지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "caress; stroke affectionately",
+                "trans_dfn": "For a man to gently stroke a woman he loves, or vice versa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66699",
+        "word": "애완",
+        "origin": "愛玩",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "동식물이나 물건을 좋아해서 가까이에 두고 귀여워하거나 즐김.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "loving; cherishing; fondling",
+                "trans_dfn": "A state of being fond of plants, animals, or objects, and therefore keeping them close and cherishing them."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66700",
+        "word": "애완견",
+        "origin": "愛玩犬",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "좋아해서 가까이에 두고 귀여워하며 기르는 개.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet dog",
+                "trans_dfn": "A dog that you like, keep close to you, and raise with affection."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66702",
+        "word": "애완용",
+        "origin": "愛玩用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "좋아해서 가까이에 두고 귀여워하거나 즐기기 위한 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "keeping as a pet",
+                "trans_dfn": "Something that you like and keep close to you to cherish or enjoy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25202",
+        "word": "애용",
+        "origin": "愛用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건이나 장소 등을 좋아하여 자주 사용함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "using regularly; preference; patronage",
+                "trans_dfn": "An act of loving a certain object or place and therefore using it frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66703",
+        "word": "애용되다",
+        "origin": "愛用되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건이나 장소 등이 좋게 느껴져 자주 사용되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be used regularly; be patronized",
+                "trans_dfn": "For a certain object or place to be loved and used frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66704",
+        "word": "애용하다",
+        "origin": "愛用하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건이나 장소 등을 좋아하여 자주 사용하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use regularly; patronize",
+                "trans_dfn": "To love a certain object or place and therefore use it frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25198",
+        "word": "애장품",
+        "origin": "愛藏品",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "소중하게 간직하는 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "cherished things; treasures",
+                "trans_dfn": "A thing that one cherishes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66708",
+        "word": "애제자",
+        "origin": "愛弟子",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "스승이 특별히 사랑하는 제자.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "one's favorite student",
+                "trans_dfn": "The student that a teacher particularly loves."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66709",
+        "word": "애주가",
+        "origin": "愛酒家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "술을 매우 좋아하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "elbow-bender; alcohol enthusiast; lover of alcoholic beverage",
+                "trans_dfn": "A person who loves and enjoys drinking alcoholic beverages."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66710",
+        "word": "애지중지",
+        "origin": "愛之重之",
+        "pos": "부사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "매우 사랑하고 소중히 여기는 모양.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "(love) blindly",
+                "trans_dfn": "In the state of loving and valuing someone or something highly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66711",
+        "word": "애지중지하다",
+        "origin": "愛之重之하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "매우 사랑하고 소중히 여기다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "treasure; cherish; coddle",
+                "trans_dfn": "To love and value someone or something highly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66712",
+        "word": "애착",
+        "origin": "愛着",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몹시 사랑하여 떨어질 수 없음. 또는 그런 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "attachment; affection",
+                "trans_dfn": "A state of loving something so much that he/she cannot live without it; or such a state of mind."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17393",
+        "word": "애착심",
+        "origin": "愛着心",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몹시 사랑하거나 정이 들어 떨어질 수 없는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "attachment; affection",
+                "trans_dfn": "A state of mind in which a person loves and becomes attached to something so that he/she cannot live without it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66713",
+        "word": "애창",
+        "origin": "愛唱",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 노래를 즐겨 부름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love to sing a song",
+                "trans_dfn": "An act of enjoying singing a certain song."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17394",
+        "word": "애창곡",
+        "origin": "愛唱曲",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "즐겨 부르는 노래.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "one's favorite song",
+                "trans_dfn": "A song that one particularly enjoys singing."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66714",
+        "word": "애창되다",
+        "origin": "愛唱되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 노래가 즐겨 불리다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "(song) be loved",
+                "trans_dfn": "For a certain song to be sung frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66715",
+        "word": "애창하다",
+        "origin": "愛唱하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 노래를 즐겨 부르다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love to sing a song",
+                "trans_dfn": "To enjoy singing a certain song."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66716",
+        "word": "애처가",
+        "origin": "愛妻家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "아내를 아끼고 사랑하는 남편.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "faithful husband; doting husband",
+                "trans_dfn": "A husband who loves and cherishes his wife."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66717",
+        "word": "애청자",
+        "origin": "愛聽者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "라디오나 텔레비전의 특정 프로그램을 즐겨 듣거나 보는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "regular listener; regular viewer",
+                "trans_dfn": "A person who enjoys watching or listening to a particular program on television or radio ."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17395",
+        "word": "애칭",
+        "origin": "愛稱",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "원래 이름 대신 친하고 다정하게 부르는 이름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet name; nickname",
+                "trans_dfn": "A name used instead of real name for calling someone affectionately and endearingly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66724",
+        "word": "애호",
+        "origin": "愛好",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사랑하고 좋아함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; liking; fondness",
+                "trans_dfn": "An act of loving and liking something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91967",
+        "word": "애호가",
+        "origin": "愛好家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 사물이나 일을 사랑하고 좋아하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "lover; fan; enthusiast",
+                "trans_dfn": "A person who loves a certain object or work and is devoted to it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66726",
+        "word": "애호하다",
+        "origin": "愛好하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사랑하고 좋아하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; like; be fond of",
+                "trans_dfn": "To like and love something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66465",
+        "word": "애국가",
+        "origin": "愛國歌",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "대한민국의 국가.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "Korean national anthem",
+                "trans_dfn": "The national anthem of Korea."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "all_unique_entries": [
+      {
+        "target_code": "73967",
+        "word": "애",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "나이가 어린 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "child; kid",
+                "trans_dfn": "A person of a young age."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "(낮추는 말로) 자기의 자식.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "child; son; daughter",
+                "trans_dfn": "(impolite form) One's child."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "아직 태어나지 않았거나 이제 막 태어난 아기.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "baby",
+                "trans_dfn": "A baby who has not been born yet or was recently born."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14663",
+        "word": "애",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "초조한 마음속.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "anxiety; worry",
+                "trans_dfn": "An anxious state of mind."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "몹시 수고롭고 고됨.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "efforts; troubles; hard time",
+                "trans_dfn": "A state of being that is very laborious and tough."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68777",
+        "word": "애",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "한글 자모 ‘ㅐ’의 이름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ae",
+                "trans_dfn": "The name of the vowel 'ㅐ' in the Korean alphabet."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "72065",
+        "word": "-애",
+        "origin": "愛",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘사랑’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-ae",
+                "trans_dfn": "A suffix used to mean love."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "72064",
+        "word": "-애-",
+        "origin": "",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘사동’의 뜻을 더하고 동사로 만드는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-ae-",
+                "trans_dfn": "A suffix that means causation and makes the word a verb."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "73134",
+        "word": "애인",
+        "origin": "愛人",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남녀 간의 사랑하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "lover; one's beloved",
+                "trans_dfn": "People in a loving relationship with each other."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25090",
+        "word": "애견",
+        "origin": "愛犬",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "개를 귀여워 함. 또는 그 개.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet; pet dog",
+                "trans_dfn": "An act of loving a dog or the dog cherished."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "92294",
+        "word": "애기",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "→ 아기",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "601384",
+        "word": "애니",
+        "origin": "←animation",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "'애니메이션'을 줄여 이르는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "animation",
+                "trans_dfn": "An abbreviated form of 'animation'"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14268",
+        "word": "애쓰다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무엇을 이루기 위해 힘을 들이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "try hard",
+                "trans_dfn": "To make a great effort to achieve something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66701",
+        "word": "애완동물",
+        "origin": "愛玩動物",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "좋아해서 가까이에 두고 귀여워하며 기르는 동물.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet animal",
+                "trans_dfn": "An animal that you like, keep close to you, and raise with affection."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14269",
+        "word": "애정",
+        "origin": "愛情",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "누군가 혹은 무언가를 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; affection",
+                "trans_dfn": "A loving heart that one feels for someone or something."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "남녀 간에 서로 그리워하고 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; affection",
+                "trans_dfn": "Mutual longing and loving feelings between a man and a woman."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17397",
+        "word": "애프터서비스",
+        "origin": "after service",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "판매한 상품에 문제가 있을 때 수리, 반품, 교환 등을 해 주는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "after-sales service",
+                "trans_dfn": "An array of services including repair, return, exchange, etc., which is offered when there is a problem with goods sold."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "601385",
+        "word": "애플리케이션",
+        "origin": "application",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "스마트폰이나 컴퓨터 등의 운영 체제에서 실행되도록 개발된 응용 프로그램.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "application",
+                "trans_dfn": "An application developed to run on an operating system such as a smartphone or computer."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66725",
+        "word": "애호박",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "다 자라지 않은 어린 호박.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "squash; zucchini",
+                "trans_dfn": "A type of squash that is cucumber-shaped, green and eaten when immature."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25164",
+        "word": "애간장",
+        "origin": "애肝腸",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(강조하는 말로) 초조한 마음속.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being worried to death; liver and intestines",
+                "trans_dfn": "(emphasizing form) The state of being nervous in one's heart."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66351",
+        "word": "애걸",
+        "origin": "哀乞",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "바라는 것을 들어 달라고 간절하게 빎.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "begging; pleading",
+                "trans_dfn": "An act of asking earnestly for something that one wishes for."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66364",
+        "word": "애걸복걸",
+        "origin": "哀乞伏乞",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "바라는 것을 들어 달라고 불쌍하게 사정하며 간절히 빎.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "begging plaintively; beseeching",
+                "trans_dfn": "An act of begging and praying earnestly for something that one wishes for."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66365",
+        "word": "애걸복걸하다",
+        "origin": "哀乞伏乞하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "바라는 것을 들어 달라고 불쌍하게 사정하며 간절히 빌다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "beg; implore; supplicate",
+                "trans_dfn": "To plead and request someone earnestly to grant one's wish."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66366",
+        "word": "애걸하다",
+        "origin": "哀乞하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "바라는 것을 들어 달라고 간절하게 빌다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "beg; implore",
+                "trans_dfn": "To plead someone earnestly to grant one's wish."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66380",
+        "word": "애교",
+        "origin": "愛嬌",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남에게 귀엽게 보이려는 태도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "charms; winningness; coquetry",
+                "trans_dfn": "The behavior of trying to look cute or attractive to others."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66383",
+        "word": "애교스럽다",
+        "origin": "愛嬌스럽다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남에게 귀엽게 보이려는 태도가 있다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "winning; attractive",
+                "trans_dfn": "Trying to look adorable."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25182",
+        "word": "애교심",
+        "origin": "愛校心",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자기가 다니거나 졸업한 학교를 아끼고 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love for one's school",
+                "trans_dfn": "An affectionate and cherishing love for the school that one goes to or graduated from."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66389",
+        "word": "애국",
+        "origin": "愛國",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotism",
+                "trans_dfn": "An act of loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66466",
+        "word": "애국심",
+        "origin": "愛國心",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotism",
+                "trans_dfn": "A love for one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66467",
+        "word": "애국자",
+        "origin": "愛國者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriot",
+                "trans_dfn": "A person who loves one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66492",
+        "word": "애국적",
+        "origin": "愛國的",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being patriotic",
+                "trans_dfn": "A state of loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66491",
+        "word": "애국적",
+        "origin": "愛國的",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotic",
+                "trans_dfn": "Loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25192",
+        "word": "애국정신",
+        "origin": "愛國精神",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자기 나라를 아끼고 사랑하는 정신.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotic spirit",
+                "trans_dfn": "A spirit of cherishing and loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66499",
+        "word": "애국주의",
+        "origin": "愛國主義",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하고 나라를 위해 몸과 마음을 바쳐 있는 힘을 다해야 한다는 사상. 또는 그런 태도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotism",
+                "trans_dfn": "An idea that a person is supposed to love his/her own country and devote himself/herself to the country; or such a mindset."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66539",
+        "word": "애국하다",
+        "origin": "愛國하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "do acts of patriotism; be patriotic",
+                "trans_dfn": "To love one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66541",
+        "word": "애꿎다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "아무런 잘못이 없이 억울하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "blameless; innocent",
+                "trans_dfn": "Mortified because one is not at fault."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 일과 아무런 상관이 없다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "blameless; innocent",
+                "trans_dfn": "Having no relation to something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66542",
+        "word": "애끓다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몹시 답답하거나 안타까워 속이 끓다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be devastated",
+                "trans_dfn": "To seethe with extreme frustration or pity."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66564",
+        "word": "애늙은이",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(놀리는 말로) 생김새나 행동, 말투 등이 나이가 많은 사람 같은 아이.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "precocious child",
+                "trans_dfn": "(teasing) A child that looks, talks, or behaves like an older person."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66597",
+        "word": "애니메이션",
+        "origin": "animation",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "만화나 인형 등을 이용하여 그것이 마치 살아서 움직이는 것처럼 보이게 촬영한 영화.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "animation; animated film",
+                "trans_dfn": "A film produced in a way that allows for true-to-life movements by using cartoons, dolls, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66600",
+        "word": "애당초",
+        "origin": "애當初",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "일의 맨 처음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "the outset; the beginning; the start",
+                "trans_dfn": "The very beginning of something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25193",
+        "word": "애도",
+        "origin": "哀悼",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람의 죽음을 슬퍼함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "grief; mourning; condolence",
+                "trans_dfn": "An act of mourning someone's death."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66611",
+        "word": "애도하다",
+        "origin": "哀悼하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람의 죽음을 슬퍼하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "grieve; mourn; offer one's condolences",
+                "trans_dfn": "To mourn someone's death."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66612",
+        "word": "애독",
+        "origin": "愛讀",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 책이나 잡지 등을 좋아하여 즐겨 읽음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "enjoying reading; being widely read",
+                "trans_dfn": "A state of being fond of a certain book or magazine, and enjoying reading it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66614",
+        "word": "애독자",
+        "origin": "愛讀者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 책이나 잡지 등을 좋아하여 즐겨 읽는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "reader; readership; devoted reader",
+                "trans_dfn": "A person who is fond of a certain book, magazine, etc., and enjoying reading it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66615",
+        "word": "애로",
+        "origin": "隘路",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "좁고 험한 길.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "impasse",
+                "trans_dfn": "A narrow, rough road."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 하는 데 장애가 되는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "trouble; difficulty; obstacle",
+                "trans_dfn": "A thing that acts as a barrier to doing something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "601328",
+        "word": "애로 사항",
+        "origin": "隘路事項",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 하는 데 장애가 되는 항목 또는 내용.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "difficulties; obstacles",
+                "trans_dfn": "An item or content that becomes an obstacle to doing something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66616",
+        "word": "애마",
+        "origin": "愛馬",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자기가 아끼고 사랑하는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "favorite horse; pet horse",
+                "trans_dfn": "A horse that one cherishes and loves."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66617",
+        "word": "애매모호하다",
+        "origin": "曖昧模糊하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "말이나 태도 등이 분명하지 않다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "vague; indefinite; ambiguous",
+                "trans_dfn": "A remark, attitude, etc., being uncertain."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66618",
+        "word": "애매하다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "잘못한 것이 없이 꾸중을 듣거나 벌을 받게 되어 억울하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "falsely charged; unjustly suspected",
+                "trans_dfn": "Feeling mortified because one has been scolded or punished even though one did nothing wrong."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66690",
+        "word": "애매하다",
+        "origin": "曖昧하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "태도나 상황이 분명하지 않다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "vague; indefinite; ambiguous",
+                "trans_dfn": "An attitude or situation being uncertain."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66691",
+        "word": "애먹다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "속이 상할 정도로 어려움을 겪다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "suffer hardships; have a hard time",
+                "trans_dfn": "To experience difficulties enough to feel distressed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66692",
+        "word": "애먹이다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "속이 상할 정도로 어려움을 겪게 하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "harass; annoy; give trouble",
+                "trans_dfn": "To make someone experience difficulties enough to feel distressed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25168",
+        "word": "애무",
+        "origin": "愛撫",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "이성을 사랑하여 어루만짐.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "caress; affectionate stroking",
+                "trans_dfn": "A state in which a man gently strokes a woman he loves, or vice versa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66693",
+        "word": "애무하다",
+        "origin": "愛撫하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "이성을 사랑하여 어루만지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "caress; stroke affectionately",
+                "trans_dfn": "For a man to gently stroke a woman he loves, or vice versa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66694",
+        "word": "애물단지",
+        "origin": "애物단지",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(낮잡아 이르는 말로) 몹시 애태우거나 성가시게 구는 사람이나 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pain in the neck; source of anxiety; cause of trouble",
+                "trans_dfn": "(disparaging) A person or thing that is very annoying or bothersome."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66695",
+        "word": "애벌레",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "알에서 나와 다 자라지 않은 벌레.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "caterpillar",
+                "trans_dfn": "A worm that has come out of the egg and not yet grown into an adult."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25190",
+        "word": "애벌빨래",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "나중에 제대로 빨기 전에 먼저 대강 빨래를 함. 또는 그 빨래.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "rough washing; the first washing",
+                "trans_dfn": "A rough washing prior to proper laundering; or the laundry washed in such a manner."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66696",
+        "word": "애석",
+        "origin": "哀惜",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "슬프고 안타까움.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "grief; lamentation; regret",
+                "trans_dfn": "A state of feeling sad and pitiful."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66697",
+        "word": "애석하다",
+        "origin": "哀惜하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "슬프고 안타깝다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sorrowful; mournful",
+                "trans_dfn": "Sad and pitiful."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66698",
+        "word": "애송이",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "아직 어리거나 어려 보이는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "young person; immature person",
+                "trans_dfn": "A person who is still young or looks young."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "(비유적으로) 경험이나 실력이 부족한 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "greenhorn; novice; rookie",
+                "trans_dfn": "(figurative) A person who lacks experience or skills."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25199",
+        "word": "애어른",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "하는 짓이나 생각이 어른 같은 아이.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "precocious child; premature child",
+                "trans_dfn": "A child who acts or thinks like an adult."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "하는 짓이나 생각이 아이 같은 어른.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "adult baby; grown-up baby",
+                "trans_dfn": "An adult who acts or thinks like a child."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66699",
+        "word": "애완",
+        "origin": "愛玩",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "동식물이나 물건을 좋아해서 가까이에 두고 귀여워하거나 즐김.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "loving; cherishing; fondling",
+                "trans_dfn": "A state of being fond of plants, animals, or objects, and therefore keeping them close and cherishing them."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66700",
+        "word": "애완견",
+        "origin": "愛玩犬",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "좋아해서 가까이에 두고 귀여워하며 기르는 개.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet dog",
+                "trans_dfn": "A dog that you like, keep close to you, and raise with affection."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66702",
+        "word": "애완용",
+        "origin": "愛玩用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "좋아해서 가까이에 두고 귀여워하거나 즐기기 위한 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "keeping as a pet",
+                "trans_dfn": "Something that you like and keep close to you to cherish or enjoy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25202",
+        "word": "애용",
+        "origin": "愛用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건이나 장소 등을 좋아하여 자주 사용함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "using regularly; preference; patronage",
+                "trans_dfn": "An act of loving a certain object or place and therefore using it frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66703",
+        "word": "애용되다",
+        "origin": "愛用되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건이나 장소 등이 좋게 느껴져 자주 사용되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be used regularly; be patronized",
+                "trans_dfn": "For a certain object or place to be loved and used frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66704",
+        "word": "애용하다",
+        "origin": "愛用하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건이나 장소 등을 좋아하여 자주 사용하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use regularly; patronize",
+                "trans_dfn": "To love a certain object or place and therefore use it frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25197",
+        "word": "애원",
+        "origin": "哀願",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "요청이나 소원을 들어 달라고 간절히 부탁함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "plea; pleading; imploring",
+                "trans_dfn": "Earnestly requesting to meet a person's demands or to be granted."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66705",
+        "word": "애원하다",
+        "origin": "哀願하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "요청이나 소원을 들어 달라고 간절히 부탁하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "plead; implore",
+                "trans_dfn": "To earnestly request to meet a person's demands or to be granted."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "601309",
+        "word": "애잔하다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "애처롭고 애틋하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sorrowful",
+                "trans_dfn": "To be pathetic and heartbreaking."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25198",
+        "word": "애장품",
+        "origin": "愛藏品",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "소중하게 간직하는 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "cherished things; treasures",
+                "trans_dfn": "A thing that one cherishes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66706",
+        "word": "애절하다",
+        "origin": "哀切하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몹시 애처롭고 슬프다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "mournful; pathetic",
+                "trans_dfn": "Very pitiable and sad."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66708",
+        "word": "애제자",
+        "origin": "愛弟子",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "스승이 특별히 사랑하는 제자.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "one's favorite student",
+                "trans_dfn": "The student that a teacher particularly loves."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66709",
+        "word": "애주가",
+        "origin": "愛酒家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "술을 매우 좋아하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "elbow-bender; alcohol enthusiast; lover of alcoholic beverage",
+                "trans_dfn": "A person who loves and enjoys drinking alcoholic beverages."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66710",
+        "word": "애지중지",
+        "origin": "愛之重之",
+        "pos": "부사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "매우 사랑하고 소중히 여기는 모양.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "(love) blindly",
+                "trans_dfn": "In the state of loving and valuing someone or something highly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66711",
+        "word": "애지중지하다",
+        "origin": "愛之重之하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "매우 사랑하고 소중히 여기다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "treasure; cherish; coddle",
+                "trans_dfn": "To love and value someone or something highly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66712",
+        "word": "애착",
+        "origin": "愛着",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몹시 사랑하여 떨어질 수 없음. 또는 그런 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "attachment; affection",
+                "trans_dfn": "A state of loving something so much that he/she cannot live without it; or such a state of mind."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17393",
+        "word": "애착심",
+        "origin": "愛着心",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몹시 사랑하거나 정이 들어 떨어질 수 없는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "attachment; affection",
+                "trans_dfn": "A state of mind in which a person loves and becomes attached to something so that he/she cannot live without it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66713",
+        "word": "애창",
+        "origin": "愛唱",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 노래를 즐겨 부름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love to sing a song",
+                "trans_dfn": "An act of enjoying singing a certain song."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17394",
+        "word": "애창곡",
+        "origin": "愛唱曲",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "즐겨 부르는 노래.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "one's favorite song",
+                "trans_dfn": "A song that one particularly enjoys singing."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66714",
+        "word": "애창되다",
+        "origin": "愛唱되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 노래가 즐겨 불리다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "(song) be loved",
+                "trans_dfn": "For a certain song to be sung frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66715",
+        "word": "애창하다",
+        "origin": "愛唱하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 노래를 즐겨 부르다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love to sing a song",
+                "trans_dfn": "To enjoy singing a certain song."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66716",
+        "word": "애처가",
+        "origin": "愛妻家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "아내를 아끼고 사랑하는 남편.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "faithful husband; doting husband",
+                "trans_dfn": "A husband who loves and cherishes his wife."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "601310",
+        "word": "애처롭다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "불쌍하여 마음이 슬프다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pathetic",
+                "trans_dfn": "One's heart is sad by pity."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66717",
+        "word": "애청자",
+        "origin": "愛聽者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "라디오나 텔레비전의 특정 프로그램을 즐겨 듣거나 보는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "regular listener; regular viewer",
+                "trans_dfn": "A person who enjoys watching or listening to a particular program on television or radio ."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14270",
+        "word": "애초",
+        "origin": "애初",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "맨 처음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "the beginning; the start; the outset",
+                "trans_dfn": "The very beginning of something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17395",
+        "word": "애칭",
+        "origin": "愛稱",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "원래 이름 대신 친하고 다정하게 부르는 이름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet name; nickname",
+                "trans_dfn": "A name used instead of real name for calling someone affectionately and endearingly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66718",
+        "word": "애타다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "매우 답답하거나 안타까워 속이 타다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be anxious; be in suspense; be jittery",
+                "trans_dfn": "To feel sorry, frustrated, and distressed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66719",
+        "word": "애태우다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "매우 답답하게 하거나 안타깝게 하여 속을 태우다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "worry; bother; keep someone in suspense",
+                "trans_dfn": "To make someone feel sorry, frustrated, and distressed."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "속이 탈 정도로 매우 걱정하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "feel anxious; fidget; worry",
+                "trans_dfn": "To be concerned about someone or something so much as to feel tormented."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66720",
+        "word": "애통",
+        "origin": "哀痛",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "슬퍼하고 마음 아파함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "grief; lamentation; deploration",
+                "trans_dfn": "A state of feeling sad and heartbroken."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66721",
+        "word": "애통하다",
+        "origin": "哀痛하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "슬퍼하고 마음 아파하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "grieve; deplore; lament",
+                "trans_dfn": "To feel sad and heartbroken."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66722",
+        "word": "애통하다",
+        "origin": "哀痛하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "슬프고 마음이 아프다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sad and painful",
+                "trans_dfn": "Feeling sad and heartbroken."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66723",
+        "word": "애틋하다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "섭섭하고 안타까워 애가 타는 듯하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "anxious; regrettable",
+                "trans_dfn": "One's heart going to someone or something out of regret or sympathy."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "아끼고 위하는 정이 깊다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "affectionate",
+                "trans_dfn": "Having deep affection and love for someone."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66724",
+        "word": "애호",
+        "origin": "愛好",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사랑하고 좋아함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; liking; fondness",
+                "trans_dfn": "An act of loving and liking something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91967",
+        "word": "애호가",
+        "origin": "愛好家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 사물이나 일을 사랑하고 좋아하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "lover; fan; enthusiast",
+                "trans_dfn": "A person who loves a certain object or work and is devoted to it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66726",
+        "word": "애호하다",
+        "origin": "愛好하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사랑하고 좋아하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; like; be fond of",
+                "trans_dfn": "To like and love something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17400",
+        "word": "애환",
+        "origin": "哀歡",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "슬픔과 기쁨.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "joy and sorrow; happiness and sadness",
+                "trans_dfn": "A collective term for joy and sorrow."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66465",
+        "word": "애국가",
+        "origin": "愛國歌",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "대한민국의 국가.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "Korean national anthem",
+                "trans_dfn": "The national anthem of Korea."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25195",
+        "word": "애비",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "→ 아비",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "92295",
+        "word": "애숭이",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "→ 애송이",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "25201",
+        "word": "애시당초",
+        "origin": "애시當初",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "→ 애당초",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "79971",
+        "word": "애써-",
+        "origin": "",
+        "pos": "품사 없음",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(애써, 애써서, 애썼다, 애써라)→ 애쓰다",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "93111",
+        "word": "애쓰-",
+        "origin": "",
+        "pos": "품사 없음",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(애쓰고, 애쓰는데, 애쓰니, 애쓰면, 애쓰는, 애쓴, 애쓸, 애씁니다)→ 애쓰다",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "23039",
+        "word": "갓난애",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "태어난 지 얼마 안 된 아이.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "newborn baby",
+                "trans_dfn": "A baby born not long ago."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "include": {
+    "total_reported_sum": 183,
+    "unique_count": 100,
+    "matched_count": 45,
+    "matched_entries": [
+      {
+        "target_code": "72065",
+        "word": "-애",
+        "origin": "愛",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘사랑’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-ae",
+                "trans_dfn": "A suffix used to mean love."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "73134",
+        "word": "애인",
+        "origin": "愛人",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남녀 간의 사랑하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "lover; one's beloved",
+                "trans_dfn": "People in a loving relationship with each other."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25090",
+        "word": "애견",
+        "origin": "愛犬",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "개를 귀여워 함. 또는 그 개.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet; pet dog",
+                "trans_dfn": "An act of loving a dog or the dog cherished."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66701",
+        "word": "애완동물",
+        "origin": "愛玩動物",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "좋아해서 가까이에 두고 귀여워하며 기르는 동물.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet animal",
+                "trans_dfn": "An animal that you like, keep close to you, and raise with affection."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14269",
+        "word": "애정",
+        "origin": "愛情",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "누군가 혹은 무언가를 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; affection",
+                "trans_dfn": "A loving heart that one feels for someone or something."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "남녀 간에 서로 그리워하고 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; affection",
+                "trans_dfn": "Mutual longing and loving feelings between a man and a woman."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66380",
+        "word": "애교",
+        "origin": "愛嬌",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남에게 귀엽게 보이려는 태도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "charms; winningness; coquetry",
+                "trans_dfn": "The behavior of trying to look cute or attractive to others."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66383",
+        "word": "애교스럽다",
+        "origin": "愛嬌스럽다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남에게 귀엽게 보이려는 태도가 있다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "winning; attractive",
+                "trans_dfn": "Trying to look adorable."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25182",
+        "word": "애교심",
+        "origin": "愛校心",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자기가 다니거나 졸업한 학교를 아끼고 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love for one's school",
+                "trans_dfn": "An affectionate and cherishing love for the school that one goes to or graduated from."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66389",
+        "word": "애국",
+        "origin": "愛國",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotism",
+                "trans_dfn": "An act of loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66466",
+        "word": "애국심",
+        "origin": "愛國心",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotism",
+                "trans_dfn": "A love for one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66467",
+        "word": "애국자",
+        "origin": "愛國者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriot",
+                "trans_dfn": "A person who loves one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66492",
+        "word": "애국적",
+        "origin": "愛國的",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being patriotic",
+                "trans_dfn": "A state of loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66491",
+        "word": "애국적",
+        "origin": "愛國的",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotic",
+                "trans_dfn": "Loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25192",
+        "word": "애국정신",
+        "origin": "愛國精神",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자기 나라를 아끼고 사랑하는 정신.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotic spirit",
+                "trans_dfn": "A spirit of cherishing and loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66499",
+        "word": "애국주의",
+        "origin": "愛國主義",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하고 나라를 위해 몸과 마음을 바쳐 있는 힘을 다해야 한다는 사상. 또는 그런 태도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotism",
+                "trans_dfn": "An idea that a person is supposed to love his/her own country and devote himself/herself to the country; or such a mindset."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66539",
+        "word": "애국하다",
+        "origin": "愛國하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "do acts of patriotism; be patriotic",
+                "trans_dfn": "To love one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66612",
+        "word": "애독",
+        "origin": "愛讀",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 책이나 잡지 등을 좋아하여 즐겨 읽음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "enjoying reading; being widely read",
+                "trans_dfn": "A state of being fond of a certain book or magazine, and enjoying reading it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66614",
+        "word": "애독자",
+        "origin": "愛讀者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 책이나 잡지 등을 좋아하여 즐겨 읽는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "reader; readership; devoted reader",
+                "trans_dfn": "A person who is fond of a certain book, magazine, etc., and enjoying reading it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66616",
+        "word": "애마",
+        "origin": "愛馬",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자기가 아끼고 사랑하는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "favorite horse; pet horse",
+                "trans_dfn": "A horse that one cherishes and loves."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25168",
+        "word": "애무",
+        "origin": "愛撫",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "이성을 사랑하여 어루만짐.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "caress; affectionate stroking",
+                "trans_dfn": "A state in which a man gently strokes a woman he loves, or vice versa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66693",
+        "word": "애무하다",
+        "origin": "愛撫하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "이성을 사랑하여 어루만지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "caress; stroke affectionately",
+                "trans_dfn": "For a man to gently stroke a woman he loves, or vice versa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66699",
+        "word": "애완",
+        "origin": "愛玩",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "동식물이나 물건을 좋아해서 가까이에 두고 귀여워하거나 즐김.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "loving; cherishing; fondling",
+                "trans_dfn": "A state of being fond of plants, animals, or objects, and therefore keeping them close and cherishing them."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66700",
+        "word": "애완견",
+        "origin": "愛玩犬",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "좋아해서 가까이에 두고 귀여워하며 기르는 개.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet dog",
+                "trans_dfn": "A dog that you like, keep close to you, and raise with affection."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66702",
+        "word": "애완용",
+        "origin": "愛玩用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "좋아해서 가까이에 두고 귀여워하거나 즐기기 위한 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "keeping as a pet",
+                "trans_dfn": "Something that you like and keep close to you to cherish or enjoy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25202",
+        "word": "애용",
+        "origin": "愛用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건이나 장소 등을 좋아하여 자주 사용함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "using regularly; preference; patronage",
+                "trans_dfn": "An act of loving a certain object or place and therefore using it frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66703",
+        "word": "애용되다",
+        "origin": "愛用되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건이나 장소 등이 좋게 느껴져 자주 사용되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be used regularly; be patronized",
+                "trans_dfn": "For a certain object or place to be loved and used frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66704",
+        "word": "애용하다",
+        "origin": "愛用하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건이나 장소 등을 좋아하여 자주 사용하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use regularly; patronize",
+                "trans_dfn": "To love a certain object or place and therefore use it frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25198",
+        "word": "애장품",
+        "origin": "愛藏品",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "소중하게 간직하는 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "cherished things; treasures",
+                "trans_dfn": "A thing that one cherishes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66708",
+        "word": "애제자",
+        "origin": "愛弟子",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "스승이 특별히 사랑하는 제자.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "one's favorite student",
+                "trans_dfn": "The student that a teacher particularly loves."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66709",
+        "word": "애주가",
+        "origin": "愛酒家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "술을 매우 좋아하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "elbow-bender; alcohol enthusiast; lover of alcoholic beverage",
+                "trans_dfn": "A person who loves and enjoys drinking alcoholic beverages."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66710",
+        "word": "애지중지",
+        "origin": "愛之重之",
+        "pos": "부사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "매우 사랑하고 소중히 여기는 모양.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "(love) blindly",
+                "trans_dfn": "In the state of loving and valuing someone or something highly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66711",
+        "word": "애지중지하다",
+        "origin": "愛之重之하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "매우 사랑하고 소중히 여기다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "treasure; cherish; coddle",
+                "trans_dfn": "To love and value someone or something highly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66712",
+        "word": "애착",
+        "origin": "愛着",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몹시 사랑하여 떨어질 수 없음. 또는 그런 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "attachment; affection",
+                "trans_dfn": "A state of loving something so much that he/she cannot live without it; or such a state of mind."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17393",
+        "word": "애착심",
+        "origin": "愛着心",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몹시 사랑하거나 정이 들어 떨어질 수 없는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "attachment; affection",
+                "trans_dfn": "A state of mind in which a person loves and becomes attached to something so that he/she cannot live without it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66713",
+        "word": "애창",
+        "origin": "愛唱",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 노래를 즐겨 부름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love to sing a song",
+                "trans_dfn": "An act of enjoying singing a certain song."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17394",
+        "word": "애창곡",
+        "origin": "愛唱曲",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "즐겨 부르는 노래.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "one's favorite song",
+                "trans_dfn": "A song that one particularly enjoys singing."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66714",
+        "word": "애창되다",
+        "origin": "愛唱되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 노래가 즐겨 불리다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "(song) be loved",
+                "trans_dfn": "For a certain song to be sung frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66715",
+        "word": "애창하다",
+        "origin": "愛唱하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 노래를 즐겨 부르다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love to sing a song",
+                "trans_dfn": "To enjoy singing a certain song."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66716",
+        "word": "애처가",
+        "origin": "愛妻家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "아내를 아끼고 사랑하는 남편.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "faithful husband; doting husband",
+                "trans_dfn": "A husband who loves and cherishes his wife."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66717",
+        "word": "애청자",
+        "origin": "愛聽者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "라디오나 텔레비전의 특정 프로그램을 즐겨 듣거나 보는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "regular listener; regular viewer",
+                "trans_dfn": "A person who enjoys watching or listening to a particular program on television or radio ."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17395",
+        "word": "애칭",
+        "origin": "愛稱",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "원래 이름 대신 친하고 다정하게 부르는 이름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet name; nickname",
+                "trans_dfn": "A name used instead of real name for calling someone affectionately and endearingly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66724",
+        "word": "애호",
+        "origin": "愛好",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사랑하고 좋아함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; liking; fondness",
+                "trans_dfn": "An act of loving and liking something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91967",
+        "word": "애호가",
+        "origin": "愛好家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 사물이나 일을 사랑하고 좋아하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "lover; fan; enthusiast",
+                "trans_dfn": "A person who loves a certain object or work and is devoted to it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66726",
+        "word": "애호하다",
+        "origin": "愛好하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사랑하고 좋아하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; like; be fond of",
+                "trans_dfn": "To like and love something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66465",
+        "word": "애국가",
+        "origin": "愛國歌",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "대한민국의 국가.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "Korean national anthem",
+                "trans_dfn": "The national anthem of Korea."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "all_unique_entries": [
+      {
+        "target_code": "73967",
+        "word": "애",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "나이가 어린 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "child; kid",
+                "trans_dfn": "A person of a young age."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "(낮추는 말로) 자기의 자식.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "child; son; daughter",
+                "trans_dfn": "(impolite form) One's child."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "아직 태어나지 않았거나 이제 막 태어난 아기.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "baby",
+                "trans_dfn": "A baby who has not been born yet or was recently born."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14663",
+        "word": "애",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "초조한 마음속.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "anxiety; worry",
+                "trans_dfn": "An anxious state of mind."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "몹시 수고롭고 고됨.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "efforts; troubles; hard time",
+                "trans_dfn": "A state of being that is very laborious and tough."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "68777",
+        "word": "애",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "한글 자모 ‘ㅐ’의 이름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "ae",
+                "trans_dfn": "The name of the vowel 'ㅐ' in the Korean alphabet."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "72065",
+        "word": "-애",
+        "origin": "愛",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘사랑’의 뜻을 더하는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-ae",
+                "trans_dfn": "A suffix used to mean love."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "72064",
+        "word": "-애-",
+        "origin": "",
+        "pos": "접사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "‘사동’의 뜻을 더하고 동사로 만드는 접미사.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "-ae-",
+                "trans_dfn": "A suffix that means causation and makes the word a verb."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "73134",
+        "word": "애인",
+        "origin": "愛人",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남녀 간의 사랑하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "lover; one's beloved",
+                "trans_dfn": "People in a loving relationship with each other."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25090",
+        "word": "애견",
+        "origin": "愛犬",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "개를 귀여워 함. 또는 그 개.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet; pet dog",
+                "trans_dfn": "An act of loving a dog or the dog cherished."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "92294",
+        "word": "애기",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "→ 아기",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "601384",
+        "word": "애니",
+        "origin": "←animation",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "'애니메이션'을 줄여 이르는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "animation",
+                "trans_dfn": "An abbreviated form of 'animation'"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14268",
+        "word": "애쓰다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "무엇을 이루기 위해 힘을 들이다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "try hard",
+                "trans_dfn": "To make a great effort to achieve something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66701",
+        "word": "애완동물",
+        "origin": "愛玩動物",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "좋아해서 가까이에 두고 귀여워하며 기르는 동물.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet animal",
+                "trans_dfn": "An animal that you like, keep close to you, and raise with affection."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14269",
+        "word": "애정",
+        "origin": "愛情",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "누군가 혹은 무언가를 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; affection",
+                "trans_dfn": "A loving heart that one feels for someone or something."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "남녀 간에 서로 그리워하고 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; affection",
+                "trans_dfn": "Mutual longing and loving feelings between a man and a woman."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17397",
+        "word": "애프터서비스",
+        "origin": "after service",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "판매한 상품에 문제가 있을 때 수리, 반품, 교환 등을 해 주는 일.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "after-sales service",
+                "trans_dfn": "An array of services including repair, return, exchange, etc., which is offered when there is a problem with goods sold."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "601385",
+        "word": "애플리케이션",
+        "origin": "application",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "스마트폰이나 컴퓨터 등의 운영 체제에서 실행되도록 개발된 응용 프로그램.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "application",
+                "trans_dfn": "An application developed to run on an operating system such as a smartphone or computer."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66725",
+        "word": "애호박",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "다 자라지 않은 어린 호박.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "squash; zucchini",
+                "trans_dfn": "A type of squash that is cucumber-shaped, green and eaten when immature."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25164",
+        "word": "애간장",
+        "origin": "애肝腸",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(강조하는 말로) 초조한 마음속.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being worried to death; liver and intestines",
+                "trans_dfn": "(emphasizing form) The state of being nervous in one's heart."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66351",
+        "word": "애걸",
+        "origin": "哀乞",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "바라는 것을 들어 달라고 간절하게 빎.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "begging; pleading",
+                "trans_dfn": "An act of asking earnestly for something that one wishes for."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66364",
+        "word": "애걸복걸",
+        "origin": "哀乞伏乞",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "바라는 것을 들어 달라고 불쌍하게 사정하며 간절히 빎.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "begging plaintively; beseeching",
+                "trans_dfn": "An act of begging and praying earnestly for something that one wishes for."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66365",
+        "word": "애걸복걸하다",
+        "origin": "哀乞伏乞하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "바라는 것을 들어 달라고 불쌍하게 사정하며 간절히 빌다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "beg; implore; supplicate",
+                "trans_dfn": "To plead and request someone earnestly to grant one's wish."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66366",
+        "word": "애걸하다",
+        "origin": "哀乞하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "바라는 것을 들어 달라고 간절하게 빌다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "beg; implore",
+                "trans_dfn": "To plead someone earnestly to grant one's wish."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66380",
+        "word": "애교",
+        "origin": "愛嬌",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남에게 귀엽게 보이려는 태도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "charms; winningness; coquetry",
+                "trans_dfn": "The behavior of trying to look cute or attractive to others."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66383",
+        "word": "애교스럽다",
+        "origin": "愛嬌스럽다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "남에게 귀엽게 보이려는 태도가 있다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "winning; attractive",
+                "trans_dfn": "Trying to look adorable."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25182",
+        "word": "애교심",
+        "origin": "愛校心",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자기가 다니거나 졸업한 학교를 아끼고 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love for one's school",
+                "trans_dfn": "An affectionate and cherishing love for the school that one goes to or graduated from."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66389",
+        "word": "애국",
+        "origin": "愛國",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotism",
+                "trans_dfn": "An act of loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66466",
+        "word": "애국심",
+        "origin": "愛國心",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotism",
+                "trans_dfn": "A love for one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66467",
+        "word": "애국자",
+        "origin": "愛國者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriot",
+                "trans_dfn": "A person who loves one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66492",
+        "word": "애국적",
+        "origin": "愛國的",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "being patriotic",
+                "trans_dfn": "A state of loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66491",
+        "word": "애국적",
+        "origin": "愛國的",
+        "pos": "관형사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하는.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotic",
+                "trans_dfn": "Loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25192",
+        "word": "애국정신",
+        "origin": "愛國精神",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자기 나라를 아끼고 사랑하는 정신.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotic spirit",
+                "trans_dfn": "A spirit of cherishing and loving one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66499",
+        "word": "애국주의",
+        "origin": "愛國主義",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하고 나라를 위해 몸과 마음을 바쳐 있는 힘을 다해야 한다는 사상. 또는 그런 태도.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "patriotism",
+                "trans_dfn": "An idea that a person is supposed to love his/her own country and devote himself/herself to the country; or such a mindset."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66539",
+        "word": "애국하다",
+        "origin": "愛國하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자신의 나라를 사랑하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "do acts of patriotism; be patriotic",
+                "trans_dfn": "To love one's own country."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66541",
+        "word": "애꿎다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "아무런 잘못이 없이 억울하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "blameless; innocent",
+                "trans_dfn": "Mortified because one is not at fault."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 일과 아무런 상관이 없다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "blameless; innocent",
+                "trans_dfn": "Having no relation to something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66542",
+        "word": "애끓다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몹시 답답하거나 안타까워 속이 끓다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be devastated",
+                "trans_dfn": "To seethe with extreme frustration or pity."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66564",
+        "word": "애늙은이",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(놀리는 말로) 생김새나 행동, 말투 등이 나이가 많은 사람 같은 아이.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "precocious child",
+                "trans_dfn": "(teasing) A child that looks, talks, or behaves like an older person."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66597",
+        "word": "애니메이션",
+        "origin": "animation",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "만화나 인형 등을 이용하여 그것이 마치 살아서 움직이는 것처럼 보이게 촬영한 영화.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "animation; animated film",
+                "trans_dfn": "A film produced in a way that allows for true-to-life movements by using cartoons, dolls, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66600",
+        "word": "애당초",
+        "origin": "애當初",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "일의 맨 처음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "the outset; the beginning; the start",
+                "trans_dfn": "The very beginning of something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25193",
+        "word": "애도",
+        "origin": "哀悼",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람의 죽음을 슬퍼함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "grief; mourning; condolence",
+                "trans_dfn": "An act of mourning someone's death."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66611",
+        "word": "애도하다",
+        "origin": "哀悼하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사람의 죽음을 슬퍼하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "grieve; mourn; offer one's condolences",
+                "trans_dfn": "To mourn someone's death."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66612",
+        "word": "애독",
+        "origin": "愛讀",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 책이나 잡지 등을 좋아하여 즐겨 읽음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "enjoying reading; being widely read",
+                "trans_dfn": "A state of being fond of a certain book or magazine, and enjoying reading it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66614",
+        "word": "애독자",
+        "origin": "愛讀者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 책이나 잡지 등을 좋아하여 즐겨 읽는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "reader; readership; devoted reader",
+                "trans_dfn": "A person who is fond of a certain book, magazine, etc., and enjoying reading it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66615",
+        "word": "애로",
+        "origin": "隘路",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "좁고 험한 길.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "impasse",
+                "trans_dfn": "A narrow, rough road."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 하는 데 장애가 되는 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "trouble; difficulty; obstacle",
+                "trans_dfn": "A thing that acts as a barrier to doing something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "601328",
+        "word": "애로 사항",
+        "origin": "隘路事項",
+        "pos": "",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 일을 하는 데 장애가 되는 항목 또는 내용.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "difficulties; obstacles",
+                "trans_dfn": "An item or content that becomes an obstacle to doing something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66616",
+        "word": "애마",
+        "origin": "愛馬",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "자기가 아끼고 사랑하는 말.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "favorite horse; pet horse",
+                "trans_dfn": "A horse that one cherishes and loves."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66617",
+        "word": "애매모호하다",
+        "origin": "曖昧模糊하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "말이나 태도 등이 분명하지 않다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "vague; indefinite; ambiguous",
+                "trans_dfn": "A remark, attitude, etc., being uncertain."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66618",
+        "word": "애매하다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "잘못한 것이 없이 꾸중을 듣거나 벌을 받게 되어 억울하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "falsely charged; unjustly suspected",
+                "trans_dfn": "Feeling mortified because one has been scolded or punished even though one did nothing wrong."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66690",
+        "word": "애매하다",
+        "origin": "曖昧하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "태도나 상황이 분명하지 않다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "vague; indefinite; ambiguous",
+                "trans_dfn": "An attitude or situation being uncertain."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66691",
+        "word": "애먹다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "속이 상할 정도로 어려움을 겪다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "suffer hardships; have a hard time",
+                "trans_dfn": "To experience difficulties enough to feel distressed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66692",
+        "word": "애먹이다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "속이 상할 정도로 어려움을 겪게 하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "harass; annoy; give trouble",
+                "trans_dfn": "To make someone experience difficulties enough to feel distressed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25168",
+        "word": "애무",
+        "origin": "愛撫",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "이성을 사랑하여 어루만짐.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "caress; affectionate stroking",
+                "trans_dfn": "A state in which a man gently strokes a woman he loves, or vice versa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66693",
+        "word": "애무하다",
+        "origin": "愛撫하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "이성을 사랑하여 어루만지다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "caress; stroke affectionately",
+                "trans_dfn": "For a man to gently stroke a woman he loves, or vice versa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66694",
+        "word": "애물단지",
+        "origin": "애物단지",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(낮잡아 이르는 말로) 몹시 애태우거나 성가시게 구는 사람이나 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pain in the neck; source of anxiety; cause of trouble",
+                "trans_dfn": "(disparaging) A person or thing that is very annoying or bothersome."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66695",
+        "word": "애벌레",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "알에서 나와 다 자라지 않은 벌레.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "caterpillar",
+                "trans_dfn": "A worm that has come out of the egg and not yet grown into an adult."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25190",
+        "word": "애벌빨래",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "나중에 제대로 빨기 전에 먼저 대강 빨래를 함. 또는 그 빨래.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "rough washing; the first washing",
+                "trans_dfn": "A rough washing prior to proper laundering; or the laundry washed in such a manner."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66696",
+        "word": "애석",
+        "origin": "哀惜",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "슬프고 안타까움.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "grief; lamentation; regret",
+                "trans_dfn": "A state of feeling sad and pitiful."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66697",
+        "word": "애석하다",
+        "origin": "哀惜하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "슬프고 안타깝다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sorrowful; mournful",
+                "trans_dfn": "Sad and pitiful."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66698",
+        "word": "애송이",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "아직 어리거나 어려 보이는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "young person; immature person",
+                "trans_dfn": "A person who is still young or looks young."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "(비유적으로) 경험이나 실력이 부족한 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "greenhorn; novice; rookie",
+                "trans_dfn": "(figurative) A person who lacks experience or skills."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25199",
+        "word": "애어른",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "하는 짓이나 생각이 어른 같은 아이.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "precocious child; premature child",
+                "trans_dfn": "A child who acts or thinks like an adult."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "하는 짓이나 생각이 아이 같은 어른.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "adult baby; grown-up baby",
+                "trans_dfn": "An adult who acts or thinks like a child."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66699",
+        "word": "애완",
+        "origin": "愛玩",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "동식물이나 물건을 좋아해서 가까이에 두고 귀여워하거나 즐김.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "loving; cherishing; fondling",
+                "trans_dfn": "A state of being fond of plants, animals, or objects, and therefore keeping them close and cherishing them."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66700",
+        "word": "애완견",
+        "origin": "愛玩犬",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "좋아해서 가까이에 두고 귀여워하며 기르는 개.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet dog",
+                "trans_dfn": "A dog that you like, keep close to you, and raise with affection."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66702",
+        "word": "애완용",
+        "origin": "愛玩用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "좋아해서 가까이에 두고 귀여워하거나 즐기기 위한 것.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "keeping as a pet",
+                "trans_dfn": "Something that you like and keep close to you to cherish or enjoy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25202",
+        "word": "애용",
+        "origin": "愛用",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건이나 장소 등을 좋아하여 자주 사용함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "using regularly; preference; patronage",
+                "trans_dfn": "An act of loving a certain object or place and therefore using it frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66703",
+        "word": "애용되다",
+        "origin": "愛用되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건이나 장소 등이 좋게 느껴져 자주 사용되다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be used regularly; be patronized",
+                "trans_dfn": "For a certain object or place to be loved and used frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66704",
+        "word": "애용하다",
+        "origin": "愛用하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "물건이나 장소 등을 좋아하여 자주 사용하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "use regularly; patronize",
+                "trans_dfn": "To love a certain object or place and therefore use it frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25197",
+        "word": "애원",
+        "origin": "哀願",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "요청이나 소원을 들어 달라고 간절히 부탁함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "plea; pleading; imploring",
+                "trans_dfn": "Earnestly requesting to meet a person's demands or to be granted."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66705",
+        "word": "애원하다",
+        "origin": "哀願하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "요청이나 소원을 들어 달라고 간절히 부탁하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "plead; implore",
+                "trans_dfn": "To earnestly request to meet a person's demands or to be granted."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "601309",
+        "word": "애잔하다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "애처롭고 애틋하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sorrowful",
+                "trans_dfn": "To be pathetic and heartbreaking."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25198",
+        "word": "애장품",
+        "origin": "愛藏品",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "소중하게 간직하는 물건.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "cherished things; treasures",
+                "trans_dfn": "A thing that one cherishes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66706",
+        "word": "애절하다",
+        "origin": "哀切하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몹시 애처롭고 슬프다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "mournful; pathetic",
+                "trans_dfn": "Very pitiable and sad."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66708",
+        "word": "애제자",
+        "origin": "愛弟子",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "스승이 특별히 사랑하는 제자.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "one's favorite student",
+                "trans_dfn": "The student that a teacher particularly loves."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66709",
+        "word": "애주가",
+        "origin": "愛酒家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "술을 매우 좋아하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "elbow-bender; alcohol enthusiast; lover of alcoholic beverage",
+                "trans_dfn": "A person who loves and enjoys drinking alcoholic beverages."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66710",
+        "word": "애지중지",
+        "origin": "愛之重之",
+        "pos": "부사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "매우 사랑하고 소중히 여기는 모양.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "(love) blindly",
+                "trans_dfn": "In the state of loving and valuing someone or something highly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66711",
+        "word": "애지중지하다",
+        "origin": "愛之重之하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "매우 사랑하고 소중히 여기다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "treasure; cherish; coddle",
+                "trans_dfn": "To love and value someone or something highly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66712",
+        "word": "애착",
+        "origin": "愛着",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몹시 사랑하여 떨어질 수 없음. 또는 그런 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "attachment; affection",
+                "trans_dfn": "A state of loving something so much that he/she cannot live without it; or such a state of mind."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17393",
+        "word": "애착심",
+        "origin": "愛着心",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "몹시 사랑하거나 정이 들어 떨어질 수 없는 마음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "attachment; affection",
+                "trans_dfn": "A state of mind in which a person loves and becomes attached to something so that he/she cannot live without it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66713",
+        "word": "애창",
+        "origin": "愛唱",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 노래를 즐겨 부름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love to sing a song",
+                "trans_dfn": "An act of enjoying singing a certain song."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17394",
+        "word": "애창곡",
+        "origin": "愛唱曲",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "즐겨 부르는 노래.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "one's favorite song",
+                "trans_dfn": "A song that one particularly enjoys singing."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66714",
+        "word": "애창되다",
+        "origin": "愛唱되다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 노래가 즐겨 불리다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "(song) be loved",
+                "trans_dfn": "For a certain song to be sung frequently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66715",
+        "word": "애창하다",
+        "origin": "愛唱하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 노래를 즐겨 부르다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love to sing a song",
+                "trans_dfn": "To enjoy singing a certain song."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66716",
+        "word": "애처가",
+        "origin": "愛妻家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "아내를 아끼고 사랑하는 남편.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "faithful husband; doting husband",
+                "trans_dfn": "A husband who loves and cherishes his wife."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "601310",
+        "word": "애처롭다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "불쌍하여 마음이 슬프다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pathetic",
+                "trans_dfn": "One's heart is sad by pity."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66717",
+        "word": "애청자",
+        "origin": "愛聽者",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "라디오나 텔레비전의 특정 프로그램을 즐겨 듣거나 보는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "regular listener; regular viewer",
+                "trans_dfn": "A person who enjoys watching or listening to a particular program on television or radio ."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "14270",
+        "word": "애초",
+        "origin": "애初",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "맨 처음.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "the beginning; the start; the outset",
+                "trans_dfn": "The very beginning of something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17395",
+        "word": "애칭",
+        "origin": "愛稱",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "원래 이름 대신 친하고 다정하게 부르는 이름.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "pet name; nickname",
+                "trans_dfn": "A name used instead of real name for calling someone affectionately and endearingly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66718",
+        "word": "애타다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "매우 답답하거나 안타까워 속이 타다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "be anxious; be in suspense; be jittery",
+                "trans_dfn": "To feel sorry, frustrated, and distressed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66719",
+        "word": "애태우다",
+        "origin": "",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "매우 답답하게 하거나 안타깝게 하여 속을 태우다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "worry; bother; keep someone in suspense",
+                "trans_dfn": "To make someone feel sorry, frustrated, and distressed."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "속이 탈 정도로 매우 걱정하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "feel anxious; fidget; worry",
+                "trans_dfn": "To be concerned about someone or something so much as to feel tormented."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66720",
+        "word": "애통",
+        "origin": "哀痛",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "슬퍼하고 마음 아파함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "grief; lamentation; deploration",
+                "trans_dfn": "A state of feeling sad and heartbroken."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66721",
+        "word": "애통하다",
+        "origin": "哀痛하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "슬퍼하고 마음 아파하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "grieve; deplore; lament",
+                "trans_dfn": "To feel sad and heartbroken."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66722",
+        "word": "애통하다",
+        "origin": "哀痛하다",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "슬프고 마음이 아프다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "sad and painful",
+                "trans_dfn": "Feeling sad and heartbroken."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66723",
+        "word": "애틋하다",
+        "origin": "",
+        "pos": "형용사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "섭섭하고 안타까워 애가 타는 듯하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "anxious; regrettable",
+                "trans_dfn": "One's heart going to someone or something out of regret or sympathy."
+              }
+            ]
+          },
+          {
+            "sense_no": "",
+            "definition": "아끼고 위하는 정이 깊다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "affectionate",
+                "trans_dfn": "Having deep affection and love for someone."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66724",
+        "word": "애호",
+        "origin": "愛好",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사랑하고 좋아함.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; liking; fondness",
+                "trans_dfn": "An act of loving and liking something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "91967",
+        "word": "애호가",
+        "origin": "愛好家",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "어떤 사물이나 일을 사랑하고 좋아하는 사람.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "lover; fan; enthusiast",
+                "trans_dfn": "A person who loves a certain object or work and is devoted to it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66726",
+        "word": "애호하다",
+        "origin": "愛好하다",
+        "pos": "동사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "사랑하고 좋아하다.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "love; like; be fond of",
+                "trans_dfn": "To like and love something."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "17400",
+        "word": "애환",
+        "origin": "哀歡",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "슬픔과 기쁨.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "joy and sorrow; happiness and sadness",
+                "trans_dfn": "A collective term for joy and sorrow."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "66465",
+        "word": "애국가",
+        "origin": "愛國歌",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "대한민국의 국가.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "Korean national anthem",
+                "trans_dfn": "The national anthem of Korea."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "target_code": "25195",
+        "word": "애비",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "→ 아비",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "92295",
+        "word": "애숭이",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "→ 애송이",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "25201",
+        "word": "애시당초",
+        "origin": "애시當初",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "→ 애당초",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "79971",
+        "word": "애써-",
+        "origin": "",
+        "pos": "품사 없음",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(애써, 애써서, 애썼다, 애써라)→ 애쓰다",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "93111",
+        "word": "애쓰-",
+        "origin": "",
+        "pos": "품사 없음",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "(애쓰고, 애쓰는데, 애쓰니, 애쓰면, 애쓰는, 애쓴, 애쓸, 애씁니다)→ 애쓰다",
+            "translations": []
+          }
+        ]
+      },
+      {
+        "target_code": "23039",
+        "word": "갓난애",
+        "origin": "",
+        "pos": "명사",
+        "senses": [
+          {
+            "sense_no": "",
+            "definition": "태어난 지 얼마 안 된 아이.",
+            "translations": [
+              {
+                "trans_lang": "영어",
+                "trans_word": "newborn baby",
+                "trans_dfn": "A baby born not long ago."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+# Hanja dictionary data exploration report
+
+_8 test characters; generated 2026-05-31 20:32_
+
+> **Note on stdict search**: plain `q=학` returns only the 6 single-syllable entries. To surface compound words containing the syllable (essential for the hanja-chain analysis), we search with `*학*` wildcards. Pages capped at 4 per (char, reading) — sample size, not exhaustive collection.
+
+## Source 1 — rycont/hanja-grade-dataset (GitHub CSV)
+
+- Rows: **0**
+- Columns: `[]`
+
+### Field population
+
+### Sample record (학)
+```json
+null
+```
+
+### Coverage on our 8 test chars
+- **學**: ✗ MISSING
+- **不**: ✗ MISSING
+- **藝**: ✗ MISSING
+- **例**: ✗ MISSING
+- **四**: ✗ MISSING
+- **死**: ✗ MISSING
+- **愛**: ✗ MISSING
+- **龍**: ✗ MISSING
+
+## Source 2 — 표준국어대사전 (stdict scrape)
+
+### Per-character coverage (total returned vs. Hanja-matched)
+
+| Hanja | Readings | Total unique returned | Matched | Noise % |
+|---|---|---:|---:|---:|
+| 學 | 학 | 200 | 179 | 10% |
+| 不 | 불/부 | 399 | 82 | 79% |
+| 藝 | 예 | 200 | 59 | 70% |
+| 例 | 례/예 | 400 | 65 | 83% |
+| 四 | 사 | 200 | 0 | 100% |
+| 死 | 사 | 200 | 8 | 96% |
+| 愛 | 애 | 200 | 56 | 72% |
+| 龍 | 용 | 200 | 3 | 98% |
+
+### Field population across all matched entries
+- `word`: 452/452 (100%)
+- `word_no`: 452/452 (100%)
+- `hanja_raw`: 452/452 (100%)
+- `pos`: 245/452 (54%)
+- `sense`: 20/452 (4%)
+- `definition_ko`: 452/452 (100%)
+
+### Sample stdict entry (學)
+```json
+{
+  "word": "가공^야금학",
+  "word_no": "311",
+  "hanja_raw": "加工冶金學",
+  "pos": "",
+  "sense": "",
+  "definition_ko": "『공업』 금속에 기계적 힘이 가해졌을 경우에 나타나는 일련의 현상을 연구하는 학문."
+}
+```
+
+### POS distribution (matched entries, all chars)
+- `(none)`: 207
+- `명사`: 205
+- `동사`: 32
+- `형용사`: 7
+- `Ⅰ`: 1
+
+Noun/verb share: **237/452 = 52%**
+Non-N/V (filter candidates): **48%**
+
+### Hanja notation on compound words (CRITICAL)
+- Compound (len > 1) matched entries: **451**
+- With non-empty `hanja_raw`: **451 (100%)**
+- `hanja_raw` length ≥ word length: **90/451**
+
+Sample compound-word entries:
+  - 가공^야금학 (加工冶金學)  pos=—
+  - 가금-학 (家禽學)  pos=명사
+  - 가두^문학 (街頭文學)  pos=—
+  - 가스^화학^공업 (gas化學工業)  pos=—
+  - 가전-학 (家傳學)  pos=명사
+  - 가정지학 (家庭之學)  pos=명사
+  - 가정-학 (家政學)  pos=명사
+  - 가정-학 (家庭學)  pos=명사
+
+### 四 vs 死 collision check
+- 四 matched entries: 0
+- 死 matched entries: 8
+- Overlap (same word_no in both filtered sets): **0**
+- Total unique results for 사-search (from 四 collection): 200
+
+### Multi-reading handling (不, 例)
+
+**不**
+  - reading `불`: 200 entries returned, 70 match 不
+  - reading `부`: 200 entries returned, 12 match 不
+
+**例**
+  - reading `례`: 200 entries returned, 65 match 例
+  - reading `예`: 200 entries returned, 0 match 例
+
+## Source 3 — krdict (한국어기초사전 Open API)
+
+### Per-character coverage (exact vs. include)
+
+| Hanja | exact total | exact matched | include total | include matched |
+|---|---:|---:|---:|---:|
+| 學 | 100 | 89 | 100 | 89 |
+| 不 | 200 | 86 | 200 | 86 |
+| 藝 | 100 | 9 | 100 | 9 |
+| 例 | 198 | 48 | 198 | 48 |
+| 四 | 100 | 8 | 100 | 8 |
+| 死 | 100 | 5 | 100 | 5 |
+| 愛 | 100 | 45 | 100 | 45 |
+| 龍 | 100 | 8 | 100 | 8 |
+
+### Field population — exact-matched entries
+- `target_code`: 298/298 (100%)
+- `word`: 298/298 (100%)
+- `origin`: 298/298 (100%)
+- `pos`: 289/298 (96%)
+- Senses w/ Korean def: 351/351
+- Senses w/ English translation: 351/351 (100%)
+
+### Sample krdict entry (學)
+```json
+{
+  "target_code": "88476",
+  "word": "-학",
+  "origin": "學",
+  "pos": "접사",
+  "senses": [
+    {
+      "sense_no": "",
+      "definition": "‘학문’의 뜻을 더하는 접미사.",
+      "translations": [
+        {
+          "trans_lang": "영어",
+          "trans_word": "-hak",
+          "trans_dfn": "A suffix used to mean \"a branch of study.\""
+        }
+      ]
+    }
+  ]
+}
+```
+
+### krdict POS distribution (matched, exact)
+- `명사`: 209
+- `형용사`: 35
+- `동사`: 21
+- `관형사`: 11
+- `(none)`: 9
+- `부사`: 7
+- `접사`: 4
+- `수사`: 2
+
+## Cross-source overlap (stdict ∩ krdict, by Korean word)
+
+| Hanja | stdict matched | krdict matched (exact) | overlap | krdict English % |
+|---|---:|---:|---:|---:|
+| 學 | 177 | 84 | 0 | 100% |
+| 不 | 82 | 82 | 0 | 100% |
+| 藝 | 58 | 8 | 0 | 100% |
+| 例 | 65 | 46 | 1 | 100% |
+| 四 | 0 | 6 | 0 | 100% |
+| 死 | 8 | 5 | 0 | 100% |
+| 愛 | 52 | 44 | 0 | 100% |
+| 龍 | 3 | 8 | 0 | 100% |
+
+**Average English-translation rate among krdict matches: ~100%**
+
+Extrapolation: at this average, ~100% of krdict-found example words across 1800 characters would have English; the remainder would need LLM translation fallback.
+
+**Overall overlap: 1 / stdict 445 (0% of stdict words appear in krdict).**
+**Overall: 1 / krdict 283 (0% of krdict words appear in stdict).**
+
+## Surprises & schema-design flags
+
+- ✓ stdict compound words populate hanja_raw 100% of the time — character-chain build is feasible from this source.
+- ✓ 四 / 死 separate cleanly via hanja_raw filter (no word_no overlap).
+- POS filter: 47% of stdict entries are non-noun/verb. If we want only N/V we should filter early.
+- krdict returns roughly 0.64× as many entries as stdict on these 8 chars — stdict is the bigger pool, krdict is the curated learner-dictionary subset.
+- 不: reading `불` adds 199 unique results, `부` adds 199 — multi-reading queries are NOT redundant; must query each reading.
+- 例: reading `례` adds 200 unique results, `예` adds 200 — multi-reading queries are NOT redundant; must query each reading.
