@@ -17,3 +17,8 @@ raw_responses/
 
 # output logs
 scrape.log
+# local run output / scratch
+run.stdout
+run.stderr
+prompt-output.txt
+.DS_Store

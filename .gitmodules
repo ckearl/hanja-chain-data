@@ -1,0 +1,3 @@
+[submodule "hanja-grade-dataset"]
+	path = hanja-grade-dataset
+	url = https://github.com/rycont/hanja-grade-dataset.git

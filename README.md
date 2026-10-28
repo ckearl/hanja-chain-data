@@ -1,7 +1,17 @@
-# Hanja dictionary build pipeline
+# Hanja Chain — data pipeline
 
 Builds `hanja.sqlite` — a library of Hanja character metadata + compound words
 with Korean definitions and (where krdict has them) English translations.
+
+This is the data side of **[Hanja Chain](https://github.com/ckearl/hanja-chain-app)**, a
+mobile app for learning Hanja through the Korean words that use them. The app ships a
+trimmed copy of this database. The current core build covers 1,799 characters and
+312k compound words, scraped from 표준국어대사전 and merged with 한국어기초사전, the
+한국어문회 grade lists and Unicode Unihan.
+
+The built database and the multi-GB scrape caches aren't committed. Run the pipeline
+to regenerate them. `exploration_report.md` and `explore.py` are the initial survey of
+the sources that shaped `PLAN.md`.
 
 - **Core scope** (`--scope core`): the 한문교육용 기초한자 (~1,799 chars; what Korean
   students learn). Ships first.
@@ -14,7 +24,8 @@ variant-glyph data-quality notes.
 ## Prereqs
 
 ```bash
-export KRDICT_API_KEY=...        # required for stage 4 (English translations)
+git submodule update --init      # hanja-grade-dataset (rycont, pinned)
+export KRDICT_API_KEY=...        # required for stage 4 (English translations); free key from krdict.korean.go.kr/openApi
 pip install requests beautifulsoup4
 ```
 
@@ -102,3 +113,19 @@ indexed. `compounds.english_gloss` is the concise translation (e.g. "university"
 that have either. `character_compounds.position` is the 0-based index of the
 character within the compound's Hanja chain. See `pipeline/build_sqlite.py` for
 the exact DDL.
+
+## Credits & licenses
+
+Pipeline code: [MIT](LICENSE). The data it collects belongs to its sources:
+
+| Source | Used for | Terms |
+|---|---|---|
+| 국립국어원 [표준국어대사전](https://stdict.korean.go.kr/) | compound words, Hanja forms, Korean definitions | CC BY-SA 2.0 KR |
+| 국립국어원 [한국어기초사전](https://krdict.korean.go.kr/) (Open API) | learner vocabulary, English translations | CC BY-SA 2.0 KR |
+| [Korean Wikipedia](https://ko.wikipedia.org/wiki/대한민국_중고등학교_기초한자_목록) | 1,800 basic-education Hanja list (`data/core_1800.csv`) | CC BY-SA 4.0 |
+| 한국어문회, via [rycont/hanja-grade-dataset](https://github.com/rycont/hanja-grade-dataset) (submodule) | grades, readings, radicals, strokes | © 한국어문회 |
+| [Unicode Unihan](https://www.unicode.org/charts/unihan.html) | English character glosses | Unicode License v3 |
+
+The sample files in `parsed/` and anything you build with this pipeline inherit those
+terms. Databases built from it are CC BY-SA. Scraping is rate-limited (`DELAY` in
+`pipeline/sources.py`); please keep it polite.

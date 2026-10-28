@@ -2,7 +2,7 @@
 
 ## Context
 
-We've finished the exploration phase (`/Users/toph/projects/hanja-app/exploration_report.md`) and confirmed:
+We've finished the exploration phase (`exploration_report.md`) and confirmed:
 
 - **rycont's 5,978-char CSV** is solid as a master list (100% field population), with one known gap: 不 and a few other basic chars aren't graded by 한국어문회 so they're missing.
 - **stdict** (표준국어대사전) holds compound-word coverage but requires `*reading*` wildcards, paginates in 가나다 order, and `hanja_raw` is populated 100% on compounds (the critical answer that makes character-chain building possible).
@@ -163,7 +163,7 @@ Emit `hanja.sqlite` at project root.
 ## Files to create
 
 ```
-/Users/toph/projects/hanja-app/
+hanja-chain-data/
 ├── pipeline/
 │   ├── __init__.py
 │   ├── sources.py              # extracted from explore.py: STDICT/krdict clients + parsers
